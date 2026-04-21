@@ -1,1 +1,2 @@
-# genart-homka-create--erounautic-server
+# GeniusArt amd Homka create aerounautic Minecraft server
+Files, Ideas and etc
