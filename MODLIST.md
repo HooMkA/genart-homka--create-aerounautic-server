@@ -5,6 +5,13 @@
 - [[# Client Side & Optimization]]
 - [[#QoL]]
 ___
+
+# Maybe we ned it, yeah..?
+**?** [ench. schematic cannon](https://modrinth.com/mod/create-enhanced-schematicannon) 
+Интергация схематической пушки с большим количеством модов 
+
+___
+
 # CORE моды
 1. [x] Stable(For Aero)
 ## Create
