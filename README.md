@@ -6,4 +6,4 @@ Files, Ideas and etc
 # Ссылки на записки
 [Список модов](MODLIST.md)
 
-[Полезные ссылки](<Ideas, Docs, etc/Usefull_links>) 
+[Полезные ссылки](<Ideas, Docs, etc/Usefull_links.md>) 
