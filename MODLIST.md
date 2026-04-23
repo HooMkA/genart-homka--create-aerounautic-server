@@ -1,5 +1,5 @@
 # Оглавление
-- [[#CORE моды]]
+- [CORE моды](#core-моды)
 	- [[#Create]]
 - [[#API]]
 - [[# Client Side & Optimization]]
