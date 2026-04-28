@@ -13,3 +13,8 @@ Back port voxy form 1.21.1
 Лютый плейлист по kubejs  [All kubejs 1.20.1](https://youtube.com/playlist?list=PLbocrCqD3FS510hbkdQ_pHxB8qRh-8AA7&si=Yi9d5cKHkwS-UA9H)
 
 Кубджс и Криэйт [kubejs Create](https://youtube.com/playlist?list=PLSgGpe_7fp5Y01N8LLt3sACfLAA3IA8HY&si=RdIRfdhS_Wbm-vSW)
+
+
+# КОНФИГИ
+
+- [Tectonic](https://github.com/Apollounknowndev/tectonic/wiki/Config)
