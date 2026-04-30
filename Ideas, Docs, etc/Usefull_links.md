@@ -18,3 +18,8 @@ Back port voxy form 1.21.1
 # КОНФИГИ
 
 - [Tectonic](https://github.com/Apollounknowndev/tectonic/wiki/Config)
+
+
+# По гитхабу
+
+[База](https://gist.github.com/LimaniBhavik/798e01f45e88bbd7b2ad5b5d1dc4ebf5)
