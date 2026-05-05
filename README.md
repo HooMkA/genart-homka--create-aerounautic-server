@@ -1,13 +1,19 @@
 # !!!!ЭТО ДЕВ ВЕТКА, ТУТ ДЕЛАЕМ ЧТО ХОТИ, ПОТОМ ЗАВЕРНУ ЕЁ!!!
 <br>
-# GeniusArt amd Homka create aerounautic Minecraft server
-Files, Ideas and etc
+
+# GeniusArt amd Homka create aerounautic Minecraft server  
 <br>
 
-ОСАС  
+**[ТУДУ ЛИСТ!!](TODO-LIST.md)**
+
+<br>
+
+Доп Репы:
+- [Клиентская сборка](https://github.com/HooMkA/create-aerial-client)
+- [Серверная сборка](https://github.com/HooMkA/create-aerial-serverside)  
 <br>  
 
- **[Ту ду лист!!](TODO-LIST.md)**
+
 
 # Ссылки на записки
 - [Список модов](MODLIST.md)
