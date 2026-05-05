@@ -4,7 +4,10 @@
 Files, Ideas and etc
 <br>
 
-ОСАС
+ОСАС  
+<br>  
+
+ **[Ту ду лист!!](TODO-LIST.md)**
 
 # Ссылки на записки
 - [Список модов](MODLIST.md)
