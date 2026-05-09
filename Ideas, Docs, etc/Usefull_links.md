@@ -10,7 +10,7 @@ ___
 # Просто полезное
 
 - [Полезные для разработки моды](https://gist.github.com/thanasishadow/173678b2b2abef8a4949e6a6a7422a76)
-
+- [Можно спиздить моды для нашей сборки](https://modrinth.com/modpack/create_plus/version/6.0.0_Early_Alpha_D)
 
 # ГАЙДЫ
 
