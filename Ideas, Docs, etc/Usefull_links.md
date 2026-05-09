@@ -12,6 +12,8 @@ ___
 - [Полезные для разработки моды](https://gist.github.com/thanasishadow/173678b2b2abef8a4949e6a6a7422a76)
 - [Можно спиздить моды для нашей сборки](https://modrinth.com/modpack/create_plus/version/6.0.0_Early_Alpha_D)
 
+- [Подборка оптимизационных модов](https://optifine.alternatives.lambdaurora.dev/)
+
 # ГАЙДЫ
 
 - Лютый плейлист по kubejs  [All kubejs 1.20.1](https://youtube.com/playlist?list=PLbocrCqD3FS510hbkdQ_pHxB8qRh-8AA7&si=Yi9d5cKHkwS-UA9H)
