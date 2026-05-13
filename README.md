@@ -1,25 +1,23 @@
-# !!!!ЭТО ДЕВ ВЕТКА, ТУТ ДЕЛАЕМ ЧТО ХОТИ, ПОТОМ ЗАВЕРНУ ЕЁ!!!
+# Ветка с KubeJS!!!
 <br>
 
 # GeniusArt amd Homka create aerounautic Minecraft server  
 <br>
 
-**[ТУДУ ЛИСТ!!](TODO-LIST.md)**
 
-<br>
+# README KubeJS`а
+Find out more info on the website: https://kubejs.com/
 
-Доп Репы:
-- [Клиентская сборка](https://github.com/HooMkA/create-aerial-client)
-- [Серверная сборка](https://github.com/HooMkA/create-aerial-serverside)  
-<br>  
+Directory information:
 
+assets - Acts as a resource pack, you can put any client resources in here, like textures, models, etc. Example: assets/kubejs/textures/item/test_item.png
+data - Acts as a datapack, you can put any server resources in here, like loot tables, functions, etc. Example: data/kubejs/loot_tables/blocks/test_block.json
 
+startup_scripts - Scripts that get loaded once during game startup - Used for adding items and other things that can only happen while the game is loading (Can be reloaded with /kubejs reload_startup_scripts, but it may not work!)
+server_scripts - Scripts that get loaded every time server resources reload - Used for modifying recipes, tags, loot tables, and handling server events (Can be reloaded with /reload)
+client_scripts - Scripts that get loaded every time client resources reload - Used for JEI events, tooltips and other client side things (Can be reloaded with F3+T)
 
-# Ссылки на записки
-- [Список модов](MODLIST.md)
+config - KubeJS config storage. This is also the only directory that scripts can access other than world directory
+exported - Data dumps like texture atlases end up here
 
-- [Полезные ссылки](<Ideas, Docs, etc/Usefull_links.md>)  
-<br>
-
-# Важное
-- [Таблица модов](https://docs.google.com/spreadsheets/d/1kzLl2CJl6i0xbvlzBhDTpENlnn2v9Sf9blgcR0Uoxj4/edit?gid=0#gid=0)
+You can find type-specific logs in logs/kubejs/ directory
