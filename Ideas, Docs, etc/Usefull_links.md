@@ -13,6 +13,7 @@ ___
 - [Можно спиздить моды для нашей сборки](https://modrinth.com/modpack/create_plus/version/6.0.0_Early_Alpha_D)
 
 - [Подборка оптимизационных модов](https://optifine.alternatives.lambdaurora.dev/)
+- [Ява Аргументы](https://github.com/TheUsefulLists/usefulmods/blob/main/JavaArgumentsOptimization.md)
 
 # ГАЙДЫ
 
