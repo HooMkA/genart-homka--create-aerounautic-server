@@ -1,5 +1,14 @@
 # !!!!ЭТО ДЕВ ВЕТКА, ТУТ ДЕЛАЕМ ЧТО ХОТИ, ПОТОМ ЗАВЕРНУ ЕЁ!!!
-<br>
+<br>  
+<br>  
+<br>  
+
+## Быстрые заметки, потом удалю
+- Another Furniture мод докинуть
+- бляяяя забыл(
+
+
+
 
 # GeniusArt amd Homka create aerounautic Minecraft server  
 <br>
