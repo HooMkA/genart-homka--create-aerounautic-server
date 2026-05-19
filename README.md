@@ -26,7 +26,7 @@
 
 Доп Репы:
 - [Ветка с KubeJS](https://github.com/HooMkA/genart-homka--create-aerounautic-server/tree/kubejs)
-- [Клиентская сборка](https://github.com/HooMkA/create-aerial-client)
+- [Клиентская сборка](https://github.com/HooMkA/genart-homka--create-aerounautic-server/tree/main-client) ([]())
 - [Серверная сборка](https://github.com/HooMkA/create-aerial-serverside)  
 <br>  
 
