@@ -7,7 +7,7 @@
 
 ### Если есть **git** то:
 ```bash
-git clone --branch main-client --single-branch git@github.com:HooMkA/genart-homka--create-aerounautic-server.git minecraft
+git clone --branch dev-client --single-branch git@github.com:HooMkA/genart-homka--create-aerounautic-server.git
 ```  
 А вообще потом норм допишу
 
