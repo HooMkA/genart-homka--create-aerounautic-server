@@ -4,8 +4,10 @@
 <br>  
 
 ## Быстрые заметки, потом удалю
-- Another Furniture мод докинуть
-- Забилдить новый патч Вокси и сервака
+
+
+<br>  
+
 ## доп моды
 - https://modrinth.com/mod/rolled-homongenous-forked
 - https://modrinth.com/mod/cbc-compact-mount
