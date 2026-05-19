@@ -15,6 +15,12 @@ ___
 - [Подборка оптимизационных модов](https://optifine.alternatives.lambdaurora.dev/)
 - [Ява Аргументы](https://github.com/TheUsefulLists/usefulmods/blob/main/JavaArgumentsOptimization.md)
 
+<br>  
+
+# По Аеронавтику
+
+- [Сайт с кучей полезностей createmod](https://createmod.com/) (не только по аеронавтику)
+
 # ГАЙДЫ
 
 - Лютый плейлист по kubejs  [All kubejs 1.20.1](https://youtube.com/playlist?list=PLbocrCqD3FS510hbkdQ_pHxB8qRh-8AA7&si=Yi9d5cKHkwS-UA9H)
