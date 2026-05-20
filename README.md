@@ -9,9 +9,9 @@
 <br>  
 
 ## доп моды
-- https://modrinth.com/mod/rolled-homongenous-forked
-- https://modrinth.com/mod/cbc-compact-mount
-- https://modrinth.com/mod/create-big-cannons-equally-opposite
+- [x] https://modrinth.com/mod/rolled-homongenous-forked
+- [x] https://modrinth.com/mod/cbc-compact-mount
+- [x] https://modrinth.com/mod/create-big-cannons-equally-opposite
 - 
 
 
