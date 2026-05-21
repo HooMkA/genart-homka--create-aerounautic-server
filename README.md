@@ -5,7 +5,11 @@
 
 ## VOXY
 https://github.com/m3t4f1v3/voxy  
-https://github.com/kyanbasu/VoxyServer#
+https://github.com/kyanbasu/VoxyServer#  
+
+<br>  
+
+Забросил сюда оба сбилженных моды, обязаны нормально работать суки падлы они
 
 ## Быстрые заметки, потом удалю
 
