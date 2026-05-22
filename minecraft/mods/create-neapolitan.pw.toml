@@ -1,0 +1,13 @@
+name = "Create: Neapolitan"
+filename = "create_neapolitan-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCKXQ9Cu/versions/2tEK61Dn/create_neapolitan-1.0.0.jar"
+hash-format = "sha512"
+hash = "ef204d6f9867dcbafdaa2d641c5066991bb8c9dd25c6c60e9fced9091a9a0ef3af90f3678c695037e467ce9864a2be6c4fb2c54c13be766648d682377af7d424"
+
+[update]
+[update.modrinth]
+mod-id = "uCKXQ9Cu"
+version = "2tEK61Dn"
