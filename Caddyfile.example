@@ -1,0 +1,16 @@
+example.com {
+
+    encode gzip zstd
+
+    # PACKWIZ
+    handle_path /pack/* {
+        root * /srv/pack
+        file_server
+    }
+
+    # DOCS
+    handle {
+        root * /srv/site
+        file_server
+    }
+}
