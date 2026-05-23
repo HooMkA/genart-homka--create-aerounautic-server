@@ -1,0 +1,35 @@
+services:
+  docs:
+    image: squidfunk/mkdocs-material:9
+    container_name: mkdocs-neo
+    volumes:
+      - ./:/docs
+    command: build
+
+  caddy:
+    image: caddy:latest
+    container_name: caddy-neo
+
+    ports:
+      - "80:80"
+      - "443:443"
+
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+
+      # mkdocs output
+      - ./site:/srv/site
+
+      # packwiz
+      - ./minecraft:/srv/pack
+      - ./extras:/srv/extras
+      
+      # persistent ssl
+      - caddy_data:/data
+      - caddy_config:/config
+
+    restart: unless-stopped
+
+volumes:
+  caddy_data:
+  caddy_config:
