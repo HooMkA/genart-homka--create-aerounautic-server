@@ -358,6 +358,11 @@ hash = "1e49251a57f6363ec88f7e04df5b001b658c9435f5bf5b2ed3b3bbb4693bb3ab"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-burner-fuel.pw.toml"
+hash = "5d9f69c94ce661ff1b26b9d24d05a8f2458b892761f976735426867f2bf2caf7"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "8fe5d200e7be3288c15ff8ff3298f592212bfc689b4e702cbd6df523ea2dc361"
 metafile = true
@@ -655,6 +660,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
 metafile = true
 
 [[files]]
