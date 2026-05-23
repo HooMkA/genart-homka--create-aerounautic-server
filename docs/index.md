@@ -2,7 +2,7 @@
 В Prism/PolyMC создаём инстанс 1.21.1 и Neoforge 21.1.230(bтам чуть ниже покрутить и увидете лоадеры)  
 Далее скачиваем [ТЫК СЮДА!](https://pack.jolly-roger.digital/extras/packwiz-installer-bootstrap.jar), И забрасываем его в папку `minecraft` и ВАЖНО добавляем в custom commands:  
 ```env
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://hoomka.github.io/genart-homka--create-aerounautic-server/minecraft/pack.toml
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pack.jolly-roger.digital/pack/pack.toml
 ```
 после чего можно спокойно запускать  
 
