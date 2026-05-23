@@ -1,6 +1,6 @@
 name = "BlueMap Offline Player Markers (Forge/NeoForge)"
 filename = "bluemapofflineplayermarkers-neoforge-1.4.2-release.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LFSk55jv/versions/uJ8wzeOM/bluemapofflineplayermarkers-neoforge-1.4.2-release.jar"
