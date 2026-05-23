@@ -1,12 +1,160 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
+hash = "b175a86da129f45b6e22b506e5779058f71f15c608a28032ed6abd6f6cf3c862"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cold_eye.json"
+hash = "aa6ebff3c033b5b28da38781f8ca470ba7214317841ccd29ca5759f681e28e5f"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/corrupted_eye.json"
+hash = "63b7be12d7e3a941b3ffec3cad005e773fb68ba1d429f3d8d920a087754fc9f2"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cryptic_eye.json"
+hash = "ef23863e4d876d0aa07af8d57f5d561b90ca72ef47441321fee2afdcf6202624"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/cursed_eye.json"
+hash = "facf7664aa91ceac55097d4088c4c3bfff0fb8a3454f70eb010ff6e8bb4c4dca"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/evil_eye.json"
+hash = "f5c592ff7652da20f93acc2137675a1cee29b4ecb905f56e9b35dadebd396e65"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/exotic_eye.json"
+hash = "b2bc84a480810af68e8c555b366fff36ecb67e6eeda2782210eb38d15c957353"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/guardian_eye.json"
+hash = "ccfd933668a587da334a9859418b782cadb08d77fa37a5aa77a8552e18c3c6dc"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/lost_eye.json"
+hash = "b4e09de408b552f2dd4ec193104763640cf65fc80e96bd21ca1b0613249ec583"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/magical_eye.json"
+hash = "3a5ff15b3cc9b166e363ea056fb54472fb3d620bf1e282a1115e40a785ce23a6"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/nether_eye.json"
+hash = "98cc480bb615d229975169281b74904c970de3ae82129552e258ae235aadbadb"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/old_eye.json"
+hash = "8c99d539eaa659f69ba5401c2ebf75c163727e0d9af2e393828e6257d068246c"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/rogue_eye.json"
+hash = "b232ae64751fe6a9c324e8e367738f41de2335d7ff5c5c15b76eb76ae9cee5e2"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/undead_eye.json"
+hash = "a9a571a279c7c20672d48aa7fb2546c461868cf1b80962e1367409f104c63ee8"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/witch_eye.json"
+hash = "41de53ad16ce01009a92b3d9f96e35aeac8a68a3de588d8fd9374b33f343a088"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/Eyes/wither_eye.json"
+hash = "e7e0765becbffc014dc81c708a2c826ff1c90d3e3c676f90c992f4c9284bcab1"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/endrem.json"
+hash = "7387977cc05adbbf4a8bb9b82819f6b520d063033157bcaa6ed00ae72d5b6d82"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "0dea7cb90635793031da69995cef8efe30f6dd96fe91bd2cc3804f858ba6e79d"
 
 [[files]]
 file = "config/figura.json"
 hash = "f0bd22b649de22faf806574a0d9e7dad2058c92c666a29a4564a333913227bf5"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "8a38fae9f2aca8c354166d74a4044c3433e6125cdb8b7c4b148b2963306a30ea"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/1.snbt"
+hash = "f7e4b283911a60ecd61714687cadcfe16d6ffa0b8137a8d22d5d47ceb3e6f655"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/144FC01EC8F89384.snbt"
+hash = "83d0d74c686146305059aa49edd399eafd4e12f60bea43a434a0607b90fd3dcd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2D96F607DE4974AF.snbt"
+hash = "bb5c02e12ed8fedcc7d5e1f625801991c0b53a3a26aade7d0d65a57c3188df95"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/3.snbt"
+hash = "55cd0538586e20c942fa70148cd357c9660babab41248d8b816bf5f7ac496eb2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4.snbt"
+hash = "49781122d3c68e6982b6f41b78bfc99c1635012446de5a9d2313c972559186d4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4AF36F3F4DFD58E0.snbt"
+hash = "2d2b9b7eee8913d9cd86c7e0cc6f01c32ba1371a4a67bcf81f049f92ad46d4a6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4_4C67B597AB45D9D4.snbt"
+hash = "7eca30782b0727e0be15be62e4d1ab42b7228eda882298af04d6bdeb87e5f503"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5.snbt"
+hash = "ecb0f1b7e59f1b6caede64e82468f8094a9971b4a4d2344d45dae6725fa07cb9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5605C8C562E120EE.snbt"
+hash = "a0e4fda47ba1c4de34ababe0309c2d8cb35a55fd3b2537c5e46a2f6b2b9cab92"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/aeronautics.snbt"
+hash = "1ca4de9b61646ed9f4266f3c692d89c9252454376d4e2e1a32a5f3932ddbb3b7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_440277F915DFCEB8.snbt"
+hash = "4261cfc280d433faa49729602cff9988d4fa7bb7942a2e664b8181f08b9a5db9"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "b17c227294d7c632b46daabf7a81e512bf266e5d0c68e9969e4f9476c5cec6e3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "89c4b7319b90388e147d889c47540c3958004e70f86d4231e26236123de35998"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru.snbt"
+hash = "51081c314354910ff19906aa0eb4c7243f79ce6af57cdcce5e1f5423fefde151"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1BC377CF7DB0B217.snbt"
+hash = "bc8907f69065acf0dd13fec0fb922ce9df45a949276d980a31152db397b08d0b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/48E5FAFD45FFF238.snbt"
+hash = "a42d2f4ff042b12804c220546fbdcd774c4db10180ae77ce5bad037416f75ac2"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/582C28B4960E70F9.snbt"
+hash = "8500e75dc536255fdff719060860308075238eda886645cd5c064b8b4bc78cdb"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/65F5978C49103D7A.snbt"
+hash = "6ccaeb2de048b85bccddc1c5f990cc7dc98717317ed0cc630753dc1c015d0308"
 
 [[files]]
 file = "config/iceandfire/iaf-client.json"
@@ -113,16 +261,152 @@ file = "kubejs/config/web_server.json"
 hash = "61b3bb13b897fa2bacefec6b7a357d2f10df17be72ee2e3f80297e2224afb18d"
 
 [[files]]
+file = "kubejs/server_scripts/aircraft-recycling.js"
+hash = "13a0223b4163cb569c83fd868daa0f8c8c521e3afcf788ac8ad1094bb4d7397c"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/mechanical_crafting_immersive_aircraft_industrial_gears.js"
+hash = "80adfcd0a108ba756af33df636b74c1aa8dfd227881a7743b70e794932eba0fb"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/mechanical_crafting_tfmg_radial_engine.js"
+hash = "6a2d9199404f3180e7041350b8f87952484594b059b6ef7f861ebf88afc9402a"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_create_mechanical_crafter.js"
+hash = "9fbf816869c66a4b0e45bcb0397e561cce8e92dbc610127c9acb7831a6d1d6c4"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_iceandfire_dragonforge_fire_core_disabled.js"
+hash = "4bea544c6f174be0938cac3a8fe4bf7ca437d3e41f9bad4439846ea00dfcdf71"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_iceandfire_dragonforge_ice_core_disabled.js"
+hash = "4530811738f64ccdc0d272d78682a58d30417d038be9b783789a1b102faadd9f"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_iceandfire_dragonforge_lightning_core_disabled.js"
+hash = "205ff33641a7b82765990ecf9ddd01139574e25b9ac97ef7ffa72fe36e81fbbd"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_minecraft_ender_eye.js"
+hash = "18ddc881d4c807b3269ef8a8cefa2a32469dc233b7079c3b9f9d467aa2166fdf"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_tfmg_fireproof_bricks.js"
+hash = "d9dfa32479d08fe1be809a0648ade585a6f0d0d67642a8d6c30d5b796d332f43"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_tfmg_industrial_mixer.js"
+hash = "4321793c2cebc7653a239dce49e599d71c2b245aa97176639f54ed40b639e4a7"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_crafting_kinetics_mechanical_crafter.js"
+hash = "2e161ec6aad5aa59bf66bb04b22c296da47ac38eb04f67203ef93e066ed27754"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_splashing_gravel.js"
+hash = "db11f5ce75c15ee1ed1ae83a97b6a3597e4057d62954ac4d44a5e3bc94a3dca1"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_splashing_red_sand.js"
+hash = "b4b688301b808f10f3d4fd7e6e11ed69ae77d90a1ce78b7fd5a085612ab7e637"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_splashing_soul_sand.js"
+hash = "d31d445f056ffdd9168b962dbebe1ff2f6db138c414ea712a09e9f29de375815"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_dndesires_seething_ender_eye_from_ender_pearl.js"
+hash = "a74d45cbde22abe1a72f3c7aa9d776e31c031523ff17f16e47973357a5230286"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_endrem_exotic_eye.js"
+hash = "1e0f928e98736d992321f91ff9134bbbf8553788481e7c741da5152848c764ce"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_endrem_undead_eye.js"
+hash = "b5c59eacd5c6e5322c47f3dd6f182c4287d01729199a441fd6e973cbc49efce5"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_endrem_witch_eye.js"
+hash = "8f1fa59ae5da54ad19489fe5b9ce0408d215de9129c74896ca18ab525657ad17"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_dragonsteel_fire_ingot.js"
+hash = "06cc2448ed4d78b7d48a4ce6ae655c8eb84db5bec69ffd2b233e291d0afd6014"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_dragonsteel_ice_ingot.js"
+hash = "d1ea462f28c3ba240eef6b05c5001863663c8770a812a42ef3615a4d613504f1"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_dragonsteel_lightning_ingot.js"
+hash = "0a1f088ebadb177bb1a8319db4fb54973a98655720bc9cc36182897b8517cc3f"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_fire_core_disabled.js"
+hash = "b686e3799b87ff93cd71d2e03b601cd3b5fa14725ebfdc0c1d2b2ae656bfeb26"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_ice_core_disabled.js"
+hash = "1e0c84e2c83eab2d824d48ee5c2ecd2741cba7cb14e39d643bb87f95cbfb6a22"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_iceandfire_dragonforge_lightning_core_disabled.js"
+hash = "50ad39ea99a6591504d5e39ad96bc9ea94b4c3bfc97b8c9ad22037f5c815ebd9"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_minecraft_ender_eye.js"
+hash = "12ed1ec4fd0ad957325f1e58db8ab35562844f053a49f8d1c7b0cb56fe2ea97e"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_tfmg_crafting_materials_fireproof_bricks.js"
+hash = "5d48b3e2b839236b5a8db561d3829dd7e54efc201669f5d09f3ab58fd27966fa"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_tfmg_crafting_materials_industrial_mixer.js"
+hash = "ca1a1ffb95dbf189303c22c76927959d2b84c6eb03319199abcac6326a811972"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_tfmg_crafting_materials_radial_engine.js"
+hash = "f33f890b929c0ee26eade30568fe25f6623419fb6351f828b421273d63a00b4c"
+
+[[files]]
+file = "kubejs/server_scripts/disabled-items.js"
+hash = "10bd0325b3cfb320257bd6ff8e0ed817713e480a6203d700efdecbd060af37da"
+
+[[files]]
+file = "kubejs/server_scripts/ender-eyes.js"
+hash = "32056bec0974c8e6f6c13b6e0c5a8ee13ccbdaa43fd1ff8480fc311b6cca50c6"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "76baa3d2717a253e959bff6e1468592ebd9ec417e44e7f46846e57a4ca636c79"
+
+[[files]]
+file = "kubejs/server_scripts/keep-inventory-custom.js"
+hash = "b03874c947acb1d77225200761b5b44436a88e983527121b71c12fd1ad90df4c"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "7c8f3480d6917fc1373f6bc84eb2d7877c9ee4da94de23a1d8dff6931090d511"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/no-player-damage.js"
-hash = "193da3ea52b321c1845dfbda5c51c239eb3b5a1fe95110f4d57c79582852e2c6"
+hash = "6bb3a1b25a39a7cde9e34800948226317be60566462562da9e0fe24142d527f1"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "c598d8f9710af7a23f92cdd9061894afa84b2380377a66e15d293e769c998f97"
+
+[[files]]
+file = "kubejs/startup_scripts/lava-dripstone-disable.js"
+hash = "fa079b52d76ad0c832acd077b8b1e218b813606c968a789d6bf8f6d0f5287f83"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "6e9d76a27bf5e161249ae66713cf51a40e344445a87bb8b9911c6a85995c8f89"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "mods/VoxyServer-1.1.5.jar"
@@ -155,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
 metafile = true
 
 [[files]]
@@ -570,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/createaddoncompatibility.pw.toml"
 hash = "046a80051e21c0bab042ad1b7e27d42a7456fd36cfabf0454e9110ec345078fd"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
 metafile = true
 
 [[files]]
