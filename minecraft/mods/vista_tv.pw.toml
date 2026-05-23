@@ -1,0 +1,13 @@
+name = "vista"
+filename = "vista-neoforge-1.21.1-4.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/GX8PRSPh/vista-neoforge-1.21.1-4.4.5.jar"
+hash-format = "sha512"
+hash = "bdd7fc764d20e49d422ec8095ecc12b665ab8bf947f0a571ae18eb62006aa9f166697eab1db780a094b628bb485d33bd4aa62e2a7f52d0b3d1562dc4ff0570dd"
+
+[update]
+[update.modrinth]
+mod-id = "zuARv1N7"
+version = "GX8PRSPh"
