@@ -4,6 +4,7 @@
 	default_quest_shape: ""
 	filename: "aeronautics"
 	group: "7D9591336B3EB36C"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "aeronautics:wooden_propeller"
 	}
@@ -522,8 +523,8 @@
 			dependencies: ["32859079DDD5D630"]
 			id: "49797789CFFEC3EF"
 			tasks: [{
-				id: "6E25F57E45A5CF01"
-				item: { components: { "ftbquests:missing_item": "createpropulsionsimulated:copycat_wing" }, count: 1, id: "ftbquests:missing_item" }
+				id: "5D99218B4F6EA6C4"
+				item: { count: 1, id: "createpropulsion:copycat_wing" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -652,7 +653,7 @@
 				item: { count: 1, id: "aeronautics:steam_vent" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.0d
 			y: -11.5d
 		}
 		{
@@ -663,7 +664,7 @@
 				item: { count: 1, id: "aeronautics:smart_propeller" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: -11.5d
 		}
 		{
@@ -787,17 +788,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["35AC3CB96482DDE7"]
-			id: "7BB0D8F3028021EE"
-			tasks: [{
-				id: "59E8E53E6FA0B7E1"
-				item: { components: { "ftbquests:missing_item": "createpropulsionsimulated:thruster" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -20.0d
-		}
-		{
 			dependencies: ["125CFE351A4DE50A"]
 			id: "4AC76FC0AAB66B96"
 			tasks: [{
@@ -818,6 +808,24 @@
 			}]
 			x: 0.5d
 			y: -9.5d
+		}
+		{
+			dependencies: ["125CFE351A4DE50A"]
+			id: "17BA598623AAA603"
+			tasks: [
+				{
+					id: "2F0C1D46D173CF08"
+					item: { count: 1, id: "createpropulsion:thruster" }
+					type: "item"
+				}
+				{
+					id: "64D1983AC7C192C6"
+					item: { count: 1, id: "createpropulsion:turpentine_bucket" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -11.5d
 		}
 	]
 }

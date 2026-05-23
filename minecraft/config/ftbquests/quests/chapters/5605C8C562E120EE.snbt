@@ -269,6 +269,8 @@
 		}
 		{
 			dependencies: ["6E077BBA0E904BA7"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
 			id: "3D43DE2BB5B5E85A"
 			shape: "goldtier"
 			size: 2.0d
@@ -303,6 +305,7 @@
 			y: -14.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "69BE163547216077"
 			tasks: [{
 				id: "7C53A75B698F76A2"
@@ -335,6 +338,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "046A4166AB1B77A7"
 			tasks: [{
 				count: 2L
@@ -346,6 +350,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			icon: {
 				components: {
 					"minecraft:custom_data": {
@@ -452,6 +457,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			icon: {
 				components: {
 					"minecraft:custom_data": {
@@ -505,6 +511,7 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "37261A58A3378CCA"
 			tasks: [{
 				count: 6L
@@ -540,6 +547,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "5BF039E41C2F7306"
 			tasks: [{
 				count: 2L
@@ -551,6 +559,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			icon: {
 				components: {
 					"minecraft:custom_data": {
@@ -667,6 +676,7 @@
 			y: -11.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "6595FB94D8F5E885"
 			tasks: [
 				{
@@ -686,6 +696,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "467C2B8EFCE3C9A4"
 			tasks: [{
 				id: "38C30425A6449D93"
@@ -696,6 +707,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "5565EB7CCBE80B04"
 			tasks: [{
 				count: 2L
@@ -707,6 +719,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "2D5B677B9D5EF90A"
 			tasks: [{
 				count: 2L
@@ -718,6 +731,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "1291DDF6C0242CEB"
 			tasks: [{
 				id: "741DECA4F49E6A34"
@@ -751,6 +765,7 @@
 			y: -6.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			icon: {
 				components: {
 					"minecraft:custom_data": {
@@ -792,6 +807,7 @@
 			y: -4.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "65C3857C4CEA3BCA"
 			tasks: [{
 				count: 2L
@@ -815,6 +831,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "4AE60E912500A9C7"
 			tasks: [{
 				id: "52C87B9FA04221A4"
@@ -825,6 +842,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "044EFF59D5219C67"
 			tasks: [{
 				count: 2L
@@ -836,6 +854,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "630D2ACBFE6DBA0F"
 			tasks: [{
 				id: "416F30B6DC6E006B"
@@ -846,6 +865,7 @@
 			y: -6.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "132D878430DA546C"
 			tasks: [{
 				id: "201DB3635223AFCC"
@@ -856,6 +876,7 @@
 			y: -4.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "46F22D8EF9417DA7"
 			tasks: [{
 				id: "281B43F692C93656"
@@ -866,6 +887,7 @@
 			y: -6.0d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "29335D3A53C9580B"
 			tasks: [{
 				id: "00EEFB53239C5926"
@@ -876,6 +898,7 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "4395BA9C6DCF0ADF"
 			tasks: [{
 				id: "6B04691A8157A363"
@@ -886,6 +909,7 @@
 			y: -5.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "5ACC2E724EDB53E1"
 			tasks: [{
 				id: "208C52BE4C42B489"
@@ -896,6 +920,7 @@
 			y: -8.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "07F349F79751B8D1"
 			tasks: [{
 				count: 2L
@@ -907,6 +932,7 @@
 			y: -9.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "3D5D17529A9FB888"
 			tasks: [{
 				count: 2L
@@ -918,6 +944,7 @@
 			y: -7.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "21CC27F04418DC98"
 			tasks: [{
 				count: 2L
@@ -929,6 +956,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "09E707E2AE933305"
 			tasks: [{
 				id: "17D0B08F42253BE0"
@@ -939,6 +967,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "1B6233F3818F7AC7"
 			tasks: [{
 				count: 2L
@@ -950,6 +979,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			icon: {
 				components: {
 					"minecraft:custom_data": {
@@ -1027,6 +1057,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "45F94D69CE30519B"
 			tasks: [{
 				id: "092C8B28C51011D7"
@@ -1037,6 +1068,7 @@
 			y: -10.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "1FEF99B4F2147E15"
 			tasks: [{
 				count: 2L
@@ -1048,6 +1080,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "4A8C2BA3B319DF5F"
 			tasks: [{
 				count: 2L
@@ -1059,6 +1092,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "53A4267B76F6F767"
 			tasks: [{
 				id: "1E3EB5DD94C0B63B"
@@ -1069,6 +1103,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "451C0D30201E8623"
 			tasks: [{
 				id: "7C1EBBE9E5EC6AA1"
@@ -1079,6 +1114,7 @@
 			y: -11.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "5B8671E8AF49A95D"
 			tasks: [{
 				count: 2L
@@ -1090,6 +1126,7 @@
 			y: -7.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "28E35EC7757F52BF"
 			tasks: [{
 				count: 2L
@@ -1101,6 +1138,7 @@
 			y: -8.5d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "761D451A6624D9A8"
 			tasks: [{
 				id: "0A3749348A730CF7"
@@ -1111,7 +1149,10 @@
 			y: -9.5d
 		}
 		{
-			dependencies: ["761D451A6624D9A8"]
+			dependencies: [
+				"761D451A6624D9A8"
+				"3D43DE2BB5B5E85A"
+			]
 			id: "251F44560129B7DE"
 			tasks: [{
 				id: "62367D0E9D4715FE"
@@ -1159,6 +1200,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["3D43DE2BB5B5E85A"]
 			id: "0B1E417AD081E589"
 			tasks: [{
 				count: 2L

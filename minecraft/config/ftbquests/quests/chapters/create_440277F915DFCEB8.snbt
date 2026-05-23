@@ -32,6 +32,7 @@
 		}
 		{
 			dependencies: ["72503386D3AB3B6C"]
+			hide_until_deps_complete: true
 			id: "11FEA2BD8CD6CA81"
 			tasks: [{
 				count: 4L

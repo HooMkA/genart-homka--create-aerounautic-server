@@ -13,10 +13,7 @@
 	grid_scale: 0.5d
 	hide_excluded_quests: false
 	icon: {
-		components: {
-			"ftbquests:missing_item": "supplementaries:cog_block"
-		}
-		id: "ftbquests:missing_item"
+		id: "immersive_aircraft:warship"
 	}
 	lock_message: ""
 	loot_crate_no_drop: {

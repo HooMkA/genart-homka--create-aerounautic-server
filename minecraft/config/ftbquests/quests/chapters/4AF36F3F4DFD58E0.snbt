@@ -61,6 +61,8 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7079A4A228FD93C5"]
+			hide_until_deps_complete: true
 			icon: {
 				components: {
 					"ftbquests:icon": "supplementaries:item/globes/globe_caketaco"
@@ -473,7 +475,7 @@
 				}
 			]
 			x: 9.0d
-			y: 3.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["16284E57AC2883C4"]
@@ -757,30 +759,6 @@
 			}]
 			x: 4.5d
 			y: -7.0d
-		}
-		{
-			dependencies: ["00F7B94FA063BB17"]
-			id: "194E0EB468D916E9"
-			shape: "netheritetier"
-			tasks: [
-				{
-					id: "742142125F63FF3E"
-					item: { count: 1, id: "iceandfire:dragonsteel_fire_block" }
-					type: "item"
-				}
-				{
-					id: "4F547A1D382A40F8"
-					item: { count: 1, id: "iceandfire:dragonsteel_ice_block" }
-					type: "item"
-				}
-				{
-					id: "33C9AB93A08BB87F"
-					item: { count: 1, id: "iceandfire:dragonsteel_lightning_block" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: 5.5d
 		}
 		{
 			dependencies: ["2D7887329D50F7E9"]

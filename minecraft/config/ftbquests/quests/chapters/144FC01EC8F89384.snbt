@@ -61,15 +61,5 @@
 			x: -0.5d
 			y: -2.5d
 		}
-		{
-			id: "26962B29473B0F92"
-			tasks: [{
-				id: "7397EB976B5191E3"
-				item: { count: 1, id: "create_radar:plane_radar" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -2.5d
-		}
 	]
 }

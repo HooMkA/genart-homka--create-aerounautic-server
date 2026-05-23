@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "4"
 	group: "12020D090EBF51D3"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "tfmg:steel_cogwheel"
 	}
@@ -592,14 +593,38 @@
 				"65C9D6E943E74283"
 				"6F18501728EB64B7"
 			]
+			icon: {
+				id: "minecraft:ender_eye"
+			}
 			id: "6E077BBA0E904BA7"
 			shape: "goldtier"
 			size: 2.0d
-			tasks: [{
-				id: "6C55BF309BEFB6E1"
-				item: { count: 1, id: "minecraft:ender_eye" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 3L
+					id: "6C55BF309BEFB6E1"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2ED2722B8B1A1453"
+					item: { count: 1, id: "minecraft:ender_pearl" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "38D132AE791D3D67"
+					item: { count: 1, id: "minecraft:blaze_rod" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "60EBB2E18796D7DD"
+					item: { count: 1, id: "create:railway_casing" }
+					type: "item"
+				}
+			]
 			x: -1.0d
 			y: -4.0d
 		}
