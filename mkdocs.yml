@@ -2,6 +2,9 @@ site_name: NeoPack
 
 theme:
   name: material
+  
+  palette:
+      scheme: slate
 
 docs_dir: docs
 site_dir: site

@@ -22,7 +22,8 @@ services:
 
       # packwiz
       - ./minecraft:/srv/pack
-
+      - ./extras:/srv/extras
+      
       # persistent ssl
       - caddy_data:/data
       - caddy_config:/config

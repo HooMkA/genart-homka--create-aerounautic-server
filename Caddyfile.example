@@ -8,6 +8,11 @@ example.com {
         file_server
     }
 
+	handle_path /extras/* {
+        root * /srv/extras
+        file_server
+    }
+
     # DOCS
     handle {
         root * /srv/site
