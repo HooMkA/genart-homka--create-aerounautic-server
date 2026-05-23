@@ -1,0 +1,267 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2D96F607DE4974AF"
+	group: "6E45C38F448CD0B4"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "protection_pixel:plague_helmet"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "2D96F607DE4974AF"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7AB33625DF5010DB"
+			shape: "diamondtier"
+			size: 2.0d
+			tasks: [
+				{
+					id: "63F0FC62F5BD2C54"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:armorloadplatform" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "59E266D22317786C"
+					item: { count: 1, id: "minecraft:lava_bucket" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7AB33625DF5010DB"]
+			id: "7B4C909DC23ED0E5"
+			rewards: [{
+				id: "35A1E7CA95F06B82"
+				item: {
+					components: {
+						"ftbquests:missing_item": "protection_pixel:socks_boots"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "7E9DE5E937E707DE"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:flarerod" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1C6783713A141088"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:powerengine" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "769FA0107A08024C"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:emptywatertank" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7AB33625DF5010DB"]
+			id: "7C7E09CAC388A096"
+			tasks: [{
+				id: "773E5B04CDB6850E"
+				item: { components: { "ftbquests:missing_item": "protection_pixel:steamectoskeleton" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C7E09CAC388A096"]
+			id: "7846B1B57A8CB1C5"
+			tasks: [{
+				count: 3L
+				id: "79CE0296217D1C61"
+				item: { components: { "ftbquests:missing_item": "protection_pixel:heatoverlockingmechanism" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B4C909DC23ED0E5"]
+			id: "27031FFB7496DDA9"
+			tasks: [{
+				id: "44C9C434F27A2B39"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:breaker_chestplate)item(protection_pixel:wingsofprism_chestplate)item(protection_pixel:workerhornet_chestplate)item(protection_pixel:magneticstorm_chestplate)item(protection_pixel:pioneer_chestplate)item(protection_pixel:hellsnake_chestplate)item(protection_pixel:falconnest_chestplate)item(protection_pixel:typhoon_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7AB33625DF5010DB"]
+			id: "308547522165155A"
+			tasks: [{
+				id: "1603BBC639C57BE6"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:alloyarmorplate)item(protection_pixel:brassarmorplate)item(protection_pixel:ironarmorplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["308547522165155A"]
+			id: "74B25D17791BEF04"
+			tasks: [{
+				id: "25926D09EB641A7C"
+				item: { components: { "ftbquests:missing_item": "protection_pixel:armorplatekit" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B4C909DC23ED0E5"]
+			id: "101AA759635F36AE"
+			tasks: [{
+				id: "2EB79813CFEEEA13"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:plague_helmet)item(protection_pixel:lancer_helmet)item(protection_pixel:hammer_helmet)item(protection_pixel:hunter_helmet)item(protection_pixel:closed_helmet)item(protection_pixel:bloodprisoner_helmet)item(protection_pixel:nightdemon_helmet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7AB33625DF5010DB"]
+			id: "39D97D3D2B3504B6"
+			tasks: [
+				{
+					id: "21FAEA182D519EDC"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:linkplate_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "04D41EBAE2FD29F7"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:linkplate_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6D907916BC743B67"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:linkplate_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2A274348D4F68C75"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:linkplate_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7B4C909DC23ED0E5"]
+			id: "5D28E636CC2BA7AC"
+			tasks: [
+				{
+					id: "279AD06D5C15F7DD"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:tosaki_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4C4C658BEA5F8317"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:tosaki_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "68962D86FD67FB58"
+					item: { components: { "ftbquests:missing_item": "protection_pixel:tosaki_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7B4C909DC23ED0E5"]
+			id: "24DC69727717DBA0"
+			tasks: [{
+				id: "6836EB51341B2CE3"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:slingshot_leggings)item(protection_pixel:anchorpoint_leggings)item(protection_pixel:buoyancy_leggings))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27031FFB7496DDA9"]
+			id: "0EF1E3FA4563D616"
+			tasks: [{
+				id: "1B5603A3441834FA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:breakeras_chestplate)item(protection_pixel:wingsofprismas_chestplate)item(protection_pixel:workerhornetas_chestplate)item(protection_pixel:magneticstormas_chestplate)item(protection_pixel:pioneeras_chestplate)item(protection_pixel:hellsnakeas_chestplate)item(protection_pixel:falconnestas_chestplate)item(protection_pixel:typhoonas_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["101AA759635F36AE"]
+			id: "18815D91FF15AAE6"
+			tasks: [{
+				id: "3175A69D73A5DC91"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:plagueas_helmet)item(protection_pixel:lanceras_helmet)item(protection_pixel:hammeras_helmet)item(protection_pixel:hunteras_helmet)item(protection_pixel:closedas_helmet)item(protection_pixel:bloodprisoneras_helmet)item(protection_pixel:nightdemonas_helmet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["24DC69727717DBA0"]
+			id: "22CC958CDE901C92"
+			tasks: [{
+				id: "5AE22B3301E663F1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:slingshotas_leggings)item(protection_pixel:anchorpointas_leggings)item(protection_pixel:buoyancyas_leggings))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7B4C909DC23ED0E5"]
+			id: "401E6BCBA80B0A8C"
+			tasks: [{
+				id: "5AD00A446ABF88F1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:tacticaloxygensupplydevice)item(protection_pixel:evasionwing)item(protection_pixel:blooddialysisdevice)item(protection_pixel:cannonarm)item(protection_pixel:hookcannon)item(protection_pixel:pneumaticgrenadelauncharm)item(protection_pixel:heatpulsethruster)item(protection_pixel:steambooster))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["401E6BCBA80B0A8C"]
+			id: "41254BCC0BDC5BA2"
+			tasks: [{
+				id: "5DF011AF09147386"
+				item: { components: { "ftbfiltersystem:filter": "or(item(protection_pixel:pneumaticgrenade)item(protection_pixel:hookitem)item(protection_pixel:steelcorecannonshell))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["401E6BCBA80B0A8C"]
+			id: "17439BD7D34487C9"
+			tasks: [{
+				id: "6850ACCD8D2EAEF0"
+				item: { components: { "ftbquests:missing_item": "protection_pixel:equipmentkit" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+	]
+}

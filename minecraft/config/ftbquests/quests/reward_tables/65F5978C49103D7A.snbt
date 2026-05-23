@@ -1,0 +1,185 @@
+{
+	id: "65F5978C49103D7A"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 4
+			id: "2B5176EAEEE63DFC"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 4
+			id: "46190E979B5125EB"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:charged_certus_quartz_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "78BF45493C9EDE7B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_crystal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 3
+			id: "46A2F0DD4781A6C9"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "4155B4ACB53BBF4D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_pearl"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 2
+			id: "64A893D1D0FF806B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:sky_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{ id: "082EEEAE066F5E90", item: { components: { "ftbquests:missing_item": "ae2:damaged_budding_quartz" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7745ECABA9005815", item: { components: { "ftbquests:missing_item": "ae2:chipped_budding_quartz" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3A44D5050A48E337", item: { components: { "ftbquests:missing_item": "ae2:flawed_budding_quartz" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "1E49A1346185100A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:flawless_budding_quartz"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{ id: "22A15D1FBCB7B3E2", item: { components: { "ftbquests:missing_item": "ae2:meteorite_compass" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 5
+			id: "4954CA160887D643"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:silicon"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 4
+			id: "3441DC0C33F974B8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_dust"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "1A62A49B22B9AD1D", item: { components: { "ftbquests:missing_item": "ae2:printed_silicon" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3481B74D299CDD12", item: { components: { "ftbquests:missing_item": "ae2:printed_logic_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2C134EC1967617C1", item: { components: { "ftbquests:missing_item": "ae2:printed_engineering_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "62371A2BA1FB22E8", item: { components: { "ftbquests:missing_item": "ae2:printed_calculation_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "322E2BDB1AE3404C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:singularity"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "3653FDE51EEF28CD"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:quantum_entangled_singularity"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{ id: "6589053D59B5E05A", item: { components: { "ftbquests:missing_item": "ae2:cell_component_1k" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "00351AC0272F39C2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:cell_component_4k"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.9f
+		}
+		{
+			id: "51ECBF87163604F1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:cell_component_16k"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.6f
+		}
+		{
+			id: "42888DA2EE136EB0"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:cell_component_64k"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "4BCC3BF46BEC6ACB"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ae2:cell_component_256k"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+	]
+}
