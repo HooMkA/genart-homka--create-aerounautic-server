@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbcms.pw.toml"
-hash = "3e1b23d9ee2177c075387fb4fc8dfea709e28c3581f3636ef5bbe2e5244aebe0"
+hash = "6370beceff253cea865189451a864fb0aa6d151d492ab52ddf236f79ecd26058"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "d3e49a68ea6e6383d2aba36217fa4ac10dcb8d392b7bd616867163174f7c959b"
+hash = "c3cbea800ad6c0b2442f89f83a40b7bb950c1c3645192348e5ba389dacdc3e55"
 metafile = true
 
 [[files]]
@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
+hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
 metafile = true
 
 [[files]]
@@ -1245,7 +1245,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5cd638e2360db48e395e5227e8f11a9d0aecd4b0f40c4f98ea722636c901e86f"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
@@ -1590,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "ae383cdada253313a708a094c0f01d6d4fb79435f4346f52473e07d05624b122"
+hash = "c6bda706732a64892f8e0bffc746fafefc12cb63ba6c6ada066d183f01fa55c0"
 metafile = true
 
 [[files]]
