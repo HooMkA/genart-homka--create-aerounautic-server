@@ -5,5 +5,9 @@ A8BFB080B3B0BBBAB0D0D020Markdown.md
 # уберём из прода рельный caddy
 Caddyfile
 
+# тут будут тяжёлые архивы, не хочу это лить на гитхаб
+extras/
+
+# TEMP
 site/
 .cache/
