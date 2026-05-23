@@ -1174,11 +1174,6 @@ hash = "5197ac84b7bffaf24dffdb2974dc23fb94d31a10f26a1d165ab36816be835238"
 metafile = true
 
 [[files]]
-file = "mods/languagereloadunofficial.pw.toml"
-hash = "76b766b465351c6f1f57bbf68f72b66a59655d2e9a150c79b3f691d79ccbe1de"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "c61f3c7eebe1c76067188d1e35fb10c40969c68f0bcac355a56542d215b3aaa3"
 metafile = true
@@ -1286,6 +1281,11 @@ metafile = true
 [[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
+metafile = true
+
+[[files]]
+file = "mods/neo-language-reload.pw.toml"
+hash = "a0944618e248813a3d624faec2aa631f9e6f8b207fa92e49cbdb565e44704762"
 metafile = true
 
 [[files]]
