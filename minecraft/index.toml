@@ -73,6 +73,10 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
+file = "config/aileron.json"
+hash = "4bf246571549580c3f81bf591455b1ef346f05567c6d5c588a2061ac4cf5fbc8"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "0dea7cb90635793031da69995cef8efe30f6dd96fe91bd2cc3804f858ba6e79d"
 
@@ -86,11 +90,11 @@ hash = "8a38fae9f2aca8c354166d74a4044c3433e6125cdb8b7c4b148b2963306a30ea"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/1.snbt"
-hash = "f7e4b283911a60ecd61714687cadcfe16d6ffa0b8137a8d22d5d47ceb3e6f655"
+hash = "21d0d0be99684f8217cb1328daebfd1c9d977985558f6bc8fd6565dd347f4e9a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/144FC01EC8F89384.snbt"
-hash = "83d0d74c686146305059aa49edd399eafd4e12f60bea43a434a0607b90fd3dcd"
+hash = "682ab6327026aceb68e87c64663982351c7a54a74c55ec23bb083b8c727a5bef"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/2D96F607DE4974AF.snbt"
@@ -98,39 +102,39 @@ hash = "bb5c02e12ed8fedcc7d5e1f625801991c0b53a3a26aade7d0d65a57c3188df95"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/3.snbt"
-hash = "55cd0538586e20c942fa70148cd357c9660babab41248d8b816bf5f7ac496eb2"
+hash = "5c8ad3992cddf9e57b2d479a6be75f48be73714d884e1d097f977d795d1257b9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/4.snbt"
-hash = "49781122d3c68e6982b6f41b78bfc99c1635012446de5a9d2313c972559186d4"
+hash = "42ae288cde4ed07df44f6de54a04b61951e8b88346085d4caca1f789e1f18704"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/4AF36F3F4DFD58E0.snbt"
-hash = "2d2b9b7eee8913d9cd86c7e0cc6f01c32ba1371a4a67bcf81f049f92ad46d4a6"
+hash = "f53c9201a79c8a4edbb2527333f30cde4b7049ce08012cb016188dfa02621e05"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/4_4C67B597AB45D9D4.snbt"
-hash = "7eca30782b0727e0be15be62e4d1ab42b7228eda882298af04d6bdeb87e5f503"
+hash = "a0097ad5ede4e93a363dd55e267628ffc492c96066fc758bbd0cba742311e8f4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/5.snbt"
-hash = "ecb0f1b7e59f1b6caede64e82468f8094a9971b4a4d2344d45dae6725fa07cb9"
+hash = "6ac96bb0fac2b4cf13904013f140ea546297ebe66a12d88b5227a52606d18a4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/5605C8C562E120EE.snbt"
-hash = "a0e4fda47ba1c4de34ababe0309c2d8cb35a55fd3b2537c5e46a2f6b2b9cab92"
+hash = "1fb7aacbee3ce758a34ac2baa1b66a6ee6e5722a8a231ec6aa73590ce54bde38"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "1ca4de9b61646ed9f4266f3c692d89c9252454376d4e2e1a32a5f3932ddbb3b7"
+hash = "8bc7d81a75a4b3f801e7403084fde6a4f61c89c66de0dafc05011a982421dcea"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_440277F915DFCEB8.snbt"
-hash = "4261cfc280d433faa49729602cff9988d4fa7bb7942a2e664b8181f08b9a5db9"
+hash = "81abfc433cc338ea4c1ac9be0a7bf92524f4b09982f7e6369df03a5aa0547d55"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "b17c227294d7c632b46daabf7a81e512bf266e5d0c68e9969e4f9476c5cec6e3"
+hash = "e2ba7805faa436621e75410f1fc79c96ca0e792155eb552358be4ecc851cbc63"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
@@ -138,7 +142,7 @@ hash = "89c4b7319b90388e147d889c47540c3958004e70f86d4231e26236123de35998"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ru_ru.snbt"
-hash = "51081c314354910ff19906aa0eb4c7243f79ce6af57cdcce5e1f5423fefde151"
+hash = "b46a335a60fc358a3442cbc524906078bbe425d9cffce2010b2d508871bada35"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1BC377CF7DB0B217.snbt"
