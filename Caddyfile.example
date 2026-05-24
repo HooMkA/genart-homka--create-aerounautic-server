@@ -1,4 +1,4 @@
-example.com {
+example.com:80 {
 
     encode gzip zstd
 
