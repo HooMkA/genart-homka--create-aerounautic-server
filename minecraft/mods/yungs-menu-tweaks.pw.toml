@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Hcy2DFKF/versions/OB9hQTpQ/YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar"
-hash-format = "sha512"
-hash = "509327f5f5542246e2b98811b36cf2f7e26fe81b7538f3443b958c0134029e0e1ae8483165adaf1f2c4ee5a531bf8b57a2628305f7caf6bf1301cf34ad46b5fb"
+hash-format = "sha256"
+hash = "a6487691e22cb3405256453d2496ee74aae824ae865b0ec57654380686993a53"
 
 [update]
 [update.modrinth]

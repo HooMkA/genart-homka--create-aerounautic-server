@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gsAqDfOu/versions/SgGiJyt2/SableStuffAdditionsCompat%20v1.0.1-1.21.1.jar"
-hash-format = "sha512"
-hash = "9a67a030ec88018c1f9547c80d95702b2b1d9ad34b16e465d4758fb53e341f51fab95857da9a7327dd973ad139ac18a78f9ba6908d08de121274b3aac9765a89"
+hash-format = "sha256"
+hash = "e9b9e64394dcebc63f6c01178b7a3b539f99bff7e48f354578ac31d8a8aaaecb"
 
 [update]
 [update.modrinth]

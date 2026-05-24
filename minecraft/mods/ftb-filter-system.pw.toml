@@ -3,8 +3,8 @@ filename = "ftb-filter-system-neoforge-21.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a48e54edeacc59aaba29a1b627799c052112ee0b"
+hash-format = "sha256"
+hash = "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b"
 mode = "metadata:curseforge"
 
 [update]

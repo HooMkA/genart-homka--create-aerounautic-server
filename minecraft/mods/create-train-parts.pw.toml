@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/h0bu4oDk/versions/UwPDQjGx/create_train_parts-0.4.0-1.21.1-6.0.9-216.jar"
-hash-format = "sha512"
-hash = "5d784af8e1eec4d1915175e2c49a78e5abf74fba76cb3c0046176c9a205ca6f49b6b208d50f14a32db9746a65a542aca3bbada81c6a60952e16a92935e1a89aa"
+hash-format = "sha256"
+hash = "8e4f419f75109519034f5dd4b8ddc1a52eccc5568a87cfc210fa2f301916e649"
 
 [update]
 [update.modrinth]

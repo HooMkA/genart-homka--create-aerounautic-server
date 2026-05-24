@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/NWpb0jwM/worldweaver-21.0.20.jar"
-hash-format = "sha512"
-hash = "c037eb9f281377ef7b60d5fbf27d05f05ff90c8070baffcaa40f0a791735683417fb31bb06576c3ee8a756e7ec4d042031aa910d9ac5c5d658ef6856505cbc4a"
+hash-format = "sha256"
+hash = "adddd64cca860625c48b5382d61cae67d405ec629c5d696d0f7f59df78107dcb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hl5OLM95/versions/3pbmqlYX/Geophilic%20v3.5.mod.jar"
-hash-format = "sha512"
-hash = "0edf246d8e4844d3374cc1f86982175c30fa17ab6d452e06cb63f30a262f146c8473d06f48cf1a383eefa51ba0cafd3f9205fb6988bf739b7664ba29fd64e283"
+hash-format = "sha256"
+hash = "746f80243c54236983145c0c1efa96e8014b5b536b6dcc3e213352367e6bc4d0"
 
 [update]
 [update.modrinth]

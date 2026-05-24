@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z8OZShAU/versions/6Vwdcz9e/idas-1.13.4%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "1c83dd3699aaaab4bb09c0abf11fa77e8dff08eced240c185973009c54803b571b726d3c226b0dd5dffcb4ebfbafb69dacbc7a2e1835c937fd7b6e1223f86fd7"
+hash-format = "sha256"
+hash = "4f45fdfaadc70044c60878a820667da5238727803502777b411466fb6eda0548"
 
 [update]
 [update.modrinth]

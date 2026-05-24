@@ -3,8 +3,8 @@ filename = "ftb-xmod-compat-neoforge-21.1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6"
+hash-format = "sha256"
+hash = "7e04b6d10e8eb6bac55f023d3d88ac3e8e146e57c3bb912462155ad1e49b3ca1"
 mode = "metadata:curseforge"
 
 [update]

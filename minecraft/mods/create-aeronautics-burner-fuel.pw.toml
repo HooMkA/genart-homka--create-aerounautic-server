@@ -3,8 +3,8 @@ filename = "createburnerfuel-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "42f4f4d5865a4ccab78de1500ebe75151b79c90b"
+hash-format = "sha256"
+hash = "3bee384c7d9fcf9ac8ebfbf5817c1733b1d1659a14774ecfbc44ed6f6db87b14"
 mode = "metadata:curseforge"
 
 [update]

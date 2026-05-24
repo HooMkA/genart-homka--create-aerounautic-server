@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jImqv1M5/versions/fuTkkHyC/climbable_ropes-2.0.0.jar"
-hash-format = "sha512"
-hash = "d851799161affb818fc379babb8cea1a14dc8898bbb7dc6905cf2c9d729daf3fca8bbc580a9087ce551c414b23b7f836a0984bf78c2e233c3b689c4f90f964c8"
+hash-format = "sha256"
+hash = "6e5d8c89b57a96b212709f210709aad491aec5d8ae475f9aed63c1465b918da6"
 
 [update]
 [update.modrinth]

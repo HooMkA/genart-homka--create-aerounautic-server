@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/nKCdwUbt/structurify-neoforge-2.0.25%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "c7ef6c7a4305e19c7e8615c607333d86b801ef23354a6c99496cce1d6f8a315355caa1e99de0bc198a2a146d996ef134df4b5f14818a408519ba447066747679"
+hash-format = "sha256"
+hash = "cee6237f0e3e0a5491c45c51a57d79b6392c26e9dcc38835ae54873c24aedbb2"
 
 [update]
 [update.modrinth]

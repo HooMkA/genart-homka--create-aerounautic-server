@@ -3,8 +3,8 @@ filename = "create_submarine-2.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6efa62853b0beb57c4de205f6a5de5cc3e4eb3a"
+hash-format = "sha256"
+hash = "d4f63189926616e82eae73f2d86c9815408991de5cbd4ebd5348ed69a77496a2"
 mode = "metadata:curseforge"
 
 [update]

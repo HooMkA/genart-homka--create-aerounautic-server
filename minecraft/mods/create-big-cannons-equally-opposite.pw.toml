@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9PsdRq7Q/versions/BlIuhZFR/cbc_equally_opposite-0.1.2.jar"
-hash-format = "sha512"
-hash = "ff786195869a194e65ff728c3a08d2bacc8a8c6434266bdee72108434acfe25815c711ad7b70611734bae0b91858a8f0c766b686b00e633b886b09a0014ab711"
+hash-format = "sha256"
+hash = "c2ae2565a2ad00d60625b1abb85ed7c404137f40178cae3894b848324bdf7139"
 
 [update]
 [update.modrinth]

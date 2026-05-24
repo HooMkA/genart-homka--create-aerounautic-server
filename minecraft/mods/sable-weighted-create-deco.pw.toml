@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kHIRKdOE/versions/VvftnDNF/sable-weighted_createdeco-1.0.2.jar"
-hash-format = "sha512"
-hash = "df4215a14bfc05bd09a20d7b353c919cb0c4149957ce3fc94337ddbd350b260a2853b47febce87f6f2b1cc74d741b4962f8dc9688b45c0b529406db81c2196d9"
+hash-format = "sha256"
+hash = "aa47dc7d82811bfa80b3a819dfd6cb37a9aa09aafd6663db0c53069155fab6b2"
 
 [update]
 [update.modrinth]

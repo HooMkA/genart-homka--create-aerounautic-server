@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/a48R8AGk/versions/Mk8hYics/lendersdelight-1.21.1-1.0.10.jar"
-hash-format = "sha512"
-hash = "b1e68b4f3e0e5459c802f60238287a86de8f8737170730b7969f94878f2daea7ce9ae0e2b88125b75de63e1c4d9988bf6f3e83a8545f5374a09df29912bd4b8a"
+hash-format = "sha256"
+hash = "d30e550408f539e9bf752e93fdc61660d64b6c0b8779a8e360d11540bbf91f89"
 
 [update]
 [update.modrinth]

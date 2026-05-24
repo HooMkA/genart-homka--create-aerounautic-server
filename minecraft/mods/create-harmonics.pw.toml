@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uWn64pD9/versions/TPuVrz1w/createharmonics-neoforge-1.21.1-1.1.5.jar"
-hash-format = "sha512"
-hash = "2e4f45b12180fed4d43bb5507ce03259cd75ae1b118aa522792b9066e7d184f8623c228cafef6d098ddf40d6cd3fe8498cfcc95cb7c380161ff0d6df64c43cc3"
+hash-format = "sha256"
+hash = "274c6376186a067e293252dc9262c81ad8aaebbca2018859a737409f5ba36d19"
 
 [update]
 [update.modrinth]

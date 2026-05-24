@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/X16u6myK/integrated_api-1.7.3%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "be00760e636441bded6b4ee991802e2a6de18957e6e2dff3a117d68dd7332ccf0da55ae033a35229d252a6263fe2fe5135bd42a1f8a12151e675507c25f7671d"
+hash-format = "sha256"
+hash = "81bffee0e09dce9160376c36c3f38b26af4470393ecf7b2d6fdc3fa5c40593ec"
 
 [update]
 [update.modrinth]

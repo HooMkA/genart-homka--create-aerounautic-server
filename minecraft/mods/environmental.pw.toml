@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OqtiAZcV/versions/NdDV1AM8/environmental-1.21.1-5.0.1.jar"
-hash-format = "sha512"
-hash = "49916902409b58fd2866d5a142259a2e49b2d6199292e8c91df3f7b8aeaf51326a731a04c1e7330295409f32a1410d917ff6c34dc1d759e40a78ca8d05dfcfa3"
+hash-format = "sha256"
+hash = "d0578ab961461bc25ee59d86c44f3b90565e4782cab431dfd897f50080d5988b"
 
 [update]
 [update.modrinth]

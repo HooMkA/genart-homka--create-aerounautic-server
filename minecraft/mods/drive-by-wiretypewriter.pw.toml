@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lDYpnxit/versions/I7aL73ff/drivebywire-typewriter-1.0.1.jar"
-hash-format = "sha512"
-hash = "07c916df73510b6f715eb578367802a4be00ef88052495693aa28a4ade001400dac0af2b6b7ff056cb0880e7b763e7d28cd09e23784c465938b47eb34c75a5c5"
+hash-format = "sha256"
+hash = "8173443323e27d41bdac6c7692e57e67bcb4dbbf70175e0a8cddde1923137914"
 
 [update]
 [update.modrinth]

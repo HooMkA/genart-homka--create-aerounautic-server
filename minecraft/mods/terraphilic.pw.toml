@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8T4mO5eV/versions/bdiZl5tW/Terraphilic%20v1.2.0.jar"
-hash-format = "sha512"
-hash = "39e1e3f6e0d754fa788f378cc76db5cc2852335b6b12d90d285ee3fbf6ee4b544df8bcba5710e37882f5ba7aea443eeccde25686f03160aa58e17c6b938a14e0"
+hash-format = "sha256"
+hash = "3f8e57c8261325bd8f5c13e44e6ef58812b5f379fb7ce310472436b50afbfee6"
 
 [update]
 [update.modrinth]

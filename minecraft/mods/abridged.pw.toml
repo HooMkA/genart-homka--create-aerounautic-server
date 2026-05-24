@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/l5RJ4t5s/abridged-2.0.1-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "e2d27b52f294e09201874d97315ab29530943d6b989a2f64ba91632cd483d83403f4d9805f889377f78c3900b393425b187bbfa0fc6e124806c03643ac735119"
+hash-format = "sha256"
+hash = "84e82526f0887ea8166e806d316b0fa977ee94f01fc24fb62a53f055d95ba22c"
 
 [update]
 [update.modrinth]
