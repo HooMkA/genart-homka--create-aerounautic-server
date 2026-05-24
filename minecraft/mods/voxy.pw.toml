@@ -1,0 +1,13 @@
+name = "Voxy"
+filename = "voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
+side = "both"
+
+[download]
+url = "http://pack.jolly-roger.digital/extras/mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
+hash-format = "sha256"
+hash = "6dc84ced1fb56a8a904e523dc44b8e16d3b89bd2e8358d0b49af441dbf750ed9"
+
+[option]
+optional = true
+default = true
+description = "Высокая дальность прорисовки. Советую ставить \n Работает на видяхе хорошо оптимизирован \n\n Альтернативно если поставите Distant Horizons снимите галочку здесь и с VoxyServer"
