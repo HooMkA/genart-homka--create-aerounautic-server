@@ -486,6 +486,11 @@ hash = "318191d1fc7d0e6c1833c50c33405b8260faa043359bc57f7d90628fdb931f59"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "06965151abd0bff9a20a01df8bb4c392486c76ca14950f9cca2831380656a3f9"
 metafile = true
@@ -956,6 +961,11 @@ hash = "5588f2c7f1bb62613ac203347a770b79084c4f00f77656134f846238b9971b8d"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "944c1cb6322482010fabe3e7f5522a4c19b3b8b3f97a3535532d855e0ecbc488"
 metafile = true
@@ -1097,6 +1107,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "b2433c55646a64c814bfe767cc049d36b698332b6bc5e43c7f46c24af7b13a8d"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "8e90c889394fe3e69d75a8aa8466b74af5ff8a26b755abf90b668dcc225b23d5"
 metafile = true
 
 [[files]]
@@ -1450,7 +1465,12 @@ metafile = true
 
 [[files]]
 file = "mods/server-chat-sync.pw.toml"
-hash = "3b4e286fab828d142e2db5c748f31344df72860fd73fc3f26141ffbcd439a97c"
+hash = "c5fd50416e7cabd4c5c69cd527ab9d2d8f5adbb30046501e7340526e232b16de"
+metafile = true
+
+[[files]]
+file = "mods/serversleep.pw.toml"
+hash = "5c5192448bfc8094d1a9a2038b29d9dc6e9e668ff74924c2ea378bc489644f94"
 metafile = true
 
 [[files]]
