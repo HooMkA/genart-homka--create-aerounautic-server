@@ -413,10 +413,6 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
-file = "mods/VoxyServer-1.1.5.jar"
-hash = "d1a80e1ffa5478c7213222701d6dfd84cff2fac89d219623d5c5a64deee69cb6"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "082da076fec8dbbac21dae540c5706a89a04356dab7b664e90743e48cb6cdc33"
 metafile = true
@@ -425,10 +421,6 @@ metafile = true
 file = "mods/aero_cam_sync.pw.toml"
 hash = "4920fc401715185c2fa5c3f8ba9cea25133181b427e45b0da05df4a6606e3962"
 metafile = true
-
-[[files]]
-file = "mods/aileron-1.21.1-neoforge-1.1.4f-no-boost.jar"
-hash = "faba2d1770b5b2f855dfaf7a0d0b709102860d80f6a36c77039c13d26f696107"
 
 [[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
@@ -986,10 +978,6 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
-hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e4d531f8593e4adf7b8e1ea85a6f870c771b543501255629b1fc9be525e886e3"
 metafile = true
@@ -1268,10 +1256,6 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "f885b4e266f2b62b37e14a6b5213732402c1666a74ea6c9fed9a2ff6170d7c16"
 metafile = true
-
-[[files]]
-file = "mods/mods_optimizer-neoforge-1.21.1-4.3.0.jar"
-hash = "fad15e65b22623527da3053936e5a69a9aca010f00b436a1597d17b3d6bfcbef"
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
@@ -1609,10 +1593,6 @@ hash = "5bce4c18c28ddb4264834b70c9634eae84f2bec76006dcc45d77406d6e05984c"
 metafile = true
 
 [[files]]
-file = "mods/torohealth-1.21-neoforge-3.jar"
-hash = "4d7fa2b049e07efbfae081f30e5d594713d0b799c0724213aac2917de966a750"
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "892a1e3797ea8edbe2134758e4204bcd12306655a549960f70b8d70d84e7528c"
 metafile = true
@@ -1641,10 +1621,6 @@ metafile = true
 file = "mods/voicemessages.pw.toml"
 hash = "70abc6874a4e8f95e1adc535c78c47a88798059a3e67a2db0e5c99848c77d73d"
 metafile = true
-
-[[files]]
-file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
-hash = "6dc84ced1fb56a8a904e523dc44b8e16d3b89bd2e8358d0b49af441dbf750ed9"
 
 [[files]]
 file = "mods/wits.pw.toml"
