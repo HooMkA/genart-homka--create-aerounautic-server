@@ -571,6 +571,11 @@ hash = "fa014d2cee3b9a4b80b6a628f52671a0c8a507eb5a06891f020492a936ddeeca"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "4987a2808939c3aa77421799ad1f4ce826c8b3065990106693bbadb916ea65da"
 metafile = true
@@ -1205,6 +1210,11 @@ hash = "74e29b362f7a997fa830093085d6e4ab5a36c6df026baeb90852a266b7a96af8"
 metafile = true
 
 [[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "70f49c0756c372df1b7a3d965ad9f76386940aaa0b6fe4912ccc90d02639b6e9"
 metafile = true
@@ -1436,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "d6148871637c5eb6a69c43ee54db58c5cbc90fb67a565be34ca631ab9a519627"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-sync.pw.toml"
+hash = "3b4e286fab828d142e2db5c748f31344df72860fd73fc3f26141ffbcd439a97c"
 metafile = true
 
 [[files]]
