@@ -1603,6 +1603,11 @@ hash = "d3586c6b0f18cec7d6ef80feb6b161502ff34a7d1f4b71d08f2a46ccfdfef484"
 metafile = true
 
 [[files]]
+file = "mods/voicemessages.pw.toml"
+hash = "70abc6874a4e8f95e1adc535c78c47a88798059a3e67a2db0e5c99848c77d73d"
+metafile = true
+
+[[files]]
 file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
 hash = "6dc84ced1fb56a8a904e523dc44b8e16d3b89bd2e8358d0b49af441dbf750ed9"
 
