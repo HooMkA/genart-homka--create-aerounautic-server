@@ -70,7 +70,7 @@ hash = "7387977cc05adbbf4a8bb9b82819f6b520d063033157bcaa6ed00ae72d5b6d82"
 
 [[files]]
 file = "config/aeronautics-server.toml"
-hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
 file = "config/aileron.json"
@@ -78,11 +78,11 @@ hash = "4bf246571549580c3f81bf591455b1ef346f05567c6d5c588a2061ac4cf5fbc8"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "0dea7cb90635793031da69995cef8efe30f6dd96fe91bd2cc3804f858ba6e79d"
+hash = "c01e42aa3500810a973252bfa04b6090d52c836240a87141ee0aefd2e3f3fe6f"
 
 [[files]]
 file = "config/figura.json"
-hash = "f0bd22b649de22faf806574a0d9e7dad2058c92c666a29a4564a333913227bf5"
+hash = "1d479021da93cc9c15c84cd5adccdbb735da11703add43ef82cbe6bcd8e5ca69"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -170,15 +170,15 @@ hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 
 [[files]]
 file = "config/mods_optimizer/config.toml"
-hash = "e25931f1338bbe4c1542cee868b3a23e6dba7135ea50d2f410ce4a71297d3a63"
+hash = "9b674244abbcb19438a20b10f5150748ee103104709c0651658da8b8137c7500"
 
 [[files]]
 file = "config/mods_optimizer/mods-database-override.json"
-hash = "c71bd9b72867e99175aa35478f25a2a7be6e13c528f40baeb24e1c48c1e6cf38"
+hash = "3b26b63f2bc9056d411829379860b0fffec1618ddbeb49d5aee39df1531f7025"
 
 [[files]]
 file = "config/mods_optimizer/mods-database.json"
-hash = "141e953ba5feb8ece8b07db2a4b2d475dcfa7b7e925596a545e6690b105167cc"
+hash = "cd6e0f100089b022189b3c492ef77d3edcc243966f1779c13dc1a86be2fe9cd8"
 
 [[files]]
 file = "config/mods_optimizer/mods-database.json.sha256"
@@ -186,19 +186,19 @@ hash = "0c04038f0341f9a129de9c8b12ad3b518e13c4fdaa2211943b0894399e4951e9"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/regions_unexplored/client.toml"
-hash = "aa71a99380b3d150c2c2e7aabcd50e071bde868cb7d9b22ecc2c31a28e397ebc"
+hash = "89a5a2302ca2d229e8799cc980a545dd9312e29eabee4f83a62ff9202631aa11"
 
 [[files]]
 file = "config/regions_unexplored/common.toml"
-hash = "a41e3e83a5da1740d2cc03e69971bd326f8c8ca4f0e8f63fa544b6ff452a7ad9"
+hash = "a5f320b2ca7d136627322fd13a85a4009427bc96f38115e7ab6d944911e5abb3"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
@@ -210,23 +210,23 @@ hash = "f9dfaa48de6c36b2a39d37e964433942c9b32b0e22bb8dd0deecd6579aab828b"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "2b7a366d8315c0771013262e8df7b1639137077754435dda247fcee6217fe7b0"
+hash = "f1948de67e8d88041ad6a7f8ecd92026ed464879aacd99c1b1a4fe8b16cd5082"
 
 [[files]]
 file = "config/voxyserver.json"
-hash = "a6f2aa2b8be7fa82019800863ca274aac3a02f2ee13a0eafbc05db566ac42ea9"
+hash = "aa493870bcb41f9efe2691f9572ae42bfe5f573aa4023e0ed31a4be14f34fe38"
 
 [[files]]
 file = "config/wover/cached.json"
-hash = "72cebc3eaf869d0901dab1a5e82a7a2e4319faa262e65c23c0d9df356dad2bc7"
+hash = "8eea272ec950e825793bb2833362612ac6cd7f04eb1084dc60fd637d0ea8ae61"
 
 [[files]]
 file = "config/wover/client.json"
-hash = "e2ffb98a5bf359e00687e9b9a59cc5c13f4f81903eddb2fee68ab4a7506910bb"
+hash = "65255657674fa3bd08c14c5febb516323388d2efde11c9d6839d72ce27f6f0ab"
 
 [[files]]
 file = "config/wover/main.json"
-hash = "329c4afc0ebc0332cf6ecdfc315d99f633fbfaf9dc0424c5e73e16e6b9aff764"
+hash = "8bcbb3660deec6714d284bd2796f672b0b1d77bb1419b28edbf8d7c72a99b931"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
@@ -238,7 +238,7 @@ hash = "d2d5dd65a40adbc0d2368bf7f3caea2710d3befb572f99871b781d940aa06156"
 
 [[files]]
 file = "kubejs/README.txt"
-hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -250,23 +250,23 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "4e5d2a296790c002a5f998d65331079c06aa1332416553ac2877b2f2541c5014"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "ffeec24cd6a9e10758c7a22860688ed3c67bc023debf400e129a35d4318a6f7a"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
 
 [[files]]
 file = "kubejs/config/common.json"
-hash = "249e5b59ba852d896a8a77a2d4e5642c69b2e832e83bc6a19572471995db69e9"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/web_server.json"
-hash = "61b3bb13b897fa2bacefec6b7a357d2f10df17be72ee2e3f80297e2224afb18d"
+hash = "780fc78b264be69a27114b0168c6522b86ccd3a280ff8668de8a4cd67a26fba4"
 
 [[files]]
 file = "kubejs/server_scripts/aircraft-recycling.js"
-hash = "13a0223b4163cb569c83fd868daa0f8c8c521e3afcf788ac8ad1094bb4d7397c"
+hash = "8be55eb64505b1417d7f43aadfb9a81aa19e0270540cd18d4d5545acb8fd1e4e"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/mechanical_crafting_immersive_aircraft_industrial_gears.js"
@@ -386,11 +386,11 @@ hash = "32056bec0974c8e6f6c13b6e0c5a8ee13ccbdaa43fd1ff8480fc311b6cca50c6"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "76baa3d2717a253e959bff6e1468592ebd9ec417e44e7f46846e57a4ca636c79"
+hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
 file = "kubejs/server_scripts/keep-inventory-custom.js"
-hash = "b03874c947acb1d77225200761b5b44436a88e983527121b71c12fd1ad90df4c"
+hash = "da5b3781933196dbf10289998f0bf4f6f8541fbbe007ea54b50530154602e19b"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -398,11 +398,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/no-player-damage.js"
-hash = "6bb3a1b25a39a7cde9e34800948226317be60566462562da9e0fe24142d527f1"
+hash = "4ff1c3e36fd8f7ea380a6149aec2974c00a8cc16501e9ba3d3520ac0caf11417"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
-hash = "c598d8f9710af7a23f92cdd9061894afa84b2380377a66e15d293e769c998f97"
+hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/lava-dripstone-disable.js"
@@ -1037,6 +1037,21 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "1bd3420a3c46463e96c84df3326c87c71bd19ed60204e5b1694cd2788133fe68"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
+hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
 metafile = true
 
 [[files]]
@@ -1688,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5ca8c39c2ea9bbaff1364b2d72f8d1172a0d91da634a8c19c838bc539003777f"
+hash = "110067d57d2802aa643c77d1c242e3d75910f69bed3ff3d7d65aa83190a6fc1a"
 
 [[files]]
 file = "resourcepacks/Suren FTB Quests 1.0.1 1.21.1.zip"
@@ -1704,7 +1719,7 @@ hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.3.zip.txt"
-hash = "be161b75f7e1e92628b976a57c8d3c88d4a88e6b840c095fe3fad2ddde77cfd1"
+hash = "5e06c870df439d1166743b6f60a6cb368371ec4194efde6eea3bd8af4ca3707b"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
@@ -1712,7 +1727,7 @@ hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "068628b46316c3ca482589bc45b5e5348da0e6db7f91c238b1e19ae8cfff87fe"
+hash = "343e52652da56d8fa0728a9979b51bb2ec0492c735b0fdd9ea66543e1c756f9e"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
@@ -1735,7 +1750,7 @@ hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "e99822d9e80473bd1f3cdfde9e447797ac9547daabc9493ed077b9606b106847"
+hash = "74e6abac6b5a7295a666bbffd344b6e37a82f6d734db6f0e2050b972731453b6"
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
@@ -1748,7 +1763,7 @@ hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
 
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "3652514137e7ade6fe606863fad99fc0b377db0293ddd349cdf53ad4d683a9c7"
+hash = "a937214d0db292922f7c9a3a247654bb6960bd02548f8f895d427eab04057977"
 
 [[files]]
 file = "wover-generator.nbt"
