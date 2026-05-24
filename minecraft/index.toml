@@ -975,7 +975,7 @@ file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
 hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
 
 [[files]]
-file = "mods/fixsodiumshaderloader-1.0.0.jar"
+file = "mods/fixsodiumshaderloader-1.0.0.jar.disabled"
 hash = "2991680a97184498a04105d5f31466c8852077c0a063e7efd0c6517cbbcc0ea4"
 
 [[files]]
