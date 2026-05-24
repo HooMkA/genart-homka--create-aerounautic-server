@@ -1230,9 +1230,8 @@ hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "3a8ee4667ac55f7d731cc07f6bc02278fb83048d0cb0b0d24ed6a666e87779bd"
-metafile = true
+file = "mods/mods_optimizer-neoforge-1.21.1-4.3.0.jar"
+hash = "fad15e65b22623527da3053936e5a69a9aca010f00b436a1597d17b3d6bfcbef"
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
@@ -1560,9 +1559,8 @@ hash = "2adf25ec00711d16b41c883e468df80e55448740b300d694364dd50744d76605"
 metafile = true
 
 [[files]]
-file = "mods/torohealth-damage-indicator-reformed.pw.toml"
-hash = "17c08ea2f467f6886b3b71065b59137586e262b3cf044258203d54b22095d1ba"
-metafile = true
+file = "mods/torohealth-1.21-neoforge-3.jar"
+hash = "4d7fa2b049e07efbfae081f30e5d594713d0b799c0724213aac2917de966a750"
 
 [[files]]
 file = "mods/txnilib.pw.toml"
