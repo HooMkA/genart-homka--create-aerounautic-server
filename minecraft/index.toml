@@ -1843,10 +1843,6 @@ hash = "41f8c0822c6b2f6fd130ebac048881d3d4c4971713700be860b57f9d9c6a56ec"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "110067d57d2802aa643c77d1c242e3d75910f69bed3ff3d7d65aa83190a6fc1a"
-
-[[files]]
 file = "resourcepacks/Suren FTB Quests 1.0.1 1.21.1.zip"
 hash = "bc5887f1b591e2045383f2b8ab55d82d1d2df83e2c95e6f50a26eb407d645e82"
 
