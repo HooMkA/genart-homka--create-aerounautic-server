@@ -190,7 +190,7 @@ hash = "1ce9b468b76a1595ae32cdd32e73bc2ea30aa8a08cb411bb3af8626d0733c72e"
 
 [[files]]
 file = "config/originpacks/SkyOrigins.zip"
-hash = "1a50b644473637e49e560d1105337d7dff1b6e2789cee8aa60de9915b6d26148"
+hash = "8c8dc37324319709033ed7b0b826f0c5120907389e13e8316c72b568b35ed332"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -615,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "fd923f77a85d87a52e78076d8a6ebe1ae5eeee5af132b960f52b47715c414ed9"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
 metafile = true
 
 [[files]]
