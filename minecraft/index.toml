@@ -185,6 +185,14 @@ file = "config/mods_optimizer/mods-database.json.sha256"
 hash = "0c04038f0341f9a129de9c8b12ad3b518e13c4fdaa2211943b0894399e4951e9"
 
 [[files]]
+file = "config/neoorigins-common.toml"
+hash = "1ce9b468b76a1595ae32cdd32e73bc2ea30aa8a08cb411bb3af8626d0733c72e"
+
+[[files]]
+file = "config/originpacks/SkyOrigins.zip"
+hash = "1a50b644473637e49e560d1105337d7dff1b6e2789cee8aa60de9915b6d26148"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -199,6 +207,10 @@ hash = "89a5a2302ca2d229e8799cc980a545dd9312e29eabee4f83a62ff9202631aa11"
 [[files]]
 file = "config/regions_unexplored/common.toml"
 hash = "a5f320b2ca7d136627322fd13a85a4009427bc96f38115e7ab6d944911e5abb3"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "d21205f9ee76b4139c31ba9296ae09e58a4a8a46f839872a2111ad0bff3dc15c"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
@@ -401,6 +413,14 @@ file = "kubejs/server_scripts/no-player-damage.js"
 hash = "4ff1c3e36fd8f7ea380a6149aec2974c00a8cc16501e9ba3d3520ac0caf11417"
 
 [[files]]
+file = "kubejs/server_scripts/remove_sophisticated_backpacks.js"
+hash = "94a4c2f9bdb6bf66a5c97a1996551c94a3dd2f85828fc351d10d53ed0a516246"
+
+[[files]]
+file = "kubejs/server_scripts/skyorigins_bed_rules.js"
+hash = "3105377acd924d68fc423cecc052f414d682cc608da784f6409f70f3885a2384"
+
+[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
@@ -419,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
-hash = "4920fc401715185c2fa5c3f8ba9cea25133181b427e45b0da05df4a6606e3962"
+hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
 metafile = true
 
 [[files]]
@@ -545,6 +565,16 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "77c29a9f3a11a8d906633def48ff287fbda0acca3402e40d206363e58ec60100"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "8e2b38b8c4788d37fd0b55192a3dca6e19174e314dcdb628578c633e5f527ff2"
+metafile = true
+
+[[files]]
+file = "mods/born-in-configuration.pw.toml"
+hash = "d0093499de4c680318d0dde5a49cd92f9c5f5dde2a10bd659bf8fb65fec69798"
 metafile = true
 
 [[files]]
@@ -729,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "ae9d5eb2a6a0b7caa92f1ffe88bedfa0e7cd468f7299a5d8c69e2b934485145b"
+hash = "57e8ff6c2bf41c7556f727251fda72946ebd8d849e5e83c141a679387a559dbc"
 metafile = true
 
 [[files]]
@@ -809,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "a241b19302c4107da7d62b3ec10207173fea73bfc2f7fb43d78a86663ecf062f"
+hash = "b9fd6d8f4f32e306b910be63b315f16bddbc4e9bfefa5d4a7d5a90e42773e05f"
 metafile = true
 
 [[files]]
@@ -878,6 +908,11 @@ hash = "1d344ac7919a897bbcba3d2f1b49249e49309084d8d413b7199ef8d8691dad6b"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "720e50543dd984e96963e0c6a2629914da44fd76e659e316dad9206a8322d5ea"
 metafile = true
@@ -930,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "342782adb93645be7966119166557a4c29d4ea51469cb57eeb12fd6af458fcce"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "1045ba1bb46eb77e2fea9be04268c2c73c161b94f3bceddbd4c3dbff1c0bf555"
 metafile = true
 
 [[files]]
@@ -1104,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "b2433c55646a64c814bfe767cc049d36b698332b6bc5e43c7f46c24af7b13a8d"
+hash = "37e8e5cc70d6c27591f8b258a7e6c3642160b56b3c0ab93ce4d4107d366c30a6"
 metafile = true
 
 [[files]]
@@ -1264,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f885b4e266f2b62b37e14a6b5213732402c1666a74ea6c9fed9a2ff6170d7c16"
+hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
@@ -1280,6 +1320,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "cd0556b20925fb07e12e2a4fe4d1e5d0708cc36ae21445ff2267a0afdd9a0142"
+metafile = true
+
+[[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "2fcbd3909e506844cb5850b780f1b20d82a9611b018634863145a3187fb4e2c7"
 metafile = true
 
 [[files]]
@@ -1323,6 +1368,11 @@ hash = "ec63f456322ec0849fe3a894b36f8d1daf88f1777143a5477fab8785f085d608"
 metafile = true
 
 [[files]]
+file = "mods/neo-origins.pw.toml"
+hash = "1da0a2f9179d6677b73dbe044f087bdf02629422a752909d8ffd54787ecc93d9"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "627347731a201adfeabc4af5ff306eec29cca5e6f7c2c56bed54456340069d5a"
 metafile = true
@@ -1363,6 +1413,11 @@ hash = "47a4595bdc13a9bb7b04488a26fc6e88fbef6405d9f17f588b3bf7c77d467e53"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "e6e2e1f3509ccdc8a888c612f624ecd0d1f4fed3d7c1e50490c4220d9aa97819"
 metafile = true
@@ -1384,7 +1439,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "266fd75d6e679787a074e21254114d74b23ce808382bc1169e4ff844299622d2"
+hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
@@ -1404,7 +1459,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ed82d22c861a0475b24dee35a70a5ab764a8ca98286097983974617f003068a6"
+hash = "f2e5979a9d263f1016973f2de90619865b36e9291bd0b6021c7b03b23c5c7aa5"
 metafile = true
 
 [[files]]
@@ -1440,6 +1495,11 @@ metafile = true
 [[files]]
 file = "mods/rolling-down-in-the-deep.pw.toml"
 hash = "5c24b50278075403271da9ddb18440a20c04077affbc3d20a1f8e05cfb100b59"
+metafile = true
+
+[[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "fffc4ce08823b44a89f5117fc3feabfa4a5ec92abf3ce18debd6017e04331aaf"
 metafile = true
 
 [[files]]
@@ -1523,8 +1583,13 @@ hash = "7847231873b5e066c8e25c6c21191ab051cbc6b40594e395ec3f9829d4bc5537"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f8f05819409e1c8f35095603595a422e2e6367541fea670b840ea54ae4f8dbf2"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7b549bdf33a8522313599aa6a733523457515e4123501d71ba8516a5b96df42d"
+hash = "ef01d70ba79fe521e78a122f87dbf430a4e8639f41264f9fdc653b7b617132f9"
 metafile = true
 
 [[files]]
@@ -1534,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8f545d2b45767791159c3c3f2caf17f26a935172f9eb395e11485fa05b6a88a7"
+hash = "8d8b6bd6054165cc3b84bac2d748b189d24d4aae409d5d381d57faa4bde22b76"
 metafile = true
 
 [[files]]
@@ -1608,6 +1673,11 @@ hash = "5bce4c18c28ddb4264834b70c9634eae84f2bec76006dcc45d77406d6e05984c"
 metafile = true
 
 [[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+metafile = true
+
+[[files]]
 file = "mods/toro-health.pw.toml"
 hash = "d6a1f8a99885f8949a38279ff6b15c1294a4711dd3d2dbf5b6f232c279f3d860"
 metafile = true
@@ -1615,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "892a1e3797ea8edbe2134758e4204bcd12306655a549960f70b8d70d84e7528c"
+metafile = true
+
+[[files]]
+file = "mods/underwater-village.pw.toml"
+hash = "183b6911813421c59df2de77ae810a0c188ea8d6b5d4e465ff19859b900ebbf5"
 metafile = true
 
 [[files]]
