@@ -1038,6 +1038,11 @@ hash = "e4d531f8593e4adf7b8e1ea85a6f870c771b543501255629b1fc9be525e886e3"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "8705cce477e8dd7261ae670eeb66d6b82967b82e3bfe6671a6caa56058725b20"
 metafile = true
@@ -1520,6 +1525,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "71753526dcc4f919be7866ebcbc52e3bcd18b0c9ded3ee6f532b78df87039124"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns-neoforged.pw.toml"
+hash = "af73092fff842130b4984706e419e177b8745cc6c588ae56ff100a480a4938d3"
 metafile = true
 
 [[files]]

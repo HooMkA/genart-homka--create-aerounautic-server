@@ -1,0 +1,13 @@
+name = "Scorched Guns Neoforged"
+filename = "ScorchedGuns-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41688a9d55c2d207d34f2a969e2abb209a09c9f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8132177
+project-id = 1538807
