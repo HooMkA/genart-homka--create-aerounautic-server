@@ -513,6 +513,11 @@ hash = "06965151abd0bff9a20a01df8bb4c392486c76ca14950f9cca2831380656a3f9"
 metafile = true
 
 [[files]]
+file = "mods/banner-capes-reforged.pw.toml"
+hash = "90972dd15ec7a8ff5f05f2847d41ca1a58057fa15c1225bd0c75e8eddc32131c"
+metafile = true
+
+[[files]]
 file = "mods/bclib-neoforge.pw.toml"
 hash = "cb8b73fcaf36567f4e7ab7e2dc56e85324d3dd00a25a22c1a8eb4175e67a2421"
 metafile = true
