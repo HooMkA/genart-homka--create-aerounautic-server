@@ -1,21 +1,20 @@
 example.com:80 {
 
-    encode gzip zstd
+    root * /srv/site
 
-    # PACKWIZ
-    handle_path /pack/* {
-        root * /srv/pack
+    header /pack/* Cache-Control "no-transform"
+
+    handle /pack/* {
+        root * /srv
         file_server
     }
 
-	handle_path /extras/* {
-        root * /srv/extras
+    handle /extras/* {
+        root * /srv
         file_server
     }
 
-    # DOCS
     handle {
-        root * /srv/site
         file_server
     }
 }
