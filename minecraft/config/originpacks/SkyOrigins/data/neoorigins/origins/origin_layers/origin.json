@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "order": 1,
+  "name": "origins.layer.origin",
+  "origins": [
+    "neoorigins:human",
+    "neoorigins:dwarf",
+    "neoorigins:avian",
+    "neoorigins:merling"
+  ],
+  "allow_random": false,
+  "auto_choose": false,
+  "hidden": false,
+  "enabled": true
+}

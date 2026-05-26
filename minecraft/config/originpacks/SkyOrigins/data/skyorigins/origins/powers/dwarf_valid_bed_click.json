@@ -1,0 +1,23 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "block_use",
+  "block_condition": {
+    "type": "neoorigins:block",
+    "tag": "minecraft:beds"
+  },
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<=",
+    "compare_to": 64
+  },
+  "entity_action": {
+    "type": "neoorigins:revoke_power",
+    "power": "skyorigins:dwarf_invalid_bed_spawn_override"
+  },
+  "name": {
+    "text": "Верная кровать"
+  },
+  "description": {
+    "text": "Снимает сброс респавна, если кровать используется на правильной высоте."
+  }
+}

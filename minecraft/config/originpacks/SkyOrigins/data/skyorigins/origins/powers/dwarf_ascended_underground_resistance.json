@@ -1,0 +1,19 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:resistance",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": true,
+  "show_particles": false,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<=",
+    "compare_to": 72
+  },
+  "name": {
+    "text": "Каменная стойкость"
+  },
+  "description": {
+    "text": "Эволюция: Resistance I ниже Y=72."
+  }
+}

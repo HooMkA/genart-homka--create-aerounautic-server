@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:movement_speed",
+  "amount": 0.05,
+  "operation": "add_multiplied_base",
+  "name": {
+    "text": "Выносливый шаг"
+  },
+  "description": {
+    "text": "Эволюция: немного быстрее передвигается."
+  }
+}

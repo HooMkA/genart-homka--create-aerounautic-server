@@ -1,0 +1,10 @@
+{
+  "type": "neoorigins:prevent_action",
+  "action": "sleep",
+  "name": {
+    "text": "Каменное убежище"
+  },
+  "description": {
+    "text": "Дварфы могут спать только на низкой высоте Y=64 и ниже."
+  }
+}

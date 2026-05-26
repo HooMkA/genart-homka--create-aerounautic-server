@@ -1,0 +1,23 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Гнёзда на высоте"
+  },
+  "description": {
+    "text": "Ниже Y=200 сон запрещён."
+  },
+  "interval": 20,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<",
+    "compare_to": 200
+  },
+  "entity_action": {
+    "type": "neoorigins:grant_power",
+    "power": "skyorigins:avian_prevent_sleep"
+  },
+  "else_action": {
+    "type": "neoorigins:revoke_power",
+    "power": "skyorigins:avian_prevent_sleep"
+  }
+}

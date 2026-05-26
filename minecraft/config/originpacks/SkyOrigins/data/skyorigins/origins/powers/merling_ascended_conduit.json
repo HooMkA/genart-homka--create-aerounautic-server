@@ -1,0 +1,17 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:conduit_power",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": true,
+  "show_particles": false,
+  "condition": {
+    "type": "neoorigins:in_water"
+  },
+  "name": {
+    "text": "Голос глубин"
+  },
+  "description": {
+    "text": "Эволюция: Conduit Power в воде."
+  }
+}

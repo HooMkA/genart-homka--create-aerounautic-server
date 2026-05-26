@@ -1,0 +1,54 @@
+{
+  "name": "origins.neoorigins.avian.name",
+  "description": "origins.neoorigins.avian.description",
+  "icon": "minecraft:feather",
+  "impact": "low",
+  "order": 3,
+  "powers": [
+    "neoorigins:avian_slow_fall",
+    "neoorigins:avian_no_hunger_sprint",
+    "neoorigins:avian_hollow_bones",
+    "neoorigins:avian_feather_hop",
+    "skyorigins:avian_night_vision",
+    "skyorigins:avian_low_altitude_discomfort",
+    "skyorigins:avian_deep_discomfort",
+    "skyorigins:avian_high_altitude_comfort",
+    "skyorigins:avian_sleep_gate",
+    "skyorigins:avian_invalid_bed_tag",
+    "skyorigins:avian_invalid_bed_click",
+    "skyorigins:avian_valid_bed_click"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "skyorigins:avian_evolved_hp",
+        "skyorigins:avian_evolved_high_haste"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "skyorigins:avian_ascended_hp",
+        "skyorigins:avian_ascended_deep_weakness"
+      ],
+      "remove": [
+        "skyorigins:avian_evolved_hp",
+        "skyorigins:avian_low_altitude_discomfort",
+        "skyorigins:avian_deep_discomfort"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "skyorigins:avian_apex_hp",
+        "skyorigins:avian_apex_high_resistance"
+      ],
+      "remove": [
+        "skyorigins:avian_ascended_hp"
+      ]
+    }
+  ]
+}

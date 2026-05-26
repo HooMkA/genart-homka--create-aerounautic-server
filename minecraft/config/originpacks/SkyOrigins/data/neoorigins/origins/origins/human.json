@@ -1,0 +1,39 @@
+{
+  "name": "origins.neoorigins.human.name",
+  "description": "origins.neoorigins.human.description",
+  "icon": "minecraft:apple",
+  "impact": "none",
+  "order": 1,
+  "powers": [],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "skyorigins:human_evolved_hp",
+        "skyorigins:human_evolved_luck"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "skyorigins:human_ascended_hp",
+        "skyorigins:human_ascended_speed"
+      ],
+      "remove": [
+        "skyorigins:human_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "skyorigins:human_apex_hp",
+        "skyorigins:human_apex_attack"
+      ],
+      "remove": [
+        "skyorigins:human_ascended_hp"
+      ]
+    }
+  ]
+}

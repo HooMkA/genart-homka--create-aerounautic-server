@@ -1,0 +1,22 @@
+# Важно: этот V2-пак переопределяет встроенные IDs neoorigins:human/dwarf/avian/merling.
+# Поэтому эти 4 origin должны быть TRUE, все остальные — FALSE.
+
+[origins]
+human = true
+merling = true
+avian = true
+dwarf = true
+# all other origins = false
+
+[evolution]
+enabled = true
+# Для теста можно временно:
+# tier_1_kills = 3
+# tier_2_kills = 5
+# tier_3_kills = 8
+# message_interval = 1
+# Для обычной игры:
+# tier_1_kills = 500
+# tier_2_kills = 1500
+# tier_3_kills = 3500
+# message_interval = 100

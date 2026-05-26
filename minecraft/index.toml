@@ -189,8 +189,192 @@ file = "config/neoorigins-common.toml"
 hash = "1ce9b468b76a1595ae32cdd32e73bc2ea30aa8a08cb411bb3af8626d0733c72e"
 
 [[files]]
-file = "config/originpacks/SkyOrigins.zip"
-hash = "8c8dc37324319709033ed7b0b826f0c5120907389e13e8316c72b568b35ed332"
+file = "config/originpacks/SkyOrigins/CONFIG_SNIPPET_neoorigins-common.toml"
+hash = "4d1b574a4f39e4fb8caabbccfa66bab6b57bc5ca5afb2a2f6f024633fb02b3ce"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/README_RU.md"
+hash = "88dcd6230e7ada20bd9dca56e99a85eec4503739f86f3ad903e8f0f386ed1ea3"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/neoorigins/origins/origin_layers/origin.json"
+hash = "ae3f324e79f221f457189456c127021eaa050af26a9c9dc7a4ad1290732ebf43"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/neoorigins/origins/origins/avian.json"
+hash = "1e3b80774161f970a81e416faf3845b34806d4603930026585cb5df9576dc473"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/neoorigins/origins/origins/dwarf.json"
+hash = "16d06e4431433fcecc7c19664e3786e2545a39b2b32537e2f955d96113cc9359"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/neoorigins/origins/origins/human.json"
+hash = "be1f5670a5098a71956bacef1282d4dcfcb200cca623bae6c3541eb90309d48f"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/neoorigins/origins/origins/merling.json"
+hash = "9d14b2f54c8b1be493e9f3845713479beae90c35893382fb407d416de47bdbbb"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_apex_high_resistance.json"
+hash = "06e0d79a0a8092b5ffb56f144677ed93f83c94038c9d58ff63d771b49cd1b1fa"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_apex_hp.json"
+hash = "af96c9d012554e8d2861d444aee5413fccdca065fe8df02cb1df5e7277f8f774"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_ascended_deep_weakness.json"
+hash = "3b71a737dd91cbad36a16b5a873ab58ea8009628e45132c5e3c524ed0fcb9bbc"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_ascended_hp.json"
+hash = "5d5dd3514860c18624467c284efa7cac41a4564dfe7ee957c5e3cfa2e02694ea"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_deep_discomfort.json"
+hash = "2932faab41cfbd410f7ef212cf2b93a3a09dd524d53046c1840ffea7503ef8ee"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_evolved_high_haste.json"
+hash = "5c5db4b1b3cf13643650fc8b4017350cddb8639ff7c422d927c7047277b6f7db"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_evolved_hp.json"
+hash = "0c1ed7bb8c1a52a90f8f36e2ac55e7b0fdc93802dc1a4bbd24d933f191ca2a46"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_high_altitude_comfort.json"
+hash = "b367971939a84666068ed309a716e7a21bf456edabd087add30978b4bbe2661e"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_invalid_bed_click.json"
+hash = "5581b51b325ff7caeb324bb1412904011dccc814b747f452b71103f796f1fa72"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_invalid_bed_spawn_override.json"
+hash = "a1ce15d0bbcd7d1586f9c6f24afb9eb7c48c27c1ce018b5b6d62119897cfb245"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_invalid_bed_tag.json"
+hash = "a92856e598f49be6791166ccc6d9e3abc3becfd9b13a715bb91aa4086a905286"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_low_altitude_discomfort.json"
+hash = "6a80803c3debf6692cd5b1336b2161beea9d4391f9492a6cfd23d152c4592a0e"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_prevent_sleep.json"
+hash = "361b3b708d6e8be6d6761c5e608f540ba2d663c4fc625af2d4ba2c2344aa346b"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_sleep_gate.json"
+hash = "2ace8adc627fb708d22237066c1b515f2b860d64b285fcae6ff3fee4a6408c30"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/avian_valid_bed_click.json"
+hash = "401240f3b7d21975de9a20029179530bbcb68df40fd8394a72ffe19c87169f85"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_apex_armor.json"
+hash = "d9ef4c9d0530502a7f7bc8a64d1ed17b6458cad778841ec7d805920fb1510523"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_apex_hp.json"
+hash = "af96c9d012554e8d2861d444aee5413fccdca065fe8df02cb1df5e7277f8f774"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_ascended_hp.json"
+hash = "5d5dd3514860c18624467c284efa7cac41a4564dfe7ee957c5e3cfa2e02694ea"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_ascended_underground_resistance.json"
+hash = "7402858a5895b9a23580dea99b935209a12c81c4b79f346aeff4531611ac4900"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_evolved_hp.json"
+hash = "0c1ed7bb8c1a52a90f8f36e2ac55e7b0fdc93802dc1a4bbd24d933f191ca2a46"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_evolved_underground_haste.json"
+hash = "efef5147a099657831bf0a6ce848c6a5b5d29746a4e4fd9b29d569f99b05f5be"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_invalid_bed_click.json"
+hash = "0f5ef33f599191c1b6f3a7a51846d4595d8aac6ca8b93aafbbe6f4d3e9a5bcc1"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_invalid_bed_spawn_override.json"
+hash = "a1ce15d0bbcd7d1586f9c6f24afb9eb7c48c27c1ce018b5b6d62119897cfb245"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_invalid_bed_tag.json"
+hash = "7160131370885fb562e3855f2509ad68c340df99108c37c93c255e32bc1cfa1a"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_prevent_sleep.json"
+hash = "f1b3b2147a36efeac01c2a97b99effecaff053ae2045a702326cff89070e1301"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_sleep_gate.json"
+hash = "3aeb234f985337eca5160d1ae99f63fa37d7395c98151e83fc7db2fa3c935c53"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/dwarf_valid_bed_click.json"
+hash = "0de398579ccedb4b7f98f0bf9d587b3d135e2beee92ad98072158fdad20a601f"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_apex_attack.json"
+hash = "0bc7eb06d150de7af9bcff3425839401a69a314b30df646c4b597a16887f0f9e"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_apex_hp.json"
+hash = "af96c9d012554e8d2861d444aee5413fccdca065fe8df02cb1df5e7277f8f774"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_ascended_hp.json"
+hash = "5d5dd3514860c18624467c284efa7cac41a4564dfe7ee957c5e3cfa2e02694ea"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_ascended_speed.json"
+hash = "7561c2ad7dd2b2d6133a43b668e4f6687a2e366a4882bda2c08a7f019d4aa478"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_evolved_hp.json"
+hash = "0c1ed7bb8c1a52a90f8f36e2ac55e7b0fdc93802dc1a4bbd24d933f191ca2a46"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/human_evolved_luck.json"
+hash = "a4b44552c95f34cd4384259c4ed657f5aaa9c0362ae830aa25d4828267c0a3f9"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_apex_dolphins_grace.json"
+hash = "7e0bed557b3b780fce7567e35094daf9348d047ab93277344e676acb98fc0323"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_apex_hp.json"
+hash = "af96c9d012554e8d2861d444aee5413fccdca065fe8df02cb1df5e7277f8f774"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_ascended_conduit.json"
+hash = "77a21d830a5ff6b4d93f1510b33b9d1060f6d2e3b1103334506c53272527a3e5"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_ascended_hp.json"
+hash = "5d5dd3514860c18624467c284efa7cac41a4564dfe7ee957c5e3cfa2e02694ea"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_evolved_hp.json"
+hash = "0c1ed7bb8c1a52a90f8f36e2ac55e7b0fdc93802dc1a4bbd24d933f191ca2a46"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/data/skyorigins/origins/powers/merling_evolved_swim_speed.json"
+hash = "7be5aa5153aa756ae6600bbd34c261b3de4ad123ac118e822378d30e43ac7974"
+
+[[files]]
+file = "config/originpacks/SkyOrigins/pack.mcmeta"
+hash = "e8621f7868ad5b1ee18f579047b02fa856e02cb5a75f30fa891f7c823a5ac48a"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"

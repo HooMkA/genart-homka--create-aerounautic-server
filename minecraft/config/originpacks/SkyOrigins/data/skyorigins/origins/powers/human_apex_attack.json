@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:attack_damage",
+  "amount": 0.5,
+  "operation": "add_value",
+  "name": {
+    "text": "Закалённая рука"
+  },
+  "description": {
+    "text": "Эволюция: небольшой бонус к ближнему урону."
+  }
+}

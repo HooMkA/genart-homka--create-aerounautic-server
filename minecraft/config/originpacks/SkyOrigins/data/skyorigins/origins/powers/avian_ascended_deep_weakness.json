@@ -1,0 +1,23 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Адаптация к низинам"
+  },
+  "description": {
+    "text": "После второй эволюции средние низинные штрафы исчезают, а глубоко внизу остаётся только Weakness I."
+  },
+  "interval": 80,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<",
+    "compare_to": 48
+  },
+  "entity_action": {
+    "type": "neoorigins:apply_effect",
+    "effect": "minecraft:weakness",
+    "duration": 120,
+    "amplifier": 0,
+    "show_particles": false,
+    "show_icon": true
+  }
+}

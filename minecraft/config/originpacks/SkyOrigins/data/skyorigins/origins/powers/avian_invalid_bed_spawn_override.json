@@ -1,0 +1,13 @@
+{
+  "type": "neoorigins:modify_player_spawn",
+  "location": {
+    "dimension": "minecraft:overworld"
+  },
+  "override_bed": true,
+  "name": {
+    "text": "Сброс неверной кровати"
+  },
+  "description": {
+    "text": "Если кровать была использована на неверной высоте, респавн у неё игнорируется."
+  }
+}

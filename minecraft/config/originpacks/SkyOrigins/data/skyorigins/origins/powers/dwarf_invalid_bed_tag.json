@@ -1,0 +1,24 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Неверная высота кровати"
+  },
+  "description": {
+    "text": "Служебная метка для запрета сохранения кровати не на своей высоте."
+  },
+  "hidden": true,
+  "interval": 20,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": ">",
+    "compare_to": 64
+  },
+  "entity_action": {
+    "type": "neoorigins:execute_command",
+    "command": "tag @s add skyorigins_no_bed_spawn"
+  },
+  "else_action": {
+    "type": "neoorigins:execute_command",
+    "command": "tag @s remove skyorigins_no_bed_spawn"
+  }
+}
