@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura-pached.pw.toml"
-hash = "76a927fe5e075f06409478bb448103ae0b5455a977506bad36646378f26727b4"
+hash = "af78a4dafdf9c6a30180a885edec8607c6abb67fbf00520878ff15a1498ec846"
 metafile = true
 
 [[files]]
@@ -1883,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/toro-health.pw.toml"
-hash = "d6a1f8a99885f8949a38279ff6b15c1294a4711dd3d2dbf5b6f232c279f3d860"
+hash = "cb15cbd0cdd9d3e5986d25df2bf0e7d52712051a2f3b1017e939149e106a31c2"
 metafile = true
 
 [[files]]
@@ -1904,6 +1904,11 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "bc2f6e4d3879e5ce33b78bdeb3c313685a3eabb3c5fdaa3b85fc942f9a3082e9"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "3deb2f1128a593eb00319d4f341a40bdd54fda6e32531992067107ae24185665"
 metafile = true
 
 [[files]]
