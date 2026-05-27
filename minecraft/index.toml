@@ -1907,11 +1907,6 @@ hash = "bc2f6e4d3879e5ce33b78bdeb3c313685a3eabb3c5fdaa3b85fc942f9a3082e9"
 metafile = true
 
 [[files]]
-file = "mods/view-distance-fix.pw.toml"
-hash = "3deb2f1128a593eb00319d4f341a40bdd54fda6e32531992067107ae24185665"
-metafile = true
-
-[[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
 hash = "e3f16f76fc36d3fa9207d52e651c7520b5ab5ed135cc6cfdc7c6e2231e1cdd9d"
 metafile = true
