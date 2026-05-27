@@ -1,7 +1,7 @@
 {
   "lodStreamRadius": 128,
   "maxSectionsPerTickPerPlayer": 10,
-  "sectionsPerPacket": 50,
+  "sectionsPerPacket": 40,
   "generateOnChunkLoad": true,
   "tickInterval": 10,
   "workerThreads": 4,
