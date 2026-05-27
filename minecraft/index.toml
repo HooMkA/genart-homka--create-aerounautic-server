@@ -410,7 +410,7 @@ hash = "f1948de67e8d88041ad6a7f8ecd92026ed464879aacd99c1b1a4fe8b16cd5082"
 
 [[files]]
 file = "config/voxyserver.json"
-hash = "aa493870bcb41f9efe2691f9572ae42bfe5f573aa4023e0ed31a4be14f34fe38"
+hash = "d90385d909484bd24d2b98bc0add3e2ba6de419f1b604f1c4f797eef3bd1c54b"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -1232,6 +1232,11 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
+file = "mods/ferronautics.pw.toml"
+hash = "6753dcc989c586b6d7b560f7224c2ee090dc9d41384200ccb28eaea924582cdf"
+metafile = true
+
+[[files]]
 file = "mods/figura-pached.pw.toml"
 hash = "af78a4dafdf9c6a30180a885edec8607c6abb67fbf00520878ff15a1498ec846"
 metafile = true
@@ -1958,7 +1963,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxyserver.pw.toml"
-hash = "7d24ef461958db84ef7bd3979b6336194c27cdc797ab154e6fa231955a4c50c2"
+hash = "67205543b80c609fb2e6c5e31d1f4254274637c8968f13bdeb3d9971eccd5ae0"
 metafile = true
 
 [[files]]

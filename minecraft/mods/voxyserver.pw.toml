@@ -9,5 +9,5 @@ hash = "d1a80e1ffa5478c7213222701d6dfd84cff2fac89d219623d5c5a64deee69cb6"
 
 [option]
 optional = true
-default = true
-description = "Поддержка загрузки лодов для Voxy с сервера. \n\n Если играете с с Voxy - ставьте."
+default = false
+description = "ПОКА ЧТО ПРОБЛЕМНЫЙ! СТАВЬТЕ ОДИН ВОКСИ\n\nПоддержка загрузки лодов для Voxy с сервера. \n\n Если играете с с Voxy - ставьте."
