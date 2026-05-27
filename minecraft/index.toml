@@ -652,6 +652,16 @@ hash = "c2b35d0c367f917d39b63f96a6c7f98c918d9d7474a2190dd2c6528ba5f1b9af"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "60576a38522dd1c02830d1e769d7c16ccc89271c3b8fa3b18061d5d34fb2f7d8"
 metafile = true
@@ -704,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
 hash = "cb8b73fcaf36567f4e7ab7e2dc56e85324d3dd00a25a22c1a8eb4175e67a2421"
+metafile = true
+
+[[files]]
+file = "mods/beautify.pw.toml"
+hash = "5e3421b58c8c905e686ed7b63d2fe086fe3265009347ca01aba99f13cb8edca3"
 metafile = true
 
 [[files]]
@@ -768,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "978e784dbf2dc04a2a7ec4b1cea10b2b571e9e304179d9aab0b4894cd936ad9f"
+hash = "c7d3f229dcfbbfcd2dbd15b2c2ff7dc0710c4a66a36d9bfd7dc4878d0b2bee8a"
 metafile = true
 
 [[files]]
