@@ -6,3 +6,7 @@ side = "client"
 url = "http://pack.jolly-roger.digital/extras/mods/torohealth-1.21-neoforge-3.jar"
 hash-format = "sha256"
 hash = "4d7fa2b049e07efbfae081f30e5d594713d0b799c0724213aac2917de966a750"
+
+[option]
+optional = true
+default = false

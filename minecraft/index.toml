@@ -410,7 +410,7 @@ hash = "f1948de67e8d88041ad6a7f8ecd92026ed464879aacd99c1b1a4fe8b16cd5082"
 
 [[files]]
 file = "config/voxyserver.json"
-hash = "c9aa8001bf21ac7657dbddc7a36240ba0139c589542a092c7068faa0ed963b8e"
+hash = "1893d242965f32cbf1d8933537fdea24274d3bf36ef52b5904bf2b3aea93e236"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -1918,7 +1918,7 @@ metafile = true
 
 [[files]]
 file = "mods/toro-health.pw.toml"
-hash = "cb15cbd0cdd9d3e5986d25df2bf0e7d52712051a2f3b1017e939149e106a31c2"
+hash = "5569660bb87dd37e56f7765c96d1e55690c8d72aea0770fa4df68ae1db0d12c0"
 metafile = true
 
 [[files]]
