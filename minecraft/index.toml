@@ -78,7 +78,7 @@ hash = "4bf246571549580c3f81bf591455b1ef346f05567c6d5c588a2061ac4cf5fbc8"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "c01e42aa3500810a973252bfa04b6090d52c836240a87141ee0aefd2e3f3fe6f"
+hash = "c1dff20252e7a8f0733d098ba189c17596a347c2509718279826882c66043ccf"
 
 [[files]]
 file = "config/figura.json"
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "318191d1fc7d0e6c1833c50c33405b8260faa043359bc57f7d90628fdb931f59"
+hash = "97b6d7259a473cd697d7baebb12f4615ddf9e294838bb8d56618a215fee71418"
 metafile = true
 
 [[files]]
