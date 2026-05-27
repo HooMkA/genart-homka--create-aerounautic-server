@@ -410,7 +410,7 @@ hash = "f1948de67e8d88041ad6a7f8ecd92026ed464879aacd99c1b1a4fe8b16cd5082"
 
 [[files]]
 file = "config/voxyserver.json"
-hash = "d36ef8a0b805456c289a0ddd2c7ae1036ea619f84a957a5dd666b367f1effeeb"
+hash = "c9aa8001bf21ac7657dbddc7a36240ba0139c589542a092c7068faa0ed963b8e"
 
 [[files]]
 file = "config/wover/cached.json"
