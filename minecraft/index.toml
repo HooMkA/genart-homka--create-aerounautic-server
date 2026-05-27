@@ -1442,6 +1442,11 @@ hash = "7bc89fc417a87cb692fd61d68584efb4ec1b4b30f2196b752684a688c1f0463c"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "b4f228807c58cdd60cedd6fb45a1cfdc0caf6273893e4e5ee87a421ce668bda4"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "695badba7c25c9afeb8cce4d0ae1ee269a823f7f519bdf699a6999a46de64655"
 metafile = true
@@ -1707,6 +1712,11 @@ hash = "13aeffc2aa93f4cc7526ac98ec4a7b4b91bc041704da03b87157558cca8ce463"
 metafile = true
 
 [[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "fb925748b1996bacd0ca00ab576e3ee3f561e29adfacb5100807d1c0c5eca4f1"
+metafile = true
+
+[[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
 hash = "c15888d2b677295de4a7a3f335c1a32e592556e22578122b84eb7874985228bd"
 metafile = true
@@ -1844,6 +1854,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "0c4b64684b5d8e53846baec59bff5a8196e4c3e8500647aed03334a9dca24c2a"
+metafile = true
+
+[[files]]
+file = "mods/synaxis.pw.toml"
+hash = "e02020bb37e34b6ef42c8a3a624120e68ffc73e7919cb915183741ae3950ba3c"
 metafile = true
 
 [[files]]
