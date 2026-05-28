@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/RUtQ9kfe/versions/IHto8d1O/neoorigins-2.1.1%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "3e8b182c5622817e026cd87cc46c934ef0e7316d5136644cb5270e98aa415a581518de0486153057f382efb49240d40c52671b68e42213240b528320307ff589"
+hash-format = "sha256"
+hash = "82032f94f97b3ef7de4bdaa43def3198a7d74ba19cbb0299dd2aea489a39043d"
 
 [update]
 [update.modrinth]

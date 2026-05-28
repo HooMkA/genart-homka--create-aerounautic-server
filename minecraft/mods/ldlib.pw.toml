@@ -3,8 +3,8 @@ filename = "ldlib2-neoforge-1.21.1-2.2.13-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1283a9536addba6bffad275c457fc4db70cecf4a"
+hash-format = "sha256"
+hash = "418290a09057fc7e28fd96ef697fa409d62cd6ad052d1d00c6fda37c8a1d12bd"
 mode = "metadata:curseforge"
 
 [update]

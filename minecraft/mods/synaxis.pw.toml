@@ -3,8 +3,8 @@ filename = "synaxis-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be7b1fce1df8a317ed8eebbb4dd547e38f54eb26"
+hash-format = "sha256"
+hash = "3cc00f2aa6d59a230467198b33b68db9b0b6ada4855998231485299bfceafa9c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "create_ferronautics-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b7b0c66bbee8efcfbd6ae75e6b3b65c283aca2ad"
+hash-format = "sha256"
+hash = "6824dcc0e41faa1a95f1a039694229d705ddefe84f3da1f43e893620633faaa2"
 mode = "metadata:curseforge"
 
 [update]

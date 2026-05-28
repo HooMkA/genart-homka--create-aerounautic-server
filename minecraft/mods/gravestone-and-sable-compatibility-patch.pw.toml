@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xJqwA0XO/versions/bdUGV5X8/gravestone_sable_compat-1.0.0.jar"
-hash-format = "sha512"
-hash = "41b85b7db3afd23bb2a079e31beba53dc9026dc1a38ad6678b82cd032099430c4bd5a4008bdbfba1e5948a5b17f5b3a280ac6c3e75737b03ab26e570cfe6a28e"
+hash-format = "sha256"
+hash = "5edab880eb160fb6fef87c5bf229cad4a89d3fbf7c58a7ee7656e56600832089"
 
 [update]
 [update.modrinth]

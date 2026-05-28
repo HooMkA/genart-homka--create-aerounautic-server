@@ -3,8 +3,8 @@ filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60d2ce7f9ce3f6e5da6a0bce0a84048fe3a0152e"
+hash-format = "sha256"
+hash = "9afebf09cf6a75e731c9eda414fcebc2a414f9e3d834ceea49bbfcc9c45492b7"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "borninconfiguration-3.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c334e3f780d4347e2a12524770354e93a9d6fcce"
+hash-format = "sha256"
+hash = "ae0370b27920830dab39972385c938e13838a6f7f2adc61bdb00b13b0dbd3885"
 mode = "metadata:curseforge"
 
 [update]

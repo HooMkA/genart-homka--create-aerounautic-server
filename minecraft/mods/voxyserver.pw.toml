@@ -1,13 +1,13 @@
 name = "VoxyServer"
-filename = "VoxyServer-1.1.5.jar"
+filename = "VoxyServer-1.1.5-supp-fix.jar"
 side = "both"
 
 [download]
-url = "http://pack.jolly-roger.digital/extras/mods/VoxyServer-1.1.5.jar"
+url = "http://pack.jolly-roger.digital/extras/mods/VoxyServer-1.1.5-supp-fix.jar"
 hash-format = "sha256"
-hash = "d1a80e1ffa5478c7213222701d6dfd84cff2fac89d219623d5c5a64deee69cb6"
+hash = "3ac5fd1f497d9a25aabf35792b44abd16bd83d1351ddba6f26d966e36c6b2e4f"
 
 [option]
 optional = true
-default = false
-description = "ПОКА ЧТО ПРОБЛЕМНЫЙ! СТАВЬТЕ ОДИН ВОКСИ\n\nПоддержка загрузки лодов для Voxy с сервера. \n\n Если играете с с Voxy - ставьте."
+default = true
+description = "Поддержка загрузки лодов для Voxy с сервера. \n\n Если играете с с Voxy - ставьте."
