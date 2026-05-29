@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "98da7272554177276350e3df0e3ae55f9a727d7af3893767e964494342c386ba"
+hash = "c4447fafbfdb171e3db8d5b46e9a65cc2b11cd26bf95fd81e5a575f918b2df33"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "1d344ac7919a897bbcba3d2f1b49249e49309084d8d413b7199ef8d8691dad6b"
+hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
 metafile = true
 
 [[files]]
@@ -1274,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/figura-pached.pw.toml"
 hash = "af78a4dafdf9c6a30180a885edec8607c6abb67fbf00520878ff15a1498ec846"
+metafile = true
+
+[[files]]
+file = "mods/flyhigher.pw.toml"
+hash = "0c1391546cd77d2433bfb261667d499d4657dd119518309228767b349b66ad69"
 metafile = true
 
 [[files]]
@@ -1534,6 +1539,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "d7b0d63feed1e2330d2476bceb5398376ccb45d7d71293abe48a0b4ea85e39d7"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
 metafile = true
 
 [[files]]
@@ -1853,12 +1863,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "708cd49d480f5d9e25333ce4e654592269384a9f9a18147fa18f925764bd0f08"
+hash = "b656cd4d01f562e4222b9e872770f9517d123d752019aa37946f3264163a6bcc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "df454c137cddcdada40ca7f830681fc8607517f3bb69de7165e2dafb8cdcaf24"
+hash = "57ca1699559cc3e23320e27b1cca02b5c3687bc7c6d4506cd663570971e60dfc"
 metafile = true
 
 [[files]]
@@ -1868,7 +1878,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "9c826c138f5009f4c51047ed5c783bac5c85dedf3cf53f2f4b2fdbd9a9d102ab"
+hash = "3edbfd427996e6e9ce800a7cf8503de1790b7d6c068138ead492c4fd8b267acf"
 metafile = true
 
 [[files]]
