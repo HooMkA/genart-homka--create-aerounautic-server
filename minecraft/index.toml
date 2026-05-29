@@ -81,6 +81,14 @@ file = "config/biome_replacer.properties"
 hash = "c1dff20252e7a8f0733d098ba189c17596a347c2509718279826882c66043ccf"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "4647f7b4031a38d76741001097497ff59693872b34cd0ee0edca6fd2dc58cf92"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/chunkyborder/config.json"
 hash = "ec47ee1561fa1f52afea396bddd22a8c13cec7ae833d31aead7d1764adb3aede"
 
@@ -187,6 +195,10 @@ hash = "cd6e0f100089b022189b3c492ef77d3edcc243966f1779c13dc1a86be2fe9cd8"
 [[files]]
 file = "config/mods_optimizer/mods-database.json.sha256"
 hash = "0c04038f0341f9a129de9c8b12ad3b518e13c4fdaa2211943b0894399e4951e9"
+
+[[files]]
+file = "config/molten_vents-common.toml"
+hash = "34591098ca081cce0dd9ab52ee9b62e64bd48f9be17e96f284ebb00748d43086"
 
 [[files]]
 file = "config/neoorigins-common.toml"
