@@ -409,6 +409,10 @@ file = "config/regions_unexplored/common.toml"
 hash = "a5f320b2ca7d136627322fd13a85a4009427bc96f38115e7ab6d944911e5abb3"
 
 [[files]]
+file = "config/sable-common.toml"
+hash = "cb1838c7da1530274a9fad616913e2d94afcb6ebbf3214b2cf326e3a0ac67bb0"
+
+[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "d21205f9ee76b4139c31ba9296ae09e58a4a8a46f839872a2111ad0bff3dc15c"
 
@@ -938,6 +942,11 @@ hash = "4cbb0ffa6bb9b8099eb2ee1df350a241c372d1a49be45cf326418ae1d55700d0"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "89cd69bc05b2924ce052b375651e5f989ec78b038f4baaff1d2b5c3e95ac0455"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "b34807f9c294888dc6a0d0688afbdbffa7dfb5b1f597a077b8b9d7477fa497e4"
 metafile = true
@@ -1033,6 +1042,11 @@ hash = "f51c27b4f8ea4901324381a839383b135a3895d3b470d9da548c664c3b612027"
 metafile = true
 
 [[files]]
+file = "mods/create-kinetic-grip.pw.toml"
+hash = "79592ca077b9fcc15805ae2ba25fe0d0966f49be9eddddc2ce043f6c02c2a49e"
+metafile = true
+
+[[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "22bd869a4b7415361de1ccb0d572560880c77025b225417e9789c4cee1e83cad"
 metafile = true
@@ -1045,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "37b1569362671d7af8106831883daf97cfbe768b9bdf2ac3b282328e2a53b464"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
@@ -1764,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "db4c3c66d73cd1aa5b8987f67cb612c3da1d27122b682d5a3ee7a59f30475d84"
+hash = "bc73e5e6fa0e429c24db9478aa8f6af01bed54b2cd1208403d8d936c45799d7b"
 metafile = true
 
 [[files]]
