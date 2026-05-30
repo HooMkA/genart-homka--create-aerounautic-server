@@ -4,7 +4,7 @@
 
 [overworld_biome_toggles]
 	#Default: true
-	toggle_alpha_grove = true
+	toggle_alpha_grove = false
 	#Default: true
 	toggle_arid_mountains = true
 	#Default: true

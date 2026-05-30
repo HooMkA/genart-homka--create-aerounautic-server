@@ -406,7 +406,7 @@ hash = "89a5a2302ca2d229e8799cc980a545dd9312e29eabee4f83a62ff9202631aa11"
 
 [[files]]
 file = "config/regions_unexplored/common.toml"
-hash = "a5f320b2ca7d136627322fd13a85a4009427bc96f38115e7ab6d944911e5abb3"
+hash = "fe8881635d00fa5aa93f61e4b3a5b870a6f69b8fcbad84451fdb7c3f773d5a6f"
 
 [[files]]
 file = "config/sable-common.toml"
