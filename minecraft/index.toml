@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "55ff659f7a6d72dcb986308592fedb3b365a39a817fbfcca6abf1793da4f366f"
+hash = "c8350e339b30451920019a986923f0d925521aafba67fc2b530d79b32b492034"
 metafile = true
 
 [[files]]
@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic-grip.pw.toml"
-hash = "79592ca077b9fcc15805ae2ba25fe0d0966f49be9eddddc2ce043f6c02c2a49e"
+hash = "c0088afb565f42dd962c4d76a2a6fd1de13733da9d96c91113634220ab9a1efc"
 metafile = true
 
 [[files]]
@@ -1553,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "74e29b362f7a997fa830093085d6e4ab5a36c6df026baeb90852a266b7a96af8"
+hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
 metafile = true
 
 [[files]]
@@ -1768,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "4d419d4682c3bd300b8cf2096a938f14d8b923ed2ac9a4171973560b704b95ca"
+hash = "69cf64b8170a3a783f47e6192ede5a42a73cac639793a8ef4f07fb2ef2bbec69"
 metafile = true
 
 [[files]]
@@ -1828,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "bc73e5e6fa0e429c24db9478aa8f6af01bed54b2cd1208403d8d936c45799d7b"
+hash = "cf6829a0c981b45909dd519e8da9ca80d04b850c2ee7bdd1e0821d517f89d0a7"
 metafile = true
 
 [[files]]
@@ -1853,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0f2a31327389e2eb4662e414412b84e372fb570c5e7be162a416214d8eb22b87"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
@@ -1958,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0c4b64684b5d8e53846baec59bff5a8196e4c3e8500647aed03334a9dca24c2a"
+hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
 metafile = true
 
 [[files]]
