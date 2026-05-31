@@ -1,9 +1,7 @@
 ## Как скачать нормально
 В Prism/PolyMC создаём инстанс 1.21.1 и Neoforge 21.1.230(bтам чуть ниже покрутить и увидете лоадеры)
-Далее скачиваем [ТЫК СЮДА!](https://pack.jolly-roger.digital/extras/packwiz-installer-bootstrap.jar), И забрасываем его в папку `minecraft` и ВАЖНО добавляем в custom commands:
-```env
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pack.jolly-roger.digital/pack/pack.toml
-```
+Далее скачиваем [ТЫК СЮДА!](https://pack.jolly-roger.digital/extras/Aero-Dev-Prism.zip)  
+ВАЖНО именно достаём папку из архива(а не просто разархивировать) и закидываем `Aero Dev` в папку instance вашего лаунчера
 после чего можно спокойно запускать
 
 <br>
