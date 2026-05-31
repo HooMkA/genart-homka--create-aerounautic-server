@@ -1,0 +1,585 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4_4C67B597AB45D9D4"
+	group: "12020D090EBF51D3"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "tfmg:large_steel_cogwheel"
+	}
+	id: "4C67B597AB45D9D4"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["48A050F527F0B4C9"]
+			id: "5E3F411E65905D7E"
+			size: 2.0d
+			tasks: [{
+				id: "5F20EAFF2FBEFE7E"
+				item: { count: 1, id: "tfmg:silicon_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E3F411E65905D7E"]
+			id: "0BDD5FF0619BABFC"
+			tasks: [{
+				id: "3F8CEC28E24A99DB"
+				item: { count: 1, id: "tfmg:magnetic_alloy_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0BDD5FF0619BABFC"]
+			id: "78E5409181006669"
+			tasks: [{
+				id: "45CB79869820C08D"
+				item: { count: 1, id: "tfmg:magnet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"78E5409181006669"
+				"7219DF4483631172"
+			]
+			id: "721BB104464EF98F"
+			tasks: [{
+				id: "56ACEDDEAA9BC0B4"
+				item: { count: 1, id: "tfmg:generator" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["721BB104464EF98F"]
+			id: "27E76C0D64288365"
+			tasks: [
+				{
+					count: 2L
+					id: "73CBCFA06656944E"
+					item: { count: 1, id: "tfmg:electrode_holder" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "50093D59CFF956F2"
+					item: { count: 1, id: "tfmg:copper_electrode" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "51C6DD9147120FB9"
+					item: { count: 1, id: "tfmg:zinc_electrode" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0E3449EB67735ADE"
+					item: { count: 1, id: "tfmg:steel_chemical_vat" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78E5409181006669"]
+			id: "331EED2768E33E51"
+			tasks: [{
+				id: "2DD5A43B477EE576"
+				item: { count: 1, id: "tfmg:electric_motor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["27E76C0D64288365"]
+			id: "3216872E42596098"
+			tasks: [
+				{
+					count: 4L
+					id: "17867ACDFC033771"
+					item: { count: 1, id: "tfmg:bauxite_powder" }
+					type: "item"
+				}
+				{
+					id: "41713DC356386127"
+					item: { count: 1, id: "tfmg:aluminum_ingot" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			id: "5A42294A9F2A361B"
+			tasks: [{
+				id: "55CD0156267FAC8C"
+				item: { count: 1, id: "tfmg:industrial_aluminum_casing" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5A42294A9F2A361B"]
+			id: "055E3A9DE1771235"
+			tasks: [{
+				id: "093C13A85BC69A48"
+				item: { count: 1, id: "tfmg:accumulator" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			id: "31FA5E388CA8D6BF"
+			tasks: [{
+				id: "2E53CC786D8530EF"
+				item: { count: 1, id: "tfmg:electricians_wrench" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			id: "2674786AA8202BC9"
+			tasks: [
+				{
+					id: "327D86CF5E53359C"
+					item: { count: 1, id: "tfmg:rotor" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4A8CD82C1DC96491"
+					item: { count: 1, id: "tfmg:stator" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			id: "19C33D3BFED67B03"
+			tasks: [
+				{
+					id: "18B9584E50CE7E5E"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+				{
+					id: "58615922E6324980"
+					item: { count: 1, id: "tfmg:steel_cogwheel" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "73CCC2317E184F98"
+					item: { count: 1, id: "tfmg:steel_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "16219E1CEDB4E275"
+					item: { count: 1, id: "tfmg:steel_mechanism" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7B07386D65A778FC"
+					item: { components: { "tfmg:fuel_tags": { kerosene: "c:kerosene" }, "tfmg:fuels": { kerosene: "fluid.tfmg.kerosene" } }, count: 1, id: "tfmg:turbine_blade" }
+					type: "item"
+				}
+				{
+					id: "7A0C355DAE197893"
+					item: { count: 1, id: "tfmg:turbine_engine" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			dependency_requirement: "one_completed"
+			id: "6E2AB684C9F58601"
+			tasks: [
+				{
+					id: "4BC2E958075FB80C"
+					item: { count: 1, id: "tfmg:crankshaft" }
+					type: "item"
+				}
+				{
+					id: "020B57F95104B029"
+					item: { count: 1, id: "tfmg:steel_cogwheel" }
+					type: "item"
+				}
+				{
+					id: "48F94EB3F391C8BD"
+					item: { count: 1, id: "tfmg:large_steel_cogwheel" }
+					type: "item"
+				}
+				{
+					id: "6FBD7AF878BAEA4A"
+					item: { count: 1, id: "create:belt_connector" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1DFC579702B6C020"
+					item: { count: 1, id: "tfmg:steel_pipe" }
+					type: "item"
+				}
+				{
+					id: "26C6661BCE2A9B99"
+					item: { count: 1, id: "tfmg:steel_mechanism" }
+					type: "item"
+				}
+				{
+					id: "6FF3B37F117F7B9F"
+					item: { count: 1, id: "tfmg:regular_engine" }
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E2AB684C9F58601"]
+			id: "5E49F323C3E17BBF"
+			shape: "irontier"
+			size: 2.0d
+			tasks: [{
+				id: "544A97092C5797A0"
+				item: { count: 1, id: "tfmg:radial_engine" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E2AB684C9F58601"]
+			id: "74D323183B7A89D3"
+			tasks: [{
+				id: "0E6BF249A4B98408"
+				item: { count: 1, id: "tfmg:simple_engine_cylinder" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6E2AB684C9F58601"]
+			id: "16C28EB6C0D6DF8D"
+			tasks: [{
+				id: "465AB8C42DE7513A"
+				item: { count: 1, id: "tfmg:engine_cylinder" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6E2AB684C9F58601"]
+			id: "365E53E5A00064A3"
+			tasks: [{
+				id: "6B01A1BC287929F1"
+				item: { count: 1, id: "tfmg:diesel_engine_cylinder" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["27E76C0D64288365"]
+			id: "2436A53F6FA85ECF"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "7AE5F79A693D67BF"
+				item: {
+					count: 1
+					id: "tfmg:exhaust"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "55DD25C4472FB54C"
+					item: { count: 1, id: "tfmg:electrode_holder" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "3FBBBD382B7CD640"
+					item: { count: 1, id: "tfmg:graphite_electrode" }
+					type: "item"
+				}
+				{
+					count: 18L
+					id: "19988822BF3CF99D"
+					item: { count: 1, id: "tfmg:fireproof_chemical_vat" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["31BFEFA5171E7989"]
+			id: "111775B869BF1253"
+			tasks: [{
+				id: "6C268C15582C2C14"
+				item: { count: 1, id: "tfmg:winding_machine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["111775B869BF1253"]
+			icon: {
+				id: "tfmg:electromagnetic_coil"
+			}
+			id: "6AB7E657BC595990"
+			tasks: [
+				{
+					id: "376AE7A155F9FEBB"
+					item: { count: 1, id: "tfmg:electromagnetic_coil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "439B8FBA5EB07106"
+					item: { count: 1, id: "tfmg:constantan_spool" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6AB7E657BC595990"]
+			id: "49F0215560E65346"
+			tasks: [{
+				id: "52806A9D7EA39D96"
+				item: { count: 1, id: "tfmg:transformer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["49F0215560E65346"]
+			id: "1B7302698E29375A"
+			optional: true
+			rewards: [{
+				count: 8
+				id: "188A6DBB8C198CD0"
+				item: {
+					count: 1
+					id: "tfmg:copper_wire"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "628C09CF3A6EC685"
+				item: { count: 1, id: "tfmg:converter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0BDD5FF0619BABFC"]
+			id: "31BFEFA5171E7989"
+			rewards: [{
+				count: 3
+				id: "7A10B47E1937E59E"
+				item: {
+					count: 1
+					id: "tfmg:magnet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57BA11B6F5D405A3"
+				item: { count: 1, id: "tfmg:voltmeter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"31BFEFA5171E7989"
+				"6AB7E657BC595990"
+			]
+			id: "7C7116EE1730CD76"
+			tasks: [{
+				id: "030B8DCC2BD98AF1"
+				item: { count: 1, id: "tfmg:resistor" }
+				optional_task: true
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7C7116EE1730CD76"]
+			id: "497FEC9F77758360"
+			tasks: [{
+				id: "2F8E30A0F3DD4D33"
+				item: { count: 1, id: "tfmg:polarizer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["497FEC9F77758360"]
+			id: "7219DF4483631172"
+			tasks: [{
+				id: "79ECBA4AF44FECF7"
+				item: { count: 1, id: "tfmg:capacitor_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6AB7E657BC595990"]
+			id: "29483077706C950D"
+			tasks: [{
+				id: "6974D1C7495BE834"
+				item: { count: 1, id: "tfmg:potentiometer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["31BFEFA5171E7989"]
+			id: "4F73E0075578C020"
+			tasks: [{
+				id: "4B4536F5A0DEDB4C"
+				item: { count: 1, id: "tfmg:multimeter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0BDD5FF0619BABFC"]
+			id: "430ADFBEE8AF5BEB"
+			rewards: [{
+				id: "104FEF354A2B1037"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "642B31A7A413D4FE"
+				item: { count: 1, id: "tfmg:simple_large_engine" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			hide_dependency_lines: true
+			id: "057CF71F9892DEB8"
+			rewards: [{
+				id: "21105B69E6FAFCE6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2625685726A7B04B"
+				item: { count: 1, id: "tfmg:large_engine" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["430ADFBEE8AF5BEB"]
+			id: "0777F9E957FFA288"
+			optional: true
+			tasks: [{
+				id: "75211D7C863C45EB"
+				item: { count: 1, id: "tfmg:oil_can" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3216872E42596098"]
+			id: "64C739DB44826F41"
+			rewards: [{
+				id: "1F48BDA2433B4020"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E6DD4B55CFDE2D4"
+				item: { count: 1, id: "tfmg:turbo" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["31BFEFA5171E7989"]
+			id: "493E567442B46F6D"
+			optional: true
+			rewards: [{
+				id: "13E5B81F3647E2F8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2DC6E9E0A81DBA83"
+				item: { count: 1, id: "tfmg:engine_controller" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["493E567442B46F6D"]
+			id: "64D6F2B11419A01A"
+			rewards: [{
+				id: "17A57A4961891767"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3DB0241255AC49F7"
+				item: { count: 1, id: "tfmg:transmission" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+	]
+}

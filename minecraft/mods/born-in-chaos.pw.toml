@@ -1,0 +1,13 @@
+name = "Born in Chaos"
+filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9afebf09cf6a75e731c9eda414fcebc2a414f9e3d834ceea49bbfcc9c45492b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7917953
+project-id = 686437

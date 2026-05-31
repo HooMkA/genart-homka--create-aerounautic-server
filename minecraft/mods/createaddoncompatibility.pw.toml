@@ -1,0 +1,13 @@
+name = "Create: Addon Compatibility"
+filename = "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgrK9rtJ/versions/tL1Tayuh/createaddoncompatibility-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "fc48e02329e3248ec5c983819192ce3a2c47c9adde233e70f3b0822b466e1374"
+
+[update]
+[update.modrinth]
+mod-id = "QgrK9rtJ"
+version = "tL1Tayuh"

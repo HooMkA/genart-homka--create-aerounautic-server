@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:luck",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": true,
+  "show_particles": false,
+  "name": {
+    "text": "Удача выжившего"
+  },
+  "description": {
+    "text": "Эволюция: лёгкая удача."
+  }
+}

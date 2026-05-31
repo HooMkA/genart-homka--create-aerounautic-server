@@ -1,0 +1,13 @@
+name = "Terrabnormals"
+filename = "Terrabnormals-v1.3.0 - 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cm5PuZjY/versions/78celQi3/Terrabnormals-v1.3.0%20-%201.21.1.jar"
+hash-format = "sha256"
+hash = "a543df73da0be8c8e90adc52c74bc5ce9314c34fb1eb6405ea2ea37f5d866ee2"
+
+[update]
+[update.modrinth]
+mod-id = "Cm5PuZjY"
+version = "78celQi3"

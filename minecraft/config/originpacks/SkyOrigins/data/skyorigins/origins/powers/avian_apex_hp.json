@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:max_health",
+  "amount": 6.0,
+  "operation": "add_value",
+  "name": {
+    "text": "+3 сердца"
+  },
+  "description": {
+    "text": "Эволюция: +3 сердца к максимальному здоровью."
+  }
+}

@@ -1,0 +1,13 @@
+name = "Born In Configuration"
+filename = "borninconfiguration-3.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "ae0370b27920830dab39972385c938e13838a6f7f2adc61bdb00b13b0dbd3885"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8122961
+project-id = 1019091

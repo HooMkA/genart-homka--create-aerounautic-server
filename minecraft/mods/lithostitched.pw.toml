@@ -1,0 +1,13 @@
+name = "Lithostitched"
+filename = "lithostitched-1.7.7-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/Nf30FMLg/lithostitched-1.7.7-neoforge-21.1.jar"
+hash-format = "sha256"
+hash = "b6f201cfeaf72db13d661136fdb92f2d268e75f9e7b37403451bdb1a828c9b04"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "Nf30FMLg"

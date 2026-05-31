@@ -1,0 +1,20 @@
+example.com:80 {
+
+    root * /srv/site
+
+    header /pack/* Cache-Control "no-transform"
+
+    handle /pack/* {
+        root * /srv
+        file_server
+    }
+
+    handle /extras/* {
+        root * /srv
+        file_server
+    }
+
+    handle {
+        file_server
+    }
+}

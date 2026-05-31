@@ -1,0 +1,13 @@
+name = "Upgrade Aquatic"
+filename = "upgrade_aquatic-1.21.1-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gTuTFFyz/versions/3ZycbXog/upgrade_aquatic-1.21.1-7.0.1.jar"
+hash-format = "sha256"
+hash = "ac4edecc341435c38893d85964074a2e09e322e3fb32be93d08f2a3165c0ebe7"
+
+[update]
+[update.modrinth]
+mod-id = "gTuTFFyz"
+version = "3ZycbXog"

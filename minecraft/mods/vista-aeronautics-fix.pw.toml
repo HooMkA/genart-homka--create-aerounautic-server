@@ -1,0 +1,13 @@
+name = "Vista Aeronautics Fix"
+filename = "VistaAeronauticsFix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayWsj31j/versions/q4MJ1X5o/VistaAeronauticsFix-1.0.0.jar"
+hash-format = "sha256"
+hash = "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71"
+
+[update]
+[update.modrinth]
+mod-id = "ayWsj31j"
+version = "q4MJ1X5o"

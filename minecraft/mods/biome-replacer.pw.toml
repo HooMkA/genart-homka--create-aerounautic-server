@@ -1,0 +1,13 @@
+name = "Biome Replacer"
+filename = "biomereplacer-2.2-hippo-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/jlYrkpXH/biomereplacer-2.2-hippo-neo.jar"
+hash-format = "sha256"
+hash = "1bc7bb3249cce62517363b4d91d13051f6b2e6e1fa88e1b13d7ca94d6e6c59cb"
+
+[update]
+[update.modrinth]
+mod-id = "DAXbR0Wj"
+version = "jlYrkpXH"

@@ -1,0 +1,32 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Тяжёлый воздух"
+  },
+  "description": {
+    "text": "Ниже Y=80 авиану тяжелее двигаться и поддерживать силы."
+  },
+  "interval": 60,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<",
+    "compare_to": 80
+  },
+  "entity_action": {
+    "type": "neoorigins:and",
+    "actions": [
+      {
+        "type": "neoorigins:apply_effect",
+        "effect": "minecraft:slowness",
+        "duration": 100,
+        "amplifier": 0,
+        "show_particles": false,
+        "show_icon": true
+      },
+      {
+        "type": "neoorigins:exhaust",
+        "amount": 0.4
+      }
+    ]
+  }
+}

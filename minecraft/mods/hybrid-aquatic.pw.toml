@@ -1,0 +1,13 @@
+name = "Hybrid Aquatic"
+filename = "[1.21.1-Neoforge] Hybrid Aquatic 1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HH4FjUqN/versions/1DTuj8UO/%5B1.21.1-Neoforge%5D%20Hybrid%20Aquatic%201.5.5.jar"
+hash-format = "sha256"
+hash = "394fd5ef6808fcb0cd74d5db461bf0f0662651046efcae443122af5116fada07"
+
+[update]
+[update.modrinth]
+mod-id = "HH4FjUqN"
+version = "1DTuj8UO"

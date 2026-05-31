@@ -1,0 +1,13 @@
+name = "More Mobs"
+filename = "more_mobs-v1.5.9-mc1.14-26.1.9-mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJR6V0I2/versions/PIalko2v/more_mobs-v1.5.9-mc1.14-26.1.9-mod.jar"
+hash-format = "sha256"
+hash = "696505ae4d3a6627725760d73207e8413da5379429a7cc4477eb84e5a70ec4cb"
+
+[update]
+[update.modrinth]
+mod-id = "HJR6V0I2"
+version = "PIalko2v"

@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-2101.2.7-build.81.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/ZdLtebKH/rhino-2101.2.7-build.81.jar"
+hash-format = "sha256"
+hash = "c79f19d9acea367adc1a8631ffc04c300a6e2b4902994a0111bd283b5e7f19fb"
+
+[update]
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "ZdLtebKH"

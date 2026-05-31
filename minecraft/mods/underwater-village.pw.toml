@@ -1,0 +1,13 @@
+name = "Underwater Village"
+filename = "underwater_village-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b4628Bd1/versions/ZCmcmtOR/underwater_village-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "7d030d22f1b6ce0cdb811c9ca174d496e858132ba1ce6b02b4e4a5fdacab368c"
+
+[update]
+[update.modrinth]
+mod-id = "b4628Bd1"
+version = "ZCmcmtOR"

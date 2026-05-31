@@ -1,0 +1,13 @@
+name = "KubeJS Create"
+filename = "kubejs-create-neoforge-2101.3.1-build.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T38eAZQC/versions/1qmcLagN/kubejs-create-neoforge-2101.3.1-build.18.jar"
+hash-format = "sha256"
+hash = "9051fd08349850cb9b28845554246ef4f2c976892835a704ee27dcb7c8bfd7a1"
+
+[update]
+[update.modrinth]
+mod-id = "T38eAZQC"
+version = "1qmcLagN"

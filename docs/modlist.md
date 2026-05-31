@@ -1,0 +1,261 @@
+# MODLIST  
+
+<br>  
+
+- [Abridged](https://modrinth.com/mod/tb5O1ssC) [2\.0\.1] by Apollo
+- [Aeronautics Camera Sync](https://modrinth.com/mod/ZGxtWu73) [1\.2\.0]
+- [AeronauticsCompat](https://modrinth.com/mod/aLVC5usA) [1\.1\.2] by rohan
+- Aileron [1\.21\.1\-neoforge\-1\.1\.4f\-no\-boost] by Team Lodestar
+- [Alex's Caves](https://modrinth.com/mod/kSsLSjEt) [2\.0\.10] by Alexthe668, Noonyeyz, Raguto
+- [All The Leaks](https://www.curseforge.com/projects/1091339) [1\.1\.9\+1\.21\.1\-neoforge] by Uncandango
+- [AlmostUnified](https://modrinth.com/mod/sdaSaQEz) [1\.21\.1\-1\.4\.2] by Almost Reliable
+- [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.3\.8] by CreativeMD, AriaFreeze
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.9\+mc1\.21] by squeek
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13\.0\.8] by shedaniel
+- [Athena](https://modrinth.com/mod/b1ZV3DIJ) [4\.0\.6] by ThatGravyBoat
+- [Atmospheric](https://modrinth.com/mod/U9sJOFmJ) [7\.0\.1] by Team Abnormals
+- [AttributeFix](https://modrinth.com/mod/lOOpEntO) [21\.1\.3] by Darkhax
+- [Autumnity](https://modrinth.com/mod/cRh6MJ6n) [6\.0\.1] by Team Abnormals
+- [Axiom](https://modrinth.com/mod/N6n5dqoA) [5\.4\.2] by Moulberry
+- [BCLib](https://modrinth.com/mod/7bdKEtKC) [21\.0\.20] by Quiqueck, paulevs, Bulldog83, Raijin
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.58] by BlayTheNinth
+- [Better End](https://modrinth.com/mod/IcERKldh) [21\.0\.24] by quiqueck, paulevs \(original author\), Bulldog83, Edos, Yuki, Seaward, Firel, Raijin
+- [Better ModList](https://modrinth.com/mod/sbpqhzIG) [1\.1\.22] by foxy, Prospector, haykam821, TerraformersMC
+- [Better Nether](https://modrinth.com/mod/fxX3RlL5) [21\.0\.19] by quiqueck, paulevs \(original author\), edos\_, Raijin
+- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1\.9\.0] by Socolio
+- [Biome Replacer](https://modrinth.com/mod/DAXbR0Wj) [2\.2\-hippo] by werdei, LegendarySpy, Etos2
+- [BlueMap](https://modrinth.com/mod/swbUV1cr) [5\.7]
+- [BlueMapOfflinePlayerMarkers](https://modrinth.com/mod/LFSk55jv) [1\.4\.2] by \[TechnicJelle, Mark\-255, Blue, Seercat3160, Syorito Hatsuki, FLORIAN4600\]
+- [Blueprint](https://modrinth.com/mod/VsM5EDoI) [8\.1\.0] by Team Abnormals
+- [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [21\.1\.81] by Darkhax
+- [CBC Advanced Technology](https://modrinth.com/mod/pTfszyXD) [0\.1\.4c\-1\.21\.1] by \_dsvv
+- [CBC Ballistics](https://www.curseforge.com/projects/1523915) [1\.3\.0a\-neoforge\-1\.21\.1] by Felis
+- [CBC Military Supplement](https://www.curseforge.com/minecraft/mc-mods/) [2\.0\.12\-1\.21\.1] by cainiao1053
+- [CBC: Compact Mount](https://modrinth.com/mod/rjti7mm0) [1\.2\.2] by Cubester
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.15\.1] by dzwdz, Fourmisain
+- [Chipped](https://modrinth.com/mod/BAscRYKm) [4\.0\.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH) [3\.6\.3] by ChoiceTheorem
+- [Chunky](https://modrinth.com/mod/fALzjamp) [1\.4\.23] by pop4959
+- [Citadel](https://modrinth.com/mod/XjY0RcQj) [2\.7\.6] by Alexthe666
+- [Clavis](https://modrinth.com/mod/y9Xnig6p) [0\.2\.13] by Shatterbyte
+- [Climbable Ropes for Create Aeronautics](https://modrinth.com/mod/jImqv1M5) [2\.0\.0] by saunhardy
+- [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15\.0\.140] by shedaniel
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) [19\.0\.0\.1] by Jared
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.22] by Rick South
+- [Colorful Hearts](https://modrinth.com/mod/wQfMUdZT) [10\.5\.9] by Terrails
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) [0\.3\.0\+alpha\.0\.91\+1\.21\.1] by RelativityMC, ishland
+- [Configured](https://www.curseforge.com/projects/457570) [2\.6\.3] by MrCrayfish
+- [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.0\+1\.21\.neoforge] by PepperCode1
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5] by Jaredlll08
+- [CorgiLib](https://modrinth.com/mod/ziOp6EO8) [5\.0\.0\.9] by Corgi Taco
+- [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.10] by simibubi
+- [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) [1\.2\.1] by Simulated Team
+- [Create Aeronautics \- Rechiseled Compat](https://modrinth.com/mod/ub0jAGhg) [1\.2\.2] by N\-ckDotCom
+- [Create Aeronautics: Copycat Wing](https://www.curseforge.com/projects/1530305) [1\.0\.1] by mumu17, HAlUThO
+- [Create Big Cannons](https://modrinth.com/mod/GWp4jCJj) [5\.11\.3] by rbasamoyai
+- [Create Big Cannons: Equally Opposite](https://modrinth.com/mod/9PsdRq7Q) [0\.1\.2] by Hectoris919
+- [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ) [0\.0\.44] by Cake, Kipti, NormalGuy, Astral, Spydnel
+- [Create Deco](https://modrinth.com/mod/sMvUb4Rb) [2\.1\.3] by Kayla, Talrey, Ordana, Cassian
+- [Create Deco Sable Compatibility](https://modrinth.com/mod/kHIRKdOE) [1\.0\.1]
+- Create Encased [1\.8\.1\-ht1] by iglee42
+- [Create Harmonics](https://modrinth.com/mod/uWn64pD9) [1\.1\.5] by mochibit
+- [Create Hypertube](https://modrinth.com/mod/ATDdrG1y) [0\.4\.0\-COMPAT] by Rok
+- [Create Let The Adventure Begin](https://modrinth.com/mod/fUa6OtBG) [4\.0\.0]
+- [Create Propulsion: Simulated](https://modrinth.com/mod/ApkoHNO9) [1\.1\.4] by Sergey Feduk, Tronco\_78, Bunting\_chj, SSnowly, KyivSec
+- [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) [4\.2\.4] by possible\_triangle
+- [Create Stuff & Additions](https://modrinth.com/mod/aq9qUUQG) [2\.0\.9] by Furti\_Two
+- [Create Tracks](https://www.curseforge.com/projects/1519765) [1\.0\.1] by qwxon
+- [Create Train Parts](https://modrinth.com/mod/h0bu4oDk) [0\.4\.0] by Ties
+- [Create: Addon Compatibility](https://modrinth.com/mod/QgrK9rtJ) [1\.0\.0] by Amronos
+- [Create: Aeroworks](https://modrinth.com/mod/P26k79kP) [1\.2\.9] by mred231
+- [Create: Blocks & Bogies](https://modrinth.com/mod/j4ARnQwY) [1\.0\.7] by Weido's Oddities \(@weidos\.oddities\), teacup \(@t\_\_cup\), Matt
+- [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO) [2\.4\.0] by DragonsPlus
+- [Create: Colorful Pipes](https://modrinth.com/mod/Bug7e6Xo) [2\.3\.1] by Rarin
+- [Create: Compatible Storage](https://modrinth.com/mod/5ofroZ5W) [2\.11\.0\-neoforge] by Dadamalda
+- [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) [1\.1\.16\-mc1\.21\.1] by Lysine
+- [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) [3\.0\.4\+mc\.1\.21\.1\-neoforge] by Lysine, Bennyboy1695, Redcat\_XVIII
+- [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV) [1\.10\.1] by DragonsPlus
+- [Create: Dreams n' Desires](https://modrinth.com/mod/JmybsfWs) [2\.3a\-BETA] by LopyLuna
+- [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt) [2\.1\.2] by Liukrast, Francywott
+- [Create: Framed](https://modrinth.com/mod/15fFZ3f4) [1\.7\.3] by DakotaPride
+- [Create: Integrated Farming](https://modrinth.com/mod/9k1pAsfR) [1\.2\.2] by DragonsPlus
+- [Create: Interiors](https://modrinth.com/mod/r4Knci2k) [0\.6\.1] by sudolev, rdh
+- [Create: Mobile Packages](https://modrinth.com/mod/1vXRfEHZ) [0\.7\.6] by Tim Heidler
+- [Create: Neapolitan](https://modrinth.com/mod/uCKXQ9Cu) [1\.0\.0] by JadedDraconevix
+- [Create: Numismatics](https://modrinth.com/mod/Jdbbtt0i) [1\.0\.20\+neoforge\-mc1\.21\.1] by IThundxr, Violet, Pink, Slimeist, Razziel
+- [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX) [0\.1\.3] by Pyzpre
+- [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) [0\.5\.5\.1] by patryk3211, Da\-Negy, rvndm, casvara
+- [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) [2\.0\.5\-mc1\.21\.1] by Lysine
+- [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) [0\.2\.0\+neoforge\-mc1\.21\.1] by PoppyBlossom, Chameleon538, gblfxt
+- [Create: Submarine](https://modrinth.com/mod/mva5q4qZ) [2\.0\.0] by Maxenonyme
+- [Create: The Factory Must Grow](https://modrinth.com/mod/USgVjXsk) [1\.2\.0] by DrMangoTea, Pepa, Luna
+- [Create: Trimmed](https://modrinth.com/mod/zvaHXgQz) [1\.0\.1] by TorNato
+- [Create: Tweaked Controllers](https://modrinth.com/mod/H6bJ8Ju4) [1\.20\.1\-1\.2\.7] by getItemFromBlock
+- [Create: Vibrant Vaults](https://modrinth.com/mod/hddN8ksR) [0\.3\.2] by ZLT
+- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2\.13\.39] by CreativeMD
+- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) [3\.0\.0\+mc1\.21] by Kir\_Antipov
+- [Curios API](https://modrinth.com/mod/vvuO3ImH) [9\.5\.1\+1\.21\.1] by C4
+- [Deployer](https://modrinth.com/mod/OZhUIuou) [0\.1\.2] by Liukrast, SWZO
+- [Design n' Decor](https://modrinth.com/mod/x49wilh8) [2\.1\.0] by LopyLuna, DrMangoTea
+- [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) [3\.7\.3] by enjarai
+- [Drive By Wire](https://modrinth.com/mod/KsqvI0hD) [0\.2\.9] by StratoDonut
+- [Drive By Wire \- Typewriter](https://modrinth.com/mod/lDYpnxit) [1\.0\.1] by SparklezFish
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.11\.4] by juliand665 & LostLuma
+- [EMI](https://modrinth.com/mod/fRiHVvU7) [1\.1\.24\+1\.21\.1\+neoforge] by Emi
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0\.7\.9\+1\.21\+neoforge] by fzzyhmstrs, lxly9 \(art\), unilock \(ports\)
+- [EMI Ores](https://modrinth.com/mod/sG4TqDb8) [1\.2\+1\.21\.1\+neoforge] by Abbie
+- [End Remastered](https://modrinth.com/mod/ZJTGwAND) [6\.0\.2] by Jack Bagel
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.2] by tr7zw
+- [EntityJS](https://modrinth.com/mod/OvPZ16yX) [1\.4\.5\-1\.21] by Liopyu,Too Much Mail
+- [Environmental](https://modrinth.com/mod/OqtiAZcV) [5\.0\.1] by Team Abnormals
+- [FTB Filter System](https://www.curseforge.com/projects/943925) [21\.1\.4] by FTB Team
+- [FTB Library](https://www.curseforge.com/projects/404465) [2101\.1\.31] by FTB Team
+- [FTB Quests](https://www.curseforge.com/projects/289412) [2101\.1\.24] by FTB Team
+- [FTB Teams](https://www.curseforge.com/projects/404468) [2101\.1\.10] by FTB Team
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) [21\.1\.8] by FTB Team
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.11\+kotlin\.2\.3\.21] by FabricMC
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1\.3\.2] by vectorwing
+- [FastLeafDecay](https://www.curseforge.com/projects/230976) [35] by Olafski
+- [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [7\.0\.3] by malte0811
+- [Figura](https://www.curseforge.com/projects/1007415) [0\.1\.5\+1\.21\.1\-158524d0] by skyrina, lumelia, UnlikePaladin, omoflop
+- Fix sodium ShaderLoader [1\.0\.0] by coco
+- [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0\.116\.7\+2\.2\.4\+1\.21\.1] by Sinytra, FabricMC
+- [Fusion](https://modrinth.com/mod/p19vrgc2) [1\.2\.12] by SuperMartijn642
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.6\+1\.21\+neoforge] by fzzyhmstrs
+- [GPUTape](https://modrinth.com/mod/5CTSrY8X) [1\.0\.2] by mr\_toad
+- [Galosphere](https://modrinth.com/mod/Kn7xyQ1v) [1\.5\.3] by Orcinus
+- [Gears n' Kinetics](https://modrinth.com/mod/gEWECBVL) [1\.0m] by LopyLuna
+- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.8\.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [Geophilic](https://modrinth.com/mod/hl5OLM95) [3\.5] by bebebea\_loste
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) [4\.0\.3] by Alex Nijjar, Kekie6
+- [Hybrid Aquatic](https://modrinth.com/mod/HH4FjUqN) [1\.5\.5] by Hybrid Labs
+- [I'm Fast](https://modrinth.com/mod/PaUMOeP0) [1\.0\.2] by Bielhiss
+- [Ice And Fire Community Edition](https://modrinth.com/mod/VpmCsizY) [2\.0\-beta\.15] by Alexthe666 \(Origin Author\), IAFEnvoy, xiaowu, uoay
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.10\+1\.21\.1] by RK\_01
+- [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) [1\.4\.3\+1\.21\.1] by Luke100000
+- [Integrated API](https://modrinth.com/mod/V6fKbpBN) [1\.7\.3\+1\.21\.1\-neoforge] by CraisinLord
+- [Integrated Cataclysm](https://modrinth.com/mod/ONbfwGTw) [1\.0\.6\+1\.21\.1\-neoforge] by CraisinLord
+- [Integrated Stronghold](https://modrinth.com/mod/KUJdfPQz) [1\.1\.4\+1\.21\.1\-neoforge] by CraisinLord
+- [Integrated Villages](https://modrinth.com/mod/o1qh5qIF) [1\.3\.2\+1\.21\.1\-neoforge] by CraisinLord
+- [Integrtaed Dungeons and Structures](https://modrinth.com/mod/Z8OZShAU) [1\.13\.4\+1\.21\.1\-neoforge] by CraisinLord
+- [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.12\-snapshot\+mc1\.21\.1\-local] by coderbot, IMS212
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.5\+neoforge] by Snownee
+- [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [6\.1\.0\+neoforge] by Snownee
+- [Jade Sable Compat](https://modrinth.com/mod/jCrJ4iGH) [1\.1\.0]
+- [JamLib](https://modrinth.com/mod/IYY9Siz8) [1\.3\.6\+1\.21\.1] by Jamalam
+- [Jupiter](https://modrinth.com/mod/XbiLGMMU) [2\.3\.7] by IAFEnvoy
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [19\.27\.0\.340] by mezz
+- [Just Player Heads](https://modrinth.com/mod/YdVBZMNR) [4\.2] by Rick South
+- [KubeJS](https://modrinth.com/mod/umyGl7zF) [2101\.7\.2\-build\.368] by latvian\.dev
+- [KubeJS Create](https://modrinth.com/mod/T38eAZQC) [2101\.3\.1\-build\.18] by latvian\.dev
+- [L\_Ender 's Delight](https://modrinth.com/mod/a48R8AGk) [1\.21\.1\-1\.0\.10] by Chaolux, BF\_Meow
+- [L\_Ender's Cataclysm 1\.21\.1](https://modrinth.com/mod/46KJle7n) [3\.27] by L\_Ender
+- [Litematica](https://modrinth.com/mod/bEpr0Arc) [0\.19\.60] by masa
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.3\+mc1\.21\.1] by 2No2Name, JellySquid
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.7\.7] by Apollo
+- [LootJS](https://modrinth.com/mod/fJFETWDN) [1\.21\.1\-3\.7\.0] by AlmostReliable
+- [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) [1\.0\.19\+LTS\+1\.21\.1\+neoforge] by IMB11 \(mineblock11\)
+- [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.21\.10] by masa
+- [Mining Speed Tooltips](https://modrinth.com/mod/aMctJ87u) [1\.0\.0] by Toni
+- [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1\.21\-2\.0\.12] by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
+- [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) [1\.21\-1\.10] by MehVahdJukaar
+- [ModernFix](https://modrinth.com/mod/modernfix) [5\.27\.9\+mc1\.21\.1] by embeddedt
+- [Mods Optimizer](https://www.curseforge.com/projects/947247) [4\.3\.0] by Markus Bordihn
+- [Moog's Structure Lib](https://modrinth.com/mod/1oUDhxuy) [2\.0\.2] by FinnDog
+- [MoogsEndStructures](https://modrinth.com/mod/r4PuRGfV) [2\.0\.3] by FinnDog
+- [MoogsNetherStructures](https://modrinth.com/mod/nGUXvjTa) [2\.1\.0] by FinnDog
+- [MoogsSoaringStructures](https://modrinth.com/mod/RJCLIx7k) [2\.1\.2] by FinnDog
+- Moonlight Lib [1\.21\.1\-3\.0\.14] by MehVahdJukaar
+- [More Culling](https://modrinth.com/mod/51shyZVL) [1\.0\.7] by FX \- PR0CESS, 1Foxy2
+- [MoreJS](https://modrinth.com/mod/mo64mR1W) [1\.21\.1\-0\.16\.0] by AlmostReliable
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26\.1] by Ivan Molodetskikh \(YaLTeR\)
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.1\-3\.4\.0\-neoforge] by ChaosTheDude
+- [Neapolitan](https://modrinth.com/mod/InYMuiQt) [6\.0\.1] by Team Abnormals
+- [Neo Language Reload](https://modrinth.com/mod/QdvyilOW) [1\.0\.0] by ENC\_Euphony
+- [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) [21\.1\.1] by BlayTheNinth
+- [OctoLib](https://modrinth.com/mod/RH2KUdKJ) [0\.6\.2] by OctoStudios
+- [Oh The Biomes We've Gone](https://modrinth.com/mod/NTi7d3Xc) [2\.5\.5] by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
+- [Oh The Trees You'll Grow](https://modrinth.com/mod/g8NOG5OR) [5\.3\.2] by Corgi Taco
+- [Paxi](https://modrinth.com/mod/CU0PAyzb) [1\.21\.1\-NeoForge\-5\.1\.3] by YUNGNICKYOUNG
+- [Petrol's Parts](https://modrinth.com/mod/AN0CZD9P) [1\.2\.10] by Petrolpark
+- [Petrolpark's Library](https://modrinth.com/mod/ik2WZkTZ) [1\.4\.35] by Petrolpark
+- [Player Animator](https://modrinth.com/mod/gedNE4y2) [2\.0\.4\+1\.21\.1] by KosmX
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ) [1\.1\.0\+1\.21\.1] by Illusive Soulworks
+- [PrickleMC](https://modrinth.com/mod/aaRl8GiW) [21\.1\.11] by Darkhax
+- [Quark](https://modrinth.com/mod/qnQsVE2z) [4\.1\-479] by Vazkii, WireSegal, MCVinnyq, Sully
+- [Rebind Narrator](https://modrinth.com/mod/qw2Ls89j) [2025\.12\.23] by quaternary
+- [Rechiseled](https://modrinth.com/mod/B0g2vT6l) [1\.2\.4] by SuperMartijn642
+- [Rechiseled: Create](https://modrinth.com/mod/E6867niZ) [1\.1\.0] by SuperMartijn642
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4] by FlashyReese
+- [Regions Unexplored](https://modrinth.com/mod/Tkikq67H) [0\.6\+beta4] by UHQ\_Games, KirboSoftware, Apollo
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3\.0\.12] by ThatGravyBoat, Epic\_Oreo
+- [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) [3\.0\.11]
+- [Rhino](https://modrinth.com/mod/sk9knFPE) [2101\.2\.7\-build\.81] by latvian\.dev, Mozilla
+- [Right Click Harvest](https://modrinth.com/mod/Cnejf5xM) [4\.6\.1\+1\.21\.1] by Jamalam
+- [Ritchie's Projectile Library](https://modrinth.com/mod/B3pb093D) [2\.1\.2] by rbasamoyai
+- [Rolled Homongenous: Forked](https://modrinth.com/mod/UFXAeoqT) [1\.0\.2] by Nerbzzz
+- [Rolling Down in the Deep](https://modrinth.com/mod/zQqsEeqy) [$\{version\}] by enjarai
+- [Sable](https://modrinth.com/mod/T9PomCSv) [1\.2\.2] by RyanHCode
+- [Sable: Stuff&Additions Compatibility](https://modrinth.com/mod/gsAqDfOu) [1\.0\.1]
+- [SableMassView](https://modrinth.com/mod/f5uobnkD) [1\.0\.0]
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.2] by Jaredlll08
+- [Simple Snowy Fix](https://modrinth.com/mod/3WP3HZRG) [2\.1\.9] by KostromDan, Apollo
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1\.21\.1\-2\.6\.17] by Max Henkel
+- [Simulated Gauges](https://modrinth.com/mod/AwDdvIWn) [1\.1\.0] by TechTastic
+- [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) [1\.5] by bl4ckscor3
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.6\.13\+mc1\.21\.1] by JellySquid \(jellysquid3\), IMS212
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0\.6\.0\+mc1\.21\.1] by FlashyReese
+- [Sodium Leaf Culling](https://modrinth.com/mod/M25bkObt) [1\.0\.1] by toni
+- [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1\.0\.10] by toni
+- [Sodium Options Mod Compat](https://modrinth.com/mod/Yg1VT27P) [1\.0\.0] by Toni, DeeChael
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.4\.41] by P3pp3rF1y
+- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.5\.50] by P3pp3rF1y, Ridanisaurus
+- [Sophisticated Storage Create Integration](https://modrinth.com/mod/MJ0hdevs) [0\.1\.17] by P3pp3rF1y
+- [Sounds](https://modrinth.com/mod/ZouiUX7t) [2\.4\.22\+lts] by IMB11, cassiancc
+- [Structure Layout Optimizer](https://modrinth.com/mod/ayPU0OHc) [1\.0\.12] by TelepathicGrunt
+- [Structurify](https://modrinth.com/mod/yz7AM2zx) [2\.0\.25] by Faboslav
+- [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1\.1\.8] by SuperMartijn642
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1\.1\.21] by SuperMartijn642
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.21\.1\-3\.6\.5] by MehVahdJukaar, Plantkillable
+- [Supplementaries Squared](https://modrinth.com/mod/dCCkNFwE) [1\.21\-1\.2\.17] by MehVahdJukaar, Plantkillable
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3\.0\.22] by Apollo
+- [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4\.1\.0\.8] by Adubbz
+- [Terrabnormals](https://modrinth.com/mod/Cm5PuZjY) [1\.3\.0] by Aarods
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.5\.8] by Stardust Labs
+- [Terralith ReStoned](https://modrinth.com/mod/oTQsXi8U) [1\.3\.1] by catter1
+- [Terraphilic](https://modrinth.com/mod/8T4mO5eV) [1\.2\.0] by bebebea\_loste
+- [ToroHealth](https://www.curseforge.com/projects/976223) [NONE] by ToroCraft
+- [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1\.0\.24] by Toni
+- [Upgrade Aquatic](https://modrinth.com/mod/gTuTFFyz) [7\.0\.1] by Team Abnormals
+- [Uranus](https://modrinth.com/mod/3Acxy864) [2\.4\.1] by IAFEnvoy
+- Vista [1\.21\.1\-4\.4\.8] by MehVahdJukaar, Plantkillable
+- [Vista Aeronautics Fix](https://modrinth.com/mod/ayWsj31j) [1\.0\.0] by DarkAndHappy
+- Voxy [0\.2\.14\-alpha] by Cortex
+- [VoxyServer](https://modrinth.com/mod/voxyserver) [1\.1\.5] by dripps
+- [WITS](https://modrinth.com/mod/AVo2esap) [1\.3\.0\+1\.21\-neoforge] by TelepathicGrunt
+- [WorldWeaver](https://modrinth.com/mod/R8uGDQpB) [21\.0\.20] by Quiqueck
+- [WunderLib](https://modrinth.com/mod/HZmhgdJk) [21\.0\.10] by Quiqueck
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.13] by xaero96
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.16] by xaero96
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1\.21\.1\-NeoForge\-5\.1\.6] by YUNGNICKYOUNG
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) [1\.21\.1\-NeoForge\-4\.1\.5] by YUNGNICKYOUNG, Tera
+- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) [1\.21\.1\-NeoForge\-5\.1\.4] by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) [1\.21\.1\-NeoForge\-3\.1\.2] by YUNGNICKYOUNG, Tera
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) [1\.21\.1\-NeoForge\-3\.1\.5] by YUNGNICKYOUNG, Acarii
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) [1\.21\.1\-NeoForge\-4\.1\.2] by YUNGNICKYOUNG, Tera
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) [1\.21\.1\-NeoForge\-4\.1\.1] by YUNGNICKYOUNG, Acarii
+- [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6) [1\.21\.1\-NeoForge\-5\.1\.1] by YUNGNICKYOUNG
+- [YUNG's Cave Biomes](https://modrinth.com/mod/cs7iGVq1) [1\.21\.1\-NeoForge\-3\.1\.1] by YUNGNICKYOUNG, HellionGames, Sully, LudoCrypt, Jasmine, K\.jpg, Neko, Frenderman, Refresh Studios
+- [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) [1\.21\.1\-NeoForge\-5\.1\.1] by YUNGNICKYOUNG, Acarii
+- [YUNG's Menu Tweaks](https://modrinth.com/mod/Hcy2DFKF) [1\.21\.1\-NeoForge\-2\.1\.2] by YUNGNICKYOUNG
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-neoforge] by isXander
+- [Zeta](https://modrinth.com/mod/MVARlG2f) [1\.1\-40] by Vazkii, quat, IThundxr, Siuol, wiresegal, MehVahdJukaar
+- [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.15\.2\+1\.21\.1] by isXander
+- [aero\_copycats](https://modrinth.com/mod/wjpmYU1u) [1\.1\.0]
+- connector\-2\.0\.0\-beta\.14\+1\.21\.1\-full
+- [create: things and misc](https://modrinth.com/mod/uWrs8XlB) [1\.0\.0] by To0pa, Unusual Squad, MCreator
+- create\_radar\-0\.4\.8\-1\.21\.1
+- [createburnerfuel](https://modrinth.com/mod/OizKjGJm) [1\.0\.2]
+- kotlinforforge\-5\.11\.0\-all
+- [lionfishapi](https://modrinth.com/mod/FoVacERa) [2\.8] by L\_Ender
+- [spark](https://modrinth.com/mod/l6YH9Als) [1\.10\.124] by Luck

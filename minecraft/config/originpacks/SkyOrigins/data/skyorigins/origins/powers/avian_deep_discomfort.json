@@ -1,0 +1,40 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Давление глубины"
+  },
+  "description": {
+    "text": "Ниже Y=48 авиану трудно копать и сражаться."
+  },
+  "interval": 80,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<",
+    "compare_to": 48
+  },
+  "entity_action": {
+    "type": "neoorigins:and",
+    "actions": [
+      {
+        "type": "neoorigins:apply_effect",
+        "effect": "minecraft:mining_fatigue",
+        "duration": 120,
+        "amplifier": 0,
+        "show_particles": false,
+        "show_icon": true
+      },
+      {
+        "type": "neoorigins:apply_effect",
+        "effect": "minecraft:weakness",
+        "duration": 120,
+        "amplifier": 0,
+        "show_particles": false,
+        "show_icon": true
+      },
+      {
+        "type": "neoorigins:exhaust",
+        "amount": 0.6
+      }
+    ]
+  }
+}

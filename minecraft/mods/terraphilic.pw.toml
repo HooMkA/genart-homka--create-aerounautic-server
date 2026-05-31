@@ -1,0 +1,13 @@
+name = "Terraphilic"
+filename = "Terraphilic v1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8T4mO5eV/versions/bdiZl5tW/Terraphilic%20v1.2.0.jar"
+hash-format = "sha256"
+hash = "3f8e57c8261325bd8f5c13e44e6ef58812b5f379fb7ce310472436b50afbfee6"
+
+[update]
+[update.modrinth]
+mod-id = "8T4mO5eV"
+version = "bdiZl5tW"

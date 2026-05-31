@@ -1,0 +1,10 @@
+{
+  "type": "neoorigins:prevent_action",
+  "action": "sleep",
+  "name": {
+    "text": "Гнёзда на высоте"
+  },
+  "description": {
+    "text": "Авианы могут спать только на высоте Y=200 и выше."
+  }
+}

@@ -1,0 +1,13 @@
+name = "Create Aeronautics: burner fuel"
+filename = "createburnerfuel-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3bee384c7d9fcf9ac8ebfbf5817c1733b1d1659a14774ecfbc44ed6f6db87b14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8037960
+project-id = 1524323

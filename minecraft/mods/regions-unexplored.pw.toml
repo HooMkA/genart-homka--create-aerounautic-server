@@ -1,0 +1,13 @@
+name = "Regions Unexplored"
+filename = "regions-unexplored-0.6+beta4-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/anPXgVIF/regions-unexplored-0.6%2Bbeta4-neoforge-21.1.jar"
+hash-format = "sha256"
+hash = "5198d8b1407ee5bcdb20e6ffa00f32e0c7a136974ce7d34bc28c012d5aa7ac5f"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "anPXgVIF"

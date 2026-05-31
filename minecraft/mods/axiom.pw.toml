@@ -1,0 +1,17 @@
+name = "Axiom"
+filename = "Axiom-5.4.2-for-MC1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar"
+hash-format = "sha256"
+hash = "ecb14b29e7eb4cdc5c1f299782d32a2c26202292a8a9b4060a9104526e6d7267"
+
+[update]
+[update.modrinth]
+mod-id = "N6n5dqoA"
+version = "BzK22yyR"
+
+[option]
+optional = true
+description = "Мод для строителей. \n Я бы сказал это фотошоп и блендер в майнкрафте. Если будете чот строить в креативе, ставьте. \n В ином случае он вам нафиг не нужен."

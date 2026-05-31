@@ -1,0 +1,19 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:haste",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": true,
+  "show_particles": false,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": "<=",
+    "compare_to": 72
+  },
+  "name": {
+    "text": "Каменная сноровка"
+  },
+  "description": {
+    "text": "Эволюция: Haste I ниже Y=72."
+  }
+}

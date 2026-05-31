@@ -1,0 +1,13 @@
+name = "Mining Speed Tooltips"
+filename = "miningspeedtooltips-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aMctJ87u/versions/P3hegEWT/miningspeedtooltips-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "4b2688ce540cb09eabba0420ff956155b1c1f69159302aeb3b96f7a656d3e6ab"
+
+[update]
+[update.modrinth]
+mod-id = "aMctJ87u"
+version = "P3hegEWT"

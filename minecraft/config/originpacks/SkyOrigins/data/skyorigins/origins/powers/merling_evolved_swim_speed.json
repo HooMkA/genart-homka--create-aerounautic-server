@@ -1,0 +1,15 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:water_movement_efficiency",
+  "amount": 0.15,
+  "operation": "add_value",
+  "condition": {
+    "type": "neoorigins:in_water"
+  },
+  "name": {
+    "text": "Морская лёгкость"
+  },
+  "description": {
+    "text": "Эволюция: быстрее в воде."
+  }
+}

@@ -1,0 +1,13 @@
+name = "Sable Schematic Tool"
+filename = "sable-schematic-api-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7694e38d73249defa9d6e1aa7d35a0e1e106c0cbedc460efe40441196f0635a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071476
+project-id = 1526951

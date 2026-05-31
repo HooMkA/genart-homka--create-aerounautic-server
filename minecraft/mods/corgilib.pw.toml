@@ -1,0 +1,13 @@
+name = "CorgiLib"
+filename = "Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+hash-format = "sha256"
+hash = "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
+
+[update]
+[update.modrinth]
+mod-id = "ziOp6EO8"
+version = "nqrTa84r"

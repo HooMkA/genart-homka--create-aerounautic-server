@@ -1,0 +1,13 @@
+name = "Create: Design n' Decor"
+filename = "Design-n-Decor-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar"
+hash-format = "sha256"
+hash = "bcd8a6c50f7d94698da473a675222e6038d3af09b0560e70c3394f32f798114d"
+
+[update]
+[update.modrinth]
+mod-id = "x49wilh8"
+version = "m6PCLHcp"

@@ -1,0 +1,8 @@
+name = "Aileron"
+filename = "aileron-1.21.1-neoforge-1.1.4f-no-boost.jar"
+side = "both"
+
+[download]
+url = "http://pack.jolly-roger.digital/extras/mods/aileron-1.21.1-neoforge-1.1.4f-no-boost.jar"
+hash-format = "sha256"
+hash = "faba2d1770b5b2f855dfaf7a0d0b709102860d80f6a36c77039c13d26f696107"

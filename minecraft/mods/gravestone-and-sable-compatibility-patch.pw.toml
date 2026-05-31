@@ -1,0 +1,13 @@
+name = "Gravestone and Sable Compatibility Patch"
+filename = "gravestone_sable_compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xJqwA0XO/versions/bdUGV5X8/gravestone_sable_compat-1.0.0.jar"
+hash-format = "sha256"
+hash = "5edab880eb160fb6fef87c5bf229cad4a89d3fbf7c58a7ee7656e56600832089"
+
+[update]
+[update.modrinth]
+mod-id = "xJqwA0XO"
+version = "bdUGV5X8"

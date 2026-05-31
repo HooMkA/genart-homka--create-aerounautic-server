@@ -1,0 +1,19 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:resistance",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": true,
+  "show_particles": false,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": ">=",
+    "compare_to": 140
+  },
+  "name": {
+    "text": "Горное оперение"
+  },
+  "description": {
+    "text": "Эволюция: Resistance I на высоте Y=140+."
+  }
+}

@@ -1,0 +1,13 @@
+name = "Another Furniture"
+filename = "another_furniture-neoforge-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulloLmqG/versions/Q29JlZfU/another_furniture-neoforge-4.0.2.jar"
+hash-format = "sha256"
+hash = "c61a66c73bcc5147d9983dc72c485493a612d2dbc078fcb86e2024155e34b7dd"
+
+[update]
+[update.modrinth]
+mod-id = "ulloLmqG"
+version = "Q29JlZfU"

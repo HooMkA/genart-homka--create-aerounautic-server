@@ -1,0 +1,7 @@
+{
+  "CONFIG_VERSION": 1,
+  "debug_mode": true,
+  "server_ip": "figura.shsr.ru",
+  "allow_networking": true,
+  "networking_restriction": 1
+}

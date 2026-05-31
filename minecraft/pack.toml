@@ -1,0 +1,16 @@
+name = "Aerial Create Guns 'n Dragons (Light)"
+author = "GeniusArt, HooMkA, nei3vst4n"
+version = "0.7.1b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "643d14a324d8117bf1dc70a2d7b0cd2bda25c8914605b5ade1394e7d85536a81"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
+
+[options]
+acceptable-game-versions = ["1.21.1"]

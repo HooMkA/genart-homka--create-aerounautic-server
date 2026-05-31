@@ -1,0 +1,23 @@
+{
+  "type": "neoorigins:condition_passive",
+  "name": {
+    "text": "Каменное убежище"
+  },
+  "description": {
+    "text": "Выше Y=64 сон запрещён."
+  },
+  "interval": 20,
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": ">",
+    "compare_to": 64
+  },
+  "entity_action": {
+    "type": "neoorigins:grant_power",
+    "power": "skyorigins:dwarf_prevent_sleep"
+  },
+  "else_action": {
+    "type": "neoorigins:revoke_power",
+    "power": "skyorigins:dwarf_prevent_sleep"
+  }
+}

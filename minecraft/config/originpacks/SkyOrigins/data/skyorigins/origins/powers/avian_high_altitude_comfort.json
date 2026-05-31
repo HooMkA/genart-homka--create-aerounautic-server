@@ -1,0 +1,29 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "toggleable": false,
+  "effects": [
+    {
+      "effect": "minecraft:speed",
+      "amplifier": 0,
+      "show_icon": true,
+      "show_particles": false
+    },
+    {
+      "effect": "minecraft:jump_boost",
+      "amplifier": 0,
+      "show_icon": true,
+      "show_particles": false
+    }
+  ],
+  "condition": {
+    "type": "neoorigins:height",
+    "comparison": ">=",
+    "compare_to": 140
+  },
+  "name": {
+    "text": "Высотный поток"
+  },
+  "description": {
+    "text": "На высоте Y=140+ получает Speed I и Jump Boost I."
+  }
+}
