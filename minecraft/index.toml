@@ -426,7 +426,7 @@ hash = "f9dfaa48de6c36b2a39d37e964433942c9b32b0e22bb8dd0deecd6579aab828b"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "f1948de67e8d88041ad6a7f8ecd92026ed464879aacd99c1b1a4fe8b16cd5082"
+hash = "089342f2d5b752c6ff1e0d740fb869e64dbba9e7912fcbf55b3570d87d8a89dd"
 
 [[files]]
 file = "config/voxyserver.json"
@@ -642,6 +642,11 @@ hash = "082da076fec8dbbac21dae540c5706a89a04356dab7b664e90743e48cb6cdc33"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "06fe90e77c63697c4635255487cea322ad452adaed629f286231fa04579b2796"
 metafile = true
@@ -649,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/aileron.pw.toml"
 hash = "920930d1c7e735bf3984a3244bd2acfe1c9085f91e5b45eddddc409512067ec5"
+metafile = true
+
+[[files]]
+file = "mods/airraid.pw.toml"
+hash = "e78f6d8459e1f0ff3ba491192dd34013c23fed8e4e08d92eee32a7dddc2b7392"
 metafile = true
 
 [[files]]
@@ -877,6 +887,16 @@ hash = "4655629be39c6b0f0a9dd1480d9e1a1b7dc67b4d937c4438c5d91f7ca36e4eb2"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "fb0e788f555b5d127e4b22ec5126d0995d4bbfc3c507192d2447a5ac3e3bf413"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "6109ee22df91c3e0c037b9d7e3290ff990a7d721a46eeadc625a6b509f20aa85"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "8032ba9bce9721728358270bbd5a1eca543333862b1d4b4684ca6624ad71f1e3"
 metafile = true
@@ -1084,6 +1104,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "132642c5f3ec9c7c3206d4621d62162c594031b13ece21bcc9c734398db31e5d"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -1407,6 +1432,11 @@ hash = "a173e6b1be334ffbd771aff3beca114ac88980d90f24f630f3c28919dc406aff"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "6d894165ff59a775b9481b1227ce82b5464af9bf527328b57642551b62bb4b41"
 metafile = true
@@ -1667,6 +1697,11 @@ hash = "939911e1a98c71c36a1f6eb06c71c4978a5def7f3c1dedb94ce46bf99c20377a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "b11c3e96802d7f7642a49281a65056b73017f770fccc6c048f46e158684e636d"
 metafile = true
@@ -1837,6 +1872,11 @@ hash = "1f44d6c83f4822df1c071e12c34af6c5e79c32032f8ff2a1d1b9cbd5ef19afc0"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "615c813ff714eb65855ee074d56763025ceaf708ee823ed10cca15452cf4aedb"
 metafile = true
@@ -1963,7 +2003,7 @@ metafile = true
 
 [[files]]
 file = "mods/toro-health.pw.toml"
-hash = "a6aa619814c7f77f5ca61952a09f427f97e21c7be5f575eb25f3cbefcb387bc9"
+hash = "0c089c42f70e6efe132f18d96c31adf64564c368f0a566859bbeaa62b39ef45f"
 metafile = true
 
 [[files]]
