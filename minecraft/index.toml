@@ -97,6 +97,10 @@ file = "config/figura.json"
 hash = "1d479021da93cc9c15c84cd5adccdbb735da11703add43ef82cbe6bcd8e5ca69"
 
 [[files]]
+file = "config/fml.toml"
+hash = "aa085dda6472dc7e72a22ad49027095192d107d0032024d7215902285b988cfd"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "8a38fae9f2aca8c354166d74a4044c3433e6125cdb8b7c4b148b2963306a30ea"
 
@@ -1429,11 +1433,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "a173e6b1be334ffbd771aff3beca114ac88980d90f24f630f3c28919dc406aff"
-metafile = true
-
-[[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
 metafile = true
 
 [[files]]
