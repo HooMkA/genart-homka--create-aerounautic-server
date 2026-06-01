@@ -609,10 +609,6 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
-file = "kubejs/server_scripts/keep-inventory-custom.js"
-hash = "da5b3781933196dbf10289998f0bf4f6f8541fbbe007ea54b50530154602e19b"
-
-[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -753,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/beautify.pw.toml"
 hash = "5a4c4064f54e2af4a835862580d00444fc7a95185d116777bbbb32a1d4bd25a7"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
@@ -898,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "6109ee22df91c3e0c037b9d7e3290ff990a7d721a46eeadc625a6b509f20aa85"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
 
 [[files]]
@@ -1226,18 +1232,23 @@ hash = "6e57e350b58dba9d155d12f04da734509b49b6ac58aecd614a564de78fbac675"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5a328aebe4c7a23cc0aa36159623335b2429d5733b5f429146731652e3430839"
+hash = "672e616e5ba431f9905c2d3b1764c10946ed3519b309c787264cf10cb693726a"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "6252a68197a79a1ef967e03d31307b3e21789147d85949c7a1939a97c4a9d62c"
+hash = "de1ab5fc9c6157c33fed95e133b2cec41630e9de82d50d76e216d7af829d52d8"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "342782adb93645be7966119166557a4c29d4ea51469cb57eeb12fd6af458fcce"
+hash = "4603c93edafe22ced6578fd08ca44f8c7e4c7f4e0a59c853e7552c6b8dc99388"
 metafile = true
 
 [[files]]
@@ -2051,6 +2062,11 @@ hash = "ae2064f7cd646e3034f06f1a7c2899048b1e7251e8f6d5c2b2f1ba62c8f43cb1"
 metafile = true
 
 [[files]]
+file = "mods/withers-wrath.pw.toml"
+hash = "7988c49ad94029fbcb736a42450493859376bd3d4cc754ea09f15df6f1015c48"
+metafile = true
+
+[[files]]
 file = "mods/wits.pw.toml"
 hash = "81d90fb83296f4ec31724fdb6998885c86ebb064ad4f84819c261ab346c59829"
 metafile = true
@@ -2078,6 +2094,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b7aeed923fff2aecbde3e13940f7a55e82dae6ad3612e3b6e4a307ba4f6aa880"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "f093cf9ea51450d9e691d1826517179c014fe94b216a519a9c36c1984859afdc"
 metafile = true
 
 [[files]]

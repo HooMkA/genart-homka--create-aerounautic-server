@@ -1,0 +1,13 @@
+name = "Wither's Wrath"
+filename = "[1.21-1.21.1]witherswrath-1.15.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d7edc4db7203aa76d3e3d87c88297a7234436a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7568599
+project-id = 1206333
