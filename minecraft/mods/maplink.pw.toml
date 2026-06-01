@@ -11,3 +11,7 @@ hash = "66aa31cc193894e3b93c30bb99c6293284f1c47ce42093bb42540c3563a6172f73a8a173
 [update.modrinth]
 mod-id = "kiByZ6gx"
 version = "p09gqXUA"
+
+[option]
+optional = true
+description = "Добавляет интеграцию с онлайн картой. \n Приятный, но может поджирать производительность и нужно покорячиться с конфигом"
