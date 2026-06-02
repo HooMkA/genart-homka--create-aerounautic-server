@@ -1,0 +1,13 @@
+name = "Create: Aero Cables"
+filename = "aerocables-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d780ebd9bfff5902d8f237c6ac08d4d8904163f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8100325
+project-id = 1529733

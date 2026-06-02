@@ -101,6 +101,10 @@ file = "config/create_submarine-common.toml"
 hash = "ff35a30ae82b00478c1a4ee73a61cf3978c077d42c9d39ed7a299de69e3ad741"
 
 [[files]]
+file = "config/flyhigher.json"
+hash = "fe5a39d44544a987f98bfe0451e0cdf1d0feb29540be084e3f036aa0d6df0609"
+
+[[files]]
 file = "config/flyhigher_datapack/data/flyhigher/dimension_physics/overworld.json"
 hash = "4098bb18038e531d0cf47629e075af0d8421ef9a0450e190c20ca3c5072179c8"
 
@@ -9084,6 +9088,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "e1b4a14f6def0e3f40cb386255f876d9b69d22b83b66d8f584db0e3ccb1b7413"
+metafile = true
+
+[[files]]
+file = "mods/create-aero-cables.pw.toml"
+hash = "87720a26593dfa7381f761a407d75e7efde1bbf9e90ee1eadd7765f2e13c159d"
 metafile = true
 
 [[files]]
