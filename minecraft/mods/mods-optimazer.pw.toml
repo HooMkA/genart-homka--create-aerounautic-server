@@ -1,8 +1,0 @@
-name = "Mods Optimazer"
-filename = "mods_optimizer-neoforge-1.21.1-4.3.0.jar"
-side = "both"
-
-[download]
-url = "http://pack.jolly-roger.digital/extras/mods/mods_optimizer-neoforge-1.21.1-4.3.0.jar"
-hash-format = "sha256"
-hash = "fad15e65b22623527da3053936e5a69a9aca010f00b436a1597d17b3d6bfcbef"

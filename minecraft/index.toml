@@ -9098,7 +9098,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "3beed72a9565005d856e1a20b09509ab49943ba7c9e13078e67d0c5092328766"
+hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
 metafile = true
 
 [[files]]
@@ -9128,7 +9128,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "c8350e339b30451920019a986923f0d925521aafba67fc2b530d79b32b492034"
+hash = "2f02126de38cf2a656b7ae97aa1f6c1a153498f5cdb03fe197c291d9c43cbb5a"
 metafile = true
 
 [[files]]
@@ -9138,7 +9138,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "1f8f6382a5688ed5fee779dcaab222bcb6cd32e7698c62b7655be78f5f2f86e5"
+hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
 
 [[files]]
@@ -9178,7 +9178,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "0e371591844306a421c7649de4a8857cfa2af7f3d1610f6a02daa6aa143787c5"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -9218,12 +9218,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "22bd869a4b7415361de1ccb0d572560880c77025b225417e9789c4cee1e83cad"
+hash = "56954613096032cd272743122888506895a283615b82e22135e8f9608332c080"
 metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "88d97026d4e890af3f19a98878a981ed389d6a1ad09ebfcfeae026ea82678be3"
+hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
 metafile = true
 
 [[files]]
@@ -9768,7 +9768,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "9b39af6cba42793321a8656765192659496a41dc466ae3f218c43480ce1884b1"
+hash = "b15428184b763f9928693a3a41579bddbe06b2e4115378e637cc33dbde010bda"
 metafile = true
 
 [[files]]
@@ -9782,13 +9782,8 @@ hash = "d7568fbe033aaf11c4f875d3a13d19df5eda084911cf707bf0ee05a61b1e5416"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimazer.pw.toml"
-hash = "ec9a9456f2287869c56e177fcfef389aee8f3497ad7ddc1282aaf57380b30a93"
-metafile = true
-
-[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "dbff289f01b2ce2f868a7c43a8b707e8e7e3d60384349289c63ee32f130f4416"
+hash = "e916baef3adc875166a553988c5dae2df9289829e74dad2b24649b247b881721"
 metafile = true
 
 [[files]]
@@ -9854,6 +9849,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "627347731a201adfeabc4af5ff306eec29cca5e6f7c2c56bed54456340069d5a"
+metafile = true
+
+[[files]]
+file = "mods/night-lights.pw.toml"
+hash = "9245bae56b56ece6b125b1694ec309945eb71e6063e2334c313982737a485778"
 metafile = true
 
 [[files]]
@@ -10399,4 +10399,4 @@ hash = "a937214d0db292922f7c9a3a247654bb6960bd02548f8f895d427eab04057977"
 
 [[files]]
 file = "wover-generator.nbt"
-hash = "4682a6b3431e7c77b8a9b67587ebbf8d613caa4a876ca8f48dc74431225054d8"
+hash = "3592d3d149525175a5ab00a0ef95e39f12a53be54575ca54a3153b78c4364804"
