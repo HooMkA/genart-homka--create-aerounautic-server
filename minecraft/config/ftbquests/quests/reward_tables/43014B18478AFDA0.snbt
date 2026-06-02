@@ -1,0 +1,674 @@
+{
+	icon: {
+		id: "rottencreatures:treasure_chest"
+	}
+	id: "43014B18478AFDA0"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ch1"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "354866003B1AB42F", item: { count: 1, id: "handcrafted:golden_wide_pot" } }
+		{
+			count: 2
+			id: "3A49B4ED41B94791"
+			item: {
+				count: 1
+				id: "handcrafted:terracotta_plate"
+			}
+		}
+		{
+			count: 2
+			id: "0DD6537E5C806628"
+			item: {
+				count: 1
+				id: "handcrafted:terracotta_crockery_combo"
+			}
+		}
+		{
+			count: 4
+			id: "2F041A2270D46A8F"
+			item: {
+				count: 1
+				id: "handcrafted:wood_cup"
+			}
+		}
+		{ id: "31884F2F92C44D9B", item: { count: 1, id: "handcrafted:salmon_trophy" } }
+		{ id: "4FA1ABDD0332B205", item: { count: 1, id: "handcrafted:cherry_dining_bench" } }
+		{ id: "50378DC86B29BF8D", item: { count: 1, id: "handcrafted:dark_oak_chair" } }
+		{ id: "28C6359F2CB9D992", item: { count: 1, id: "handcrafted:jungle_chair" } }
+		{
+			count: 2
+			id: "740C7BFDAFABE720"
+			item: {
+				count: 1
+				id: "handcrafted:acacia_couch"
+			}
+		}
+		{ id: "1AB1BCF95B3915CD", item: { count: 1, id: "handcrafted:stackable_book" } }
+		{
+			count: 4
+			id: "57334EDF745E535B"
+			item: {
+				count: 1
+				id: "handcrafted:yellow_cushion"
+			}
+		}
+		{
+			count: 2
+			id: "4D23F6C63431476E"
+			item: {
+				count: 1
+				id: "handcrafted:fancy_painting"
+			}
+		}
+		{ id: "12D6201960E3047D", item: { components: { "minecraft:custom_data": { AmmoCount: 1, GeckoLibID: 224L } }, count: 1, id: "scguns:flintlock_pistol" } }
+		{ id: "120C8D3D2DFCE5D0", item: { count: 1, id: "scguns:anthralite_knife" } }
+		{
+			count: 2
+			id: "4A64CD39B2A0A799"
+			item: {
+				count: 1
+				id: "scguns:gas_grenade"
+			}
+		}
+		{
+			count: 2
+			id: "144EEB7AF8357E10"
+			item: {
+				count: 1
+				id: "scguns:grenade"
+			}
+		}
+		{ id: "4A452B972A9786AE", item: { count: 1, id: "scguns:stun_grenade" } }
+		{
+			count: 2
+			id: "59D23BE464A06039"
+			item: {
+				count: 1
+				id: "scguns:molotov_cocktail"
+			}
+		}
+		{ id: "5BF8166E6D0CE5F4", item: { count: 1, id: "scguns:light_stock" } }
+		{ id: "11081F0B167BBD76", item: { count: 1, id: "scguns:iron_bayonet" } }
+		{ id: "46FEBB4E09FE6278", item: { count: 1, id: "scguns:antique_flare" } }
+		{ id: "323A09149DCD3C1F", item: { count: 1, id: "simulated:copper_handle" } }
+		{
+			count: 2
+			id: "6B62374915ABDA16"
+			item: {
+				count: 1
+				id: "simulated:physics_assembler"
+			}
+		}
+		{ id: "123DEB3FEA5B5A66", item: { count: 1, id: "simulated:steering_wheel" } }
+		{
+			count: 2
+			id: "41AD9D045A1DFC4B"
+			item: {
+				components: {
+					"simulated:rope_first_connection": [I;
+						-10
+						74
+						-80
+					]
+				}
+				count: 1
+				id: "simulated:rope_coupling"
+			}
+		}
+		{
+			count: 10
+			id: "74CF0369122ABD00"
+			item: {
+				count: 1
+				id: "alexscaves:seeking_arrow"
+			}
+		}
+		{
+			count: 3
+			id: "4258FC90114B2CB0"
+			item: {
+				count: 1
+				id: "hybrid-aquatic:herring"
+			}
+		}
+		{
+			count: 2
+			id: "4006EE4959BCDAB4"
+			item: {
+				count: 1
+				id: "hybrid-aquatic:flashlight_fish"
+			}
+		}
+		{ id: "51AB5A3F07D5642C", item: { count: 1, id: "galosphere:sterling_helmet" } }
+		{ id: "5B7C217091F254A4", item: { count: 1, id: "create_sa:zinc_pickaxe" } }
+		{ id: "2B7EE79D912964CD", item: { count: 1, id: "cataclysm:black_steel_ingot" } }
+		{
+			count: 3
+			id: "142376F92C18F8A2"
+			item: {
+				count: 1
+				id: "cataclysm:ancient_metal_nugget"
+			}
+		}
+		{
+			count: 2
+			id: "7C9FFE9FA9B1C054"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:monster_flesh"
+			}
+		}
+		{
+			count: 3
+			id: "290AC53E26F2A0A2"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:diamond_termite_shard"
+			}
+		}
+		{
+			count: 2
+			id: "60A3A8659A47625D"
+			item: {
+				count: 1
+				id: "biomeswevegone:redwood_door"
+			}
+		}
+		{
+			count: 2
+			id: "5ACFBC69AEA6BA0F"
+			item: {
+				count: 1
+				id: "biomeswevegone:ironwood_door"
+			}
+		}
+		{
+			count: 2
+			id: "740186FE3F84A6B4"
+			item: {
+				count: 1
+				id: "biomeswevegone:cypress_bookshelf"
+			}
+		}
+		{ id: "0961D0270A1B6826", item: { count: 1, id: "biomeswevegone:blue_enchanted_boat" } }
+		{ id: "5C7ED46D4B774432", item: { count: 1, id: "born_in_chaos_v1:pieceofdarkmetal" } }
+		{ id: "087AF8D138561E03", item: { count: 1, id: "create:cardboard_boots" } }
+		{
+			count: 6
+			id: "677DD93269ADDFE6"
+			item: {
+				count: 1
+				id: "create:bar_of_chocolate"
+			}
+		}
+		{ id: "0ED9E4C94528E7FA", item: { count: 1, id: "create:large_water_wheel" } }
+		{
+			count: 2
+			id: "3430C5EECD0690BA"
+			item: {
+				count: 1
+				id: "supplementaries:awning_orange"
+			}
+		}
+		{
+			count: 3
+			id: "5A4A0E3658D71147"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+		}
+		{ id: "2FB054E0B9E3ECE0", item: { count: 1, id: "supplementaries:present_magenta" } }
+		{
+			count: 16
+			id: "6720FD91FBC382FB"
+			item: {
+				count: 1
+				id: "quark:framed_glass_pane"
+			}
+		}
+		{
+			count: 16
+			id: "41AABF8BE77C8045"
+			item: {
+				count: 1
+				id: "minecraft:red_concrete"
+			}
+		}
+		{
+			count: 16
+			id: "678BF1540E5CD441"
+			item: {
+				count: 1
+				id: "minecraft:orange_glazed_terracotta"
+			}
+		}
+		{
+			count: 8
+			id: "0D1BDBA437B1170A"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+		}
+		{ id: "271C6D33302B5CA2", item: { count: 1, id: "autumnity:maple_door" } }
+		{
+			count: 16
+			id: "48359F7257533B79"
+			item: {
+				count: 1
+				id: "minecraft:spruce_planks"
+			}
+		}
+		{
+			count: 2
+			id: "7FAFD0842A2542A9"
+			item: {
+				count: 1
+				id: "minecraft:spruce_door"
+			}
+		}
+		{
+			count: 16
+			id: "0919EF70E57421CA"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{ id: "3989CC5A84BBA7FE", item: { count: 1, id: "beautify:botanist_workbench" } }
+		{
+			count: 4
+			id: "4D228C64F50DD2A0"
+			item: {
+				count: 1
+				id: "beautify:rope"
+			}
+		}
+		{
+			count: 2
+			id: "35894508F0A4B0C2"
+			item: {
+				count: 1
+				id: "beautify:lamp_jar"
+			}
+		}
+		{
+			count: 2
+			id: "2B55F2D9B72F8465"
+			item: {
+				count: 1
+				id: "beautify:lamp_candelabra_gray"
+			}
+		}
+		{
+			count: 4
+			id: "18778160B89964F7"
+			item: {
+				count: 1
+				id: "beautify:warped_blinds"
+			}
+		}
+		{
+			count: 5
+			id: "79E17E36222BC25C"
+			item: {
+				count: 1
+				id: "beautify:bookstack"
+			}
+		}
+		{
+			count: 2
+			id: "1161F8FF3C5BBD2B"
+			item: {
+				count: 1
+				id: "beautify:lamp_bamboo"
+			}
+		}
+		{ id: "4D075AFE6096F377", item: { count: 1, id: "lendersdelight:ancient_knife" } }
+		{
+			count: 6
+			id: "5B08352856533255"
+			item: {
+				count: 1
+				id: "minecraft:fire_charge"
+			}
+		}
+		{ id: "60AA3FC3B54C73CB", item: { count: 1, id: "minecraft:stone_axe" } }
+		{ id: "510DADDA633DC50F", item: { count: 1, id: "minecraft:chainmail_chestplate" } }
+		{
+			count: 6
+			id: "0C635CD5F649AB4A"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "betterend:end_veil"
+					}
+				}
+				count: 1
+				id: "minecraft:tipped_arrow"
+			}
+		}
+		{
+			count: 2
+			id: "12353405690B4BED"
+			item: {
+				count: 1
+				id: "minecraft:egg"
+			}
+		}
+		{
+			count: 14
+			id: "177DA3671DD50E4E"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+		}
+		{
+			count: 3
+			id: "607E398CD7C29700"
+			item: {
+				count: 1
+				id: "galosphere:palladium_bomb"
+			}
+		}
+		{ id: "26CD8824F611DAD9", item: { count: 1, id: "supplementaries:bomb_blue" } }
+		{
+			count: 4
+			id: "4864844D7A26408F"
+			item: {
+				count: 1
+				id: "supplementaries:bomb"
+			}
+		}
+		{ id: "084E653465F68FC9", item: { count: 1, id: "dummmmmmy:target_dummy" } }
+		{ id: "7FC672A0DAF6AAF9", item: { count: 1, id: "minecraft:stone_sword" } }
+		{
+			count: 4
+			id: "7C1411617F50EABA"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+		}
+		{
+			count: 2
+			id: "1CE1EF66EFCDF9D1"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 6
+			id: "281C725E2FFF572E"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 4
+			id: "3E869058D6D7DD9F"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 5
+			id: "75C88E543C775C49"
+			item: {
+				count: 1
+				id: "minecraft:honeycomb"
+			}
+		}
+		{
+			count: 4
+			id: "19622E7B1351DD8E"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 3
+			id: "20FCF194BFCB9066"
+			item: {
+				count: 1
+				id: "galosphere:palladium_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "498493CD6642663A"
+			item: {
+				count: 1
+				id: "galosphere:lumiere_shard"
+			}
+		}
+		{ id: "156919BB70D55743", item: { components: { "minecraft:potion_contents": { potion: "alexscaves:long_sugar_rush" } }, count: 1, id: "minecraft:lingering_potion" } }
+		{
+			count: 2
+			id: "5C61F5CCFC7D92CC"
+			item: {
+				count: 1
+				id: "upgrade_aquatic:mulberry_jam_bottle"
+			}
+		}
+		{ id: "42749B1C07A6A690", item: { count: 1, id: "neapolitan:mint_cake" } }
+		{
+			count: 3
+			id: "6C0CD7CBA8BBE5BC"
+			item: {
+				count: 1
+				id: "autumnity:cooked_turkey"
+			}
+		}
+		{
+			count: 2
+			id: "46F110A5E73F3761"
+			item: {
+				count: 1
+				id: "regions_unexplored:hanging_earlight_fruit"
+			}
+		}
+		{
+			count: 2
+			id: "787C94C6C09BA302"
+			item: {
+				count: 1
+				id: "neapolitan:mint_leaves"
+			}
+		}
+		{
+			count: 2
+			id: "0B012BF704E31350"
+			item: {
+				count: 1
+				id: "minecraft:golden_carrot"
+			}
+		}
+		{
+			count: 8
+			id: "216FE051C826B102"
+			item: {
+				count: 1
+				id: "atmospheric:blood_orange"
+			}
+		}
+		{ id: "2FDCDC6A5816552D", item: { count: 1, id: "minecraft:turtle_egg" } }
+		{
+			count: 4
+			id: "700D3EEBEC97C7A1"
+			item: {
+				count: 1
+				id: "minecraft:glow_berries"
+			}
+		}
+		{
+			count: 2
+			id: "77D4CB5E817890C7"
+			item: {
+				count: 1
+				id: "supplementaries:biomeswevegone/way_sign_spirit"
+			}
+		}
+		{
+			count: 3
+			id: "4962568E07519B4C"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "yungscavebiomes:frost"
+					}
+				}
+				count: 1
+				id: "supplementaries:bamboo_spikes_tipped"
+			}
+		}
+		{ id: "5E72FA663C5FEF53", item: { count: 1, id: "supplementaries:spider_head" } }
+		{
+			count: 3
+			id: "40AB364CF4AC5885"
+			item: {
+				count: 1
+				id: "minecraft:black_banner"
+			}
+		}
+		{
+			count: 3
+			id: "5254FA102694070D"
+			item: {
+				count: 1
+				id: "quark:white_stool"
+			}
+		}
+		{
+			count: 2
+			id: "522643CBC604A4E8"
+			item: {
+				count: 1
+				id: "supplementaries:candle_holder_white"
+			}
+		}
+		{
+			count: 6
+			id: "3B931821AAD0EF6A"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+		}
+		{
+			count: 2
+			id: "2E5B851CF5304F5A"
+			item: {
+				count: 1
+				id: "minecraft:repeater"
+			}
+		}
+		{
+			count: 3
+			id: "251E9EA6564C64E6"
+			item: {
+				count: 1
+				id: "minecraft:glass_bottle"
+			}
+		}
+		{ id: "524B4F88B612D185", item: { count: 1, id: "create:mechanical_drill" } }
+		{ id: "2A39BA7B2A027E4B", item: { count: 1, id: "create:andesite_casing" } }
+		{
+			count: 8
+			id: "1B129E8FA973F47F"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{ id: "280265156DE44943", item: { count: 1, id: "minecraft:hopper" } }
+		{
+			count: 2
+			id: "1F30A8D1A0B07334"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "0E34B7375D7E0925"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+		}
+		{
+			count: 4
+			id: "5F9104A0B12F7E7A"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+		}
+		{
+			count: 3
+			id: "47A271CFE7F8A340"
+			item: {
+				count: 1
+				id: "minecraft:chest"
+			}
+		}
+		{
+			count: 8
+			id: "2DB691E4DE9892DA"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "06501D4815CB3FBB"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+		}
+		{
+			count: 2
+			id: "667AC6479C1993B6"
+			item: {
+				count: 1
+				id: "scguns:stone_gun_barrel"
+			}
+		}
+		{ id: "7D12D0DB8F36A4DA", item: { count: 1, id: "scguns:plasma_lantern" } }
+		{
+			count: 8
+			id: "36147AE26423F540"
+			item: {
+				count: 1
+				id: "scguns:powder_and_ball"
+			}
+		}
+		{
+			count: 7
+			id: "077A9A1C460B8699"
+			item: {
+				count: 1
+				id: "scguns:grapeshot"
+			}
+		}
+	]
+}

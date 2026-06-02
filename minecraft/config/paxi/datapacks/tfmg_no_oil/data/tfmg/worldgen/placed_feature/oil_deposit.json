@@ -1,0 +1,9 @@
+{
+  "feature": "tfmg:oil_deposit",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 0
+    }
+  ]
+}

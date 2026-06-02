@@ -13,6 +13,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "528B15EE1B0C42EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "651D125A609CE9BE"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 8L
@@ -32,8 +38,14 @@
 		}
 		{
 			dependencies: ["72503386D3AB3B6C"]
-			hide_until_deps_complete: true
+			hide_until_deps_complete: false
 			id: "11FEA2BD8CD6CA81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60805B8538A251FD"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "7934D9FAC699E89D"
@@ -46,6 +58,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "5D83D5E0820C0EA2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79D667BBCDF23224"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "3140331738CB4B9D"
@@ -58,6 +76,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "7319B50E00B219DB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D80F00E29C12569"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "0B0853BA56E368B3"
@@ -70,6 +94,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "41DF2FC6919C4988"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41079316691303B3"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 2L
 				id: "15A99EABAB38F1C9"
@@ -82,6 +112,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "5C6EAF218B8B4F64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "10071E68435DDC5B"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3589BB19CDF0274F"
 				item: { count: 1, id: "create:brass_casing" }
@@ -93,6 +129,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "22C5BC30CEC297B2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39AAE2854176F44B"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "730560CB169377C3"
 				item: { count: 1, id: "petrolsparts:brass_depot" }
@@ -104,6 +146,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "74D1A0BBB6A395D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F05AB0B86CB1ABB"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3A5192E3F34F3A9E"
 				item: { components: { "petrolpark:redstone_program": { was_paused: 1b }, "petrolpark:redstone_program_uuid": [I; -658645405, 301156509, -1477291354, 888497364 ] }, count: 1, id: "petrolpark:redstone_programmer" }
@@ -115,6 +163,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "6EDC726DBD84DAC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E877B3034F39795"
+				table_id: 776198848985569980L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "09479160D6BDA917"
 				item: { count: 1, id: "create:mechanical_crafter" }
@@ -126,6 +180,12 @@
 		{
 			dependencies: ["6EDC726DBD84DAC4"]
 			id: "671C479F9B996910"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47A31BE4E12EC77C"
+				table_id: 776198848985569980L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2A8D9CA9C160CE58"
 				item: { count: 1, id: "petrolsparts:colossal_cogwheel" }
@@ -137,6 +197,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "5EED94CB5AAF96B7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E15D8C4FDEA19E4"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 8L
 				id: "5A7EEA35126F951B"
@@ -149,6 +215,12 @@
 		{
 			dependencies: ["5EED94CB5AAF96B7"]
 			id: "738E1517153BE317"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22E5BC978CC07A0E"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2D874D07ADB8AF30"
 				item: { count: 1, id: "bits_n_bobs:chain_pulley" }
@@ -160,6 +232,12 @@
 		{
 			dependencies: ["5EED94CB5AAF96B7"]
 			id: "4AB9351AE6E09ECC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "549B4EEB90C7FAF6"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 2L
@@ -180,6 +258,12 @@
 		{
 			dependencies: ["5EED94CB5AAF96B7"]
 			id: "3AFC6D665CB2810E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13CCA1455EA2FA86"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "3E1ECC764BF01736"
@@ -192,6 +276,12 @@
 		{
 			dependencies: ["5EED94CB5AAF96B7"]
 			id: "4FE0770904ECC1CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EE25C7DE129CF48"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "23D7B3E9FC636CFE"
@@ -220,6 +310,12 @@
 		{
 			dependencies: ["6EDC726DBD84DAC4"]
 			id: "6223B2467F3A84E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44EB8308284BA42C"
+				table_id: 776198848985569980L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3E8EF1BE4AFE39F1"
 				item: { count: 1, id: "create_power_loader:empty_brass_chunk_loader" }
@@ -231,6 +327,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "28CAEF4F419F0D36"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03C8A95CC475FBF9"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "52D53794E308D7BA"
 				item: { count: 1, id: "create_power_loader:empty_andesite_chunk_loader" }
@@ -242,6 +344,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "3FE0F929BABF74B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "611AD17753CE62F0"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "3A367A812748BFD9"
@@ -260,6 +368,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "30B552CD692FF9EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1114F1E43721C45E"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6F218550F0FC6379"
 				item: { count: 1, id: "create_connected:encased_chain_cogwheel" }
@@ -271,6 +385,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "107305DDE0CCAA54"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0846E2B7026BCE8E"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "58A1896FB2EE99C9"
@@ -289,6 +409,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "17621E400FC5CB83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C6F3D2A2AF80C96"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "35BB013F9521CDDF"
@@ -317,6 +443,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "57872C0CAF87C239"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E841AFC2EF2BCFF"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "5D1F0A4B2C147446"
@@ -335,6 +467,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "50B675CECFD4430F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73A429E71AE3CF0E"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "42217863BFE30BB2"
 				item: { count: 1, id: "create_connected:centrifugal_clutch" }
@@ -346,6 +484,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "4BF30B1B4EB5EF1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "506C7F61BBC4BCFC"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6048E62D3A1971BB"
 				item: { count: 1, id: "create_connected:brake" }
@@ -357,6 +501,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "39E64D9A035FCE16"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72CDD68515BAB382"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4A1E3CA537D23E16"
 				item: { count: 1, id: "create_connected:freewheel_clutch" }
@@ -368,6 +518,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "0DC67AB0080794EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61768AA5211B1B6F"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "241AF1AB889BFE1E"
 				item: { count: 1, id: "create_connected:overstress_clutch" }
@@ -379,6 +535,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "187D9F4EBB08F246"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11629B9CF4FCC5E4"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "1901ED12959AE941"
@@ -397,6 +559,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "1B8727B18355A15C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "636AD060FBB2C8DE"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "084A86362F9C4AEE"
 				item: { count: 1, id: "create_connected:kinetic_battery" }
@@ -408,6 +576,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "79507215B24EA94D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "26014697B94B7C82"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "09F9011613684665"
 				item: { count: 1, id: "create_connected:kinetic_bridge" }
@@ -419,6 +593,12 @@
 		{
 			dependencies: ["11FEA2BD8CD6CA81"]
 			id: "07D1775CB515A5DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55E8FDD15DC30620"
+				table_id: 4828222843169471904L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 8L
@@ -439,6 +619,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "31B99AB4D5ADDE2B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27A6EDAC3889FB22"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "4B66D5179FBA6040"
@@ -457,6 +643,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "595E8F5A61BEE546"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3370156364841F26"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "6665B04B87052BE4"
@@ -475,6 +667,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "05428D0DBDD4A641"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33D1B8E6549E581C"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "1621597638E4E47C"
 				item: { count: 1, id: "create_connected:sequenced_pulse_generator" }
@@ -486,6 +684,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "6EFB528FF1FF58A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DE9C6A60DA79C17"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3E48F19FE20F495A"
 				item: { count: 1, id: "create_connected:empty_fan_catalyst" }
@@ -498,6 +702,12 @@
 			dependencies: ["5C6EAF218B8B4F64"]
 			hide_dependency_lines: true
 			id: "175A0C4C3251B603"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "669346EBCC3F521E"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "4D62CB5220256CBC"
@@ -522,6 +732,12 @@
 		{
 			dependencies: ["175A0C4C3251B603"]
 			id: "05A97535E28E1D89"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A16F32523F6F6B3"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "06F4A3CEDB695F4E"
@@ -541,6 +757,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "2932A250D51795C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "716941DCF4D7525C"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "0E76BEC9C9C0EC86"
@@ -553,6 +775,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "40C22086149073A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6CCF37C12457D9F5"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "1A5A11474642F646"
@@ -576,6 +804,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "722DDC84CA8666E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32976AA260AA4C55"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "4A6EC796C2BED913"
@@ -599,6 +833,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "2CCF21EAD0530C3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "270ADF11E4696274"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "40CB19596E2FA6CA"
 				item: { count: 1, id: "create_radar:binoculars" }
@@ -610,6 +850,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "6D45225C1535DCF3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "124DEDB50EEF411C"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4A39E86C10314799"
 				item: { count: 1, id: "create_radar:radar_safe_zone_designator" }
@@ -621,6 +867,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "455198B7B8B357A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D760A50B57F808F"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "48D8C3E0EBCE2E90"
 				item: { count: 1, id: "create_radar:identification_transponder" }
@@ -632,6 +884,12 @@
 		{
 			dependencies: ["05A97535E28E1D89"]
 			id: "7D1C59881E581504"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05B519C99EBB0C21"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "12E1635645A02793"
 				item: { count: 1, id: "create_radar:radar_warning_receiver" }
@@ -643,6 +901,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "78B969EFCD02797B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34BE74AD808E371E"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "711460709925268F"
@@ -671,6 +935,12 @@
 		{
 			dependencies: ["6EDC726DBD84DAC4"]
 			id: "1A005D533748DCD4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CBC523442F8251D"
+				table_id: 776198848985569980L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "59FF077228BBAEFB"
 				item: { count: 1, id: "create:railway_casing" }
@@ -682,6 +952,12 @@
 		{
 			dependencies: ["1A005D533748DCD4"]
 			id: "086671759408F91A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D26C60A7DDBB3F0"
+				table_id: 776198848985569980L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "74B63409A05CF0CB"
@@ -700,6 +976,12 @@
 		{
 			dependencies: ["5C6EAF218B8B4F64"]
 			id: "7EEC53AEA9ACEC26"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D637A1007374952"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 6L
@@ -725,6 +1007,12 @@
 		{
 			dependencies: ["7EEC53AEA9ACEC26"]
 			id: "7EC0C0C98E6B477C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "725341A8770503C5"
+				table_id: 4980316850674217734L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "523A14811950E1F3"

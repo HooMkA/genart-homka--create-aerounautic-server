@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:snapped_cogwheel"
+    },
+    "Z": {
+      "item": "born_in_chaos_v1:nightmare_stalker_skull"
+    },
+        "X": {
+      "item": "tfmg:steel_casing"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:wrecker_blueprint"
+  }
+}

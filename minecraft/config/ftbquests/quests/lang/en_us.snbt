@@ -2025,10 +2025,6 @@
 		""
 		"They do not accept power directly but are used to add additional power storage to an already existing ME Network."
 	]
-	reward_table.1BC377CF7DB0B217.title: "Create"
-	reward_table.48E5FAFD45FFF238.title: "IMM"
-	reward_table.582C28B4960E70F9.title: "MEK"
-	reward_table.65F5978C49103D7A.title: "AE2"
 	task.00204D0DDF6D639B.title: "16k ME Storage Cells"
 	task.03A64F653E5637CD.title: "Crafting Monitor"
 	task.079EF0BC98DD0605.title: "Any Treated Wood"

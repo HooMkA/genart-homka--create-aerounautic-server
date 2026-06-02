@@ -3,7 +3,6 @@
 	default_quest_shape: ""
 	filename: "5"
 	group: "12020D090EBF51D3"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "tfmg:aluminum_cogwheel"
 	}
@@ -14,6 +13,12 @@
 		{
 			dependencies: ["5E49F323C3E17BBF"]
 			id: "447AC5E33618C834"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6645F2F780DE2DFE"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "32B18C13A187098B"
@@ -26,6 +31,12 @@
 		{
 			dependencies: ["447AC5E33618C834"]
 			id: "5FA4ECB4B21723D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6323930EBC56837C"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "4B74FCB985B9476F"
@@ -50,6 +61,12 @@
 			]
 			id: "2F66AC24AF131074"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "10CF809D0B2A9C4C"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "33810E3E0850249C"
@@ -69,6 +86,12 @@
 		{
 			dependencies: ["447AC5E33618C834"]
 			id: "73653A7EBA90823C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "321ACF6D962C238F"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4C4E1F6EA07EC095"
 				item: { count: 1, id: "tfmg:plastic_sheet" }
@@ -80,6 +103,12 @@
 		{
 			dependencies: ["73653A7EBA90823C"]
 			id: "0A1B5133A6853477"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1951CE771386F95E"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "050FDFA3854AB5D4"
 				item: { count: 1, id: "tfmg:empty_circuit_board" }
@@ -91,6 +120,12 @@
 		{
 			dependencies: ["106257F2415CA91A"]
 			id: "6EF0D1304362180B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F0F2584F81BEC99"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "31B2B949119E02D8"
 				item: { count: 1, id: "tfmg:transistor_item" }
@@ -105,6 +140,12 @@
 				"0A1B5133A6853477"
 			]
 			id: "4C58AEAB58E7524B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12A86D8C8997C1D8"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "039ED61926B7972C"
 				item: { count: 1, id: "tfmg:circuit_board" }
@@ -116,6 +157,12 @@
 		{
 			dependencies: ["73653A7EBA90823C"]
 			id: "106257F2415CA91A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F80579E098C67B2"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "7564D8BD261D5226"
@@ -134,6 +181,12 @@
 		{
 			dependencies: ["106257F2415CA91A"]
 			id: "1B0D61C4DBE2C584"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "680AD61E5997F6C2"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4E78C012F6B5A41B"
 				item: { count: 1, id: "tfmg:electric_diode" }
@@ -145,6 +198,12 @@
 		{
 			dependencies: ["4C58AEAB58E7524B"]
 			id: "232EE70A409FE33B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "338FADF8ED7178BC"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "5F6BB49F65A8AE15"
 				item: { count: 1, id: "tfmg:fireproof_chemical_vat" }
@@ -156,6 +215,12 @@
 		{
 			dependencies: ["232EE70A409FE33B"]
 			id: "21E0C1AE535AFEF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B1DBFF6F72FB6AB"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "1F542143367CDBCA"
 				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:dragonegg_red)item(iceandfire:dragonegg_copper)item(iceandfire:dragonegg_black)item(iceandfire:dragonegg_amethyst)item(iceandfire:dragonegg_green)item(iceandfire:dragonegg_bronze)item(iceandfire:dragonegg_gray)item(iceandfire:dragonegg_blue)item(iceandfire:dragonegg_white)item(iceandfire:dragonegg_sapphire)item(iceandfire:dragonegg_silver)item(iceandfire:dragonegg_electric))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -170,6 +235,12 @@
 				"21E0C1AE535AFEF9"
 			]
 			id: "14F726E24D6B279E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A741B04AA234BAB"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "7EEDC1340BC30E01"
@@ -203,6 +274,12 @@
 				"21E0C1AE535AFEF9"
 			]
 			id: "3DDAF362447622AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20DA2C42B711E7C9"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "49C3DDFB727A6FD0"
@@ -236,6 +313,12 @@
 				"21E0C1AE535AFEF9"
 			]
 			id: "024DF2142D2FFB67"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2395B2E847821C5E"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "0FF84F68DBC83489"
@@ -266,6 +349,12 @@
 		{
 			dependencies: ["3DDAF362447622AC"]
 			id: "5A471705CDD20D6E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B135FD056816AAA"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "24A962F1CBB2FF88"
 				item: { count: 1, id: "iceandfire:dragonsteel_ice_ingot" }
@@ -277,6 +366,12 @@
 		{
 			dependencies: ["14F726E24D6B279E"]
 			id: "6F0B5BDDE37ADDA9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "775FAC73CEA986A3"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4000B7617DC15DED"
 				item: { count: 1, id: "iceandfire:dragonsteel_fire_ingot" }
@@ -288,6 +383,12 @@
 		{
 			dependencies: ["024DF2142D2FFB67"]
 			id: "1AEC4C7E1D8C35E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5388BB45AFAECADC"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "775C70F04DDFD7FA"
 				item: { count: 1, id: "iceandfire:dragonsteel_lightning_ingot" }
@@ -303,6 +404,35 @@
 				"5A471705CDD20D6E"
 			]
 			id: "57D5048B856C69BF"
+			rewards: [
+				{
+					count: 2
+					id: "1F7336A2241FBE38"
+					item: {
+						count: 1
+						id: "alexscaves:nuclear_bomb"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "3AC5CA61AE58564B"
+					item: {
+						count: 1
+						id: "scguns:osborne_slug"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1A37B6203E611DBB"
+					item: {
+						count: 1
+						id: "alexscaves:spawn_egg_nucleeper"
+					}
+					type: "item"
+				}
+			]
 			shape: "diamondtier"
 			size: 3.0d
 			tasks: [
@@ -328,6 +458,12 @@
 		{
 			dependencies: ["5A471705CDD20D6E"]
 			id: "5595F4711B4BC2AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5ED63630C261E00B"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "238A2A72182B8E26"
@@ -356,6 +492,12 @@
 		{
 			dependencies: ["1AEC4C7E1D8C35E2"]
 			id: "5B048A8AEE3FB9DB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6595189E9CF82121"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "3E6E0250B5A43B96"
@@ -384,6 +526,12 @@
 		{
 			dependencies: ["6F0B5BDDE37ADDA9"]
 			id: "1D1553F0C297F4A8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "407CE52D924B3954"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "16DA783114758EF5"

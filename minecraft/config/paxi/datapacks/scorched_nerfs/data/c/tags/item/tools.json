@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "scguns:scamp_controller",
+      "required": false
+    },
+    "scguns:anthralite_knife"
+  ]
+}

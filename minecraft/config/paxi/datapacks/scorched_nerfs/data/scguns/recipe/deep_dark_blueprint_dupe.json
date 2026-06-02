@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:sculk_tome"
+    },
+    "Z": {
+      "item": "tfmg:plastic_sheet"
+    },
+        "X": {
+      "item": "cataclysm:witherite_ingot"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:deep_dark_blueprint"
+  }
+}

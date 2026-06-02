@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:shulker_core"
+    },
+    "Z": {
+      "item": "betterend:eternal_crystal"
+    },
+        "X": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "id": "scguns:end_blueprint",
+    "count": 1
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "betternether:flaming_ruby_sword": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 7.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "betternether:flaming_ruby_axe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 9.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_sword": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 12.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_axe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 14.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_pickaxe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_shovel": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_hoe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_sword": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 12.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_axe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 14.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_pickaxe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_shovel": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_hoe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_sword": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 12.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_axe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 14.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_pickaxe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_shovel": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_hoe": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "action": "modify",
+        "amount": 8.0,
+        "operation": "add_value"
+      }
+    ]
+  }
+}

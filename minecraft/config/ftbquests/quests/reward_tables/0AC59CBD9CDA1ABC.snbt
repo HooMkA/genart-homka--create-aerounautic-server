@@ -1,0 +1,621 @@
+{
+	icon: {
+		id: "rottencreatures:treasure_chest"
+	}
+	id: "0AC59CBD9CDA1ABC"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 32
+			id: "4E0879F206925663"
+			item: {
+				count: 1
+				id: "minecraft:spruce_fence_gate"
+			}
+		}
+		{
+			count: 32
+			id: "47871B4EFA6472ED"
+			item: {
+				count: 1
+				id: "quark:oak_post"
+			}
+		}
+		{
+			count: 32
+			id: "3FA8B075CD649291"
+			item: {
+				count: 1
+				id: "minecraft:birch_slab"
+			}
+		}
+		{ id: "56F085319FAA6D63", item: { count: 1, id: "born_in_chaos_v1:damned_demomans_hat_helmet" } }
+		{
+			count: 32
+			id: "191988FEB46A09BA"
+			item: {
+				count: 1
+				id: "regions_unexplored:yellow_bioshroom_hyphae"
+			}
+		}
+		{
+			count: 2
+			id: "0A5AFF66AE18E214"
+			item: {
+				count: 1
+				id: "regions_unexplored:yellow_bioshroom_door"
+			}
+		}
+		{
+			count: 32
+			id: "6B23CEB08DD5DE09"
+			item: {
+				count: 1
+				id: "regions_unexplored:blue_bioshroom_slab"
+			}
+		}
+		{
+			count: 32
+			id: "5C5A9CC918D55381"
+			item: {
+				count: 1
+				id: "regions_unexplored:socotra_log"
+			}
+		}
+		{
+			count: 32
+			id: "4036BD926E91809B"
+			item: {
+				count: 1
+				id: "regions_unexplored:redwood_slab"
+			}
+		}
+		{
+			count: 2
+			id: "52FC33FC30A0418C"
+			item: {
+				count: 1
+				id: "regions_unexplored:redwood_door"
+			}
+		}
+		{
+			count: 16
+			id: "4649DB87B2C88DC8"
+			item: {
+				count: 1
+				id: "environmental:wisteria_button"
+			}
+		}
+		{
+			count: 16
+			id: "522964777708489B"
+			item: {
+				count: 1
+				id: "neapolitan:mint_chocolate"
+			}
+		}
+		{
+			count: 16
+			id: "5D2261F08CE667E3"
+			item: {
+				count: 1
+				id: "neapolitan:roasted_adzuki_beans"
+			}
+		}
+		{
+			count: 16
+			id: "30BE61FBFC905B59"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{ id: "781844D02983AFB6", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:vanishing_curse": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{
+			count: 16
+			id: "3882470DCDA66BA8"
+			item: {
+				count: 1
+				id: "minecraft:gold_nugget"
+			}
+		}
+		{
+			count: 16
+			id: "7BDF3074A009D189"
+			item: {
+				count: 1
+				id: "minecraft:flint"
+			}
+		}
+		{
+			count: 2
+			id: "4D9B033C742D8FC7"
+			item: {
+				count: 1
+				id: "scguns:charged_amethyst_shard"
+			}
+		}
+		{ id: "7CDCC90F34CD07AE", item: { count: 1, id: "alexscaves:disc_fragment_fusion" } }
+		{
+			count: 3
+			id: "3FFB8BF3FF91BE85"
+			item: {
+				count: 1
+				id: "scguns:nitro_buckshot"
+			}
+		}
+		{
+			count: 5
+			id: "61B132D66F47701F"
+			item: {
+				count: 1
+				id: "clavis:lock_pick"
+			}
+		}
+		{ id: "08C60A483FA23AC8", item: { count: 1, id: "minecraft:music_disc_chirp" } }
+		{ id: "0456F7A0C969BA96", item: { count: 1, id: "supplementaries:slingshot" } }
+		{ id: "6C99E9F739AFD04A", item: { count: 1, id: "minecraft:flint_and_steel" } }
+		{ id: "457A37D7276F3225", item: { count: 1, id: "quark:crab_bucket" } }
+		{ id: "7AE9270CAB36613E", item: { count: 1, id: "minecraft:axolotl_bucket" } }
+		{ id: "7BD705BA5AE7CD86", item: { count: 1, id: "autumnity:snail_shell_chestplate" } }
+		{ id: "42F408B99C6A9ECD", item: { count: 1, id: "minecraft:armadillo_spawn_egg" } }
+		{ id: "42982532ABC02D64", item: { count: 1, id: "minecraft:angler_pottery_sherd" } }
+		{
+			count: 16
+			id: "33F4F5D971FDF0F8"
+			item: {
+				count: 1
+				id: "minecraft:nether_brick"
+			}
+		}
+		{
+			count: 16
+			id: "4B1674B0E4900495"
+			item: {
+				count: 1
+				id: "minecraft:brick"
+			}
+		}
+		{
+			count: 2
+			id: "53D9C4E6F9EB78B6"
+			item: {
+				count: 1
+				id: "minecraft:bowl"
+			}
+		}
+		{
+			count: 2
+			id: "4FF7FDCA792A4457"
+			item: {
+				count: 1
+				id: "quark:crab_shell"
+			}
+		}
+		{
+			count: 2
+			id: "33B359E2C4995907"
+			item: {
+				count: 1
+				id: "minecraft:glistering_melon_slice"
+			}
+		}
+		{
+			count: 8
+			id: "3C5A31698B96C666"
+			item: {
+				count: 1
+				id: "autumnity:snail_goo"
+			}
+		}
+		{
+			count: 6
+			id: "009A4F464D40A0CB"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{ id: "3089164275027745", item: { count: 1, id: "minecraft:breeze_rod" } }
+		{
+			count: 3
+			id: "1E08123814389F98"
+			item: {
+				count: 1
+				id: "environmental:cattail_fluff"
+			}
+		}
+		{
+			count: 3
+			id: "57B357B2A141ADCF"
+			item: {
+				count: 1
+				id: "environmental:cattail_fluff"
+			}
+		}
+		{
+			count: 6
+			id: "787C87ED13E9C685"
+			item: {
+				count: 1
+				id: "quark:waxed_blue_corundum"
+			}
+		}
+		{
+			count: 5
+			id: "7F95574CBB5E478E"
+			item: {
+				count: 1
+				id: "supplementaries:awning_orange"
+			}
+		}
+		{
+			count: 5
+			id: "5A7AC877F8BB2E0D"
+			item: {
+				count: 1
+				id: "supplementaries:awning_orange"
+			}
+		}
+		{
+			count: 6
+			id: "681B2AF77808E484"
+			item: {
+				count: 1
+				id: "suppsquared:gold_candle_holder"
+			}
+		}
+		{ id: "1DB1323B933EB132", item: { count: 1, id: "minecraft:red_bed" } }
+		{
+			count: 8
+			id: "5D76D79E972682A4"
+			item: {
+				count: 1
+				id: "minecraft:magenta_wool"
+			}
+		}
+		{
+			count: 8
+			id: "3883C80F6893F6A8"
+			item: {
+				count: 1
+				id: "railways:white_slashed_locometal"
+			}
+		}
+		{ id: "0E0D5DA266689392", item: { count: 1, id: "born_in_chaos_v1:nightmare_mantleofthe_night_helmet" } }
+		{
+			count: 4
+			id: "137AE5107780D295"
+			item: {
+				count: 1
+				id: "alexscaves:uranium"
+			}
+		}
+		{ id: "096B97E4C9190074", item: { count: 1, id: "alexscaves:tripodfish_bucket" } }
+		{
+			count: 6
+			id: "1F1387E2FE544D5B"
+			item: {
+				count: 1
+				id: "alexscaves:dinosaur_nugget"
+			}
+		}
+		{ id: "670808EFC6419E03", item: { count: 1, id: "rechiseled:chisel" } }
+		{
+			count: 8
+			id: "75E5D31DA7DD64E5"
+			item: {
+				count: 1
+				id: "colorfulpipes:blue_copper_casing"
+			}
+		}
+		{
+			count: 2
+			id: "4D4ECF2D1F8F8781"
+			item: {
+				count: 1
+				id: "colorfulpipes:black_steam_whistle"
+			}
+		}
+		{
+			count: 2
+			id: "19B7B9106DBA063B"
+			item: {
+				count: 1
+				id: "dndesires:breccia"
+			}
+		}
+		{
+			count: 16
+			id: "0B59851DE1731522"
+			item: {
+				count: 1
+				id: "dndesires:asphalt"
+			}
+		}
+		{ id: "00858C338025C598", item: { count: 1, id: "dndesires:gold_mixer" } }
+		{ id: "14F6612319001262", item: { count: 1, id: "gnkinetics:large_magnet_gear" } }
+		{ id: "3713269BD1F629FE", item: { count: 1, id: "bits_n_bobs:brass_lamp" } }
+		{
+			count: 2
+			id: "20F77E2AF6865E86"
+			item: {
+				count: 1
+				id: "createpropulsion:thruster"
+			}
+		}
+		{
+			count: 4
+			id: "49613EFF9FF8C0E0"
+			item: {
+				count: 1
+				id: "tracks:track_mount"
+			}
+		}
+		{ id: "3CC7607D391B7A33", item: { count: 1, id: "aeronautics:aviators_goggles" } }
+		{ id: "4CE06A1DFBDABD70", item: { count: 1, id: "aeronautics:smart_propeller" } }
+		{
+			count: 8
+			id: "3D4CFB9408FDF077"
+			item: {
+				count: 1
+				id: "upgrade_aquatic:boiled_pickerelweed"
+			}
+		}
+		{ id: "3D5B3E2CA18426AE", item: { count: 1, id: "immersive_aircraft:quadrocopter" } }
+		{ id: "3F7390F0DDDC7405", item: { count: 1, id: "create_sa:blazing_cleaver" } }
+		{ id: "4E87FD3FB23E2365", item: { count: 1, id: "create_sa:andesite_exoskeleton_chestplate" } }
+		{ id: "74E6BCF834F15E34", item: { count: 1, id: "farmersdelight:shepherds_pie" } }
+		{ id: "1789CE2BC709ADB2", item: { count: 1, id: "farmersdelight:skillet" } }
+		{ id: "3F981F7FA7C8A099", item: { count: 1, id: "create_mobile_packages:robo_bee" } }
+		{ id: "374882682D49B229", item: { count: 1, id: "iceandfire:pixie_jar_1" } }
+		{
+			count: 2
+			id: "12BB798513B2C84F"
+			item: {
+				count: 1
+				id: "betternether:anchor_tree_hanging_sign"
+			}
+		}
+		{
+			count: 16
+			id: "730FE6FDA03449D7"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{ id: "241C256D9433551D", item: { count: 1, id: "scguns:beacon_grenade" } }
+		{
+			count: 4
+			id: "487ACEFADA952B25"
+			item: {
+				count: 1
+				id: "scguns:hellfire_bomb"
+			}
+		}
+		{
+			count: 8
+			id: "14A86CEC59ED8F20"
+			item: {
+				count: 1
+				id: "scguns:stun_grenade"
+			}
+		}
+		{
+			count: 8
+			id: "06DEBCC542200A7C"
+			item: {
+				count: 1
+				id: "scguns:ramrod_round"
+			}
+		}
+		{
+			count: 4
+			id: "1A509680CFDAC87F"
+			item: {
+				count: 1
+				id: "scguns:osborne_slug"
+			}
+		}
+		{ id: "45EB9A377DE20239", item: { components: { "minecraft:custom_data": { AmmoCount: 4, GeckoLibID: 229L } }, count: 1, id: "scguns:floundergat" } }
+		{ id: "379D4B761D774EC3", item: { count: 1, id: "scguns:exo_suit_core" } }
+		{ id: "738AA635ED422FF0", item: { count: 1, id: "scguns:scrap_leggings" } }
+		{ id: "593748097CC7AC44", item: { count: 1, id: "scguns:diamond_steel_chestplate" } }
+		{ id: "0732EAA62B7072DE", item: { count: 1, id: "scguns:metal_detector" } }
+		{
+			count: 2
+			id: "4D7958E4A00DD6F7"
+			item: {
+				count: 1
+				id: "beautify:dark_oak_picture_frame"
+			}
+		}
+		{
+			count: 2
+			id: "5D886E4217153384"
+			item: {
+				count: 1
+				id: "another_furniture:jungle_drawer"
+			}
+		}
+		{
+			count: 2
+			id: "5F3622DDA854B9A9"
+			item: {
+				count: 1
+				id: "another_furniture:dark_oak_bench"
+			}
+		}
+		{
+			count: 4
+			id: "578EC59861F77F95"
+			item: {
+				count: 1
+				id: "another_furniture:warped_table"
+			}
+		}
+		{
+			count: 2
+			id: "7AFF0733E4964DD9"
+			item: {
+				count: 1
+				id: "create_train_parts:crossing"
+			}
+		}
+		{ id: "01767ADB90634F48", item: { count: 1, id: "createcasing:brass_mechanical_drill" } }
+		{ id: "6BD06A17FA984D2D", item: { count: 1, id: "simulated:throttle_lever" } }
+		{ id: "2449D2630109A37D", item: { count: 1, id: "simulated:linked_typewriter" } }
+		{ id: "34217AD5B10BF42E", item: { count: 1, id: "simulated:optical_sensor" } }
+		{ id: "57D64C95DB69A2E6", item: { count: 1, id: "aeroworks:joystick" } }
+		{ id: "51372D40FEC24B3A", item: { count: 1, id: "create_connected:sequenced_pulse_generator" } }
+		{
+			count: 4
+			id: "237BA213A0CFA8AA"
+			item: {
+				count: 1
+				id: "create_train_parts:train_slide_andesite"
+			}
+		}
+		{
+			count: 4
+			id: "19B496D6C84C147A"
+			item: {
+				count: 1
+				id: "petrolsparts:colossal_cogwheel"
+			}
+		}
+		{
+			count: 4
+			id: "538428C2697B48D0"
+			item: {
+				count: 1
+				id: "create_radar:monitor"
+			}
+		}
+		{ id: "5E338842FE94B267", item: { count: 1, id: "create_radar:radar_receiver_block" } }
+		{ id: "22C49359E79E9298", item: { count: 1, id: "create_connected:brass_gearbox" } }
+		{
+			count: 16
+			id: "01772F71067A30FE"
+			item: {
+				count: 1
+				id: "create:crushed_raw_iron"
+			}
+		}
+		{ id: "66A0253509A952E7", item: { count: 1, id: "create:blaze_burner" } }
+		{
+			count: 2
+			id: "4ACE0E03E9957F7F"
+			item: {
+				count: 1
+				id: "create:brass_tunnel"
+			}
+		}
+		{
+			count: 8
+			id: "5349E1381D327209"
+			item: {
+				count: 1
+				id: "create:brass_casing"
+			}
+		}
+		{
+			count: 8
+			id: "51687C7A076F40CA"
+			item: {
+				count: 1
+				id: "create:brass_casing"
+			}
+		}
+		{
+			count: 16
+			id: "23D8AB440A56BECA"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+		}
+		{
+			count: 32
+			id: "541E2F3311EE3F88"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 2
+			id: "34AD3F3BF710A6ED"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{ id: "0E4299D71C022CA4", item: { count: 1, id: "create:blaze_cake" } }
+		{
+			count: 2
+			id: "263664B64BB6F9CF"
+			item: {
+				count: 1
+				id: "create:railway_casing"
+			}
+		}
+		{
+			count: 16
+			id: "58A897ADF43F97C6"
+			item: {
+				count: 1
+				id: "tfmg:coal_coke"
+			}
+		}
+		{
+			count: 16
+			id: "3758278DC8C55DBB"
+			item: {
+				count: 1
+				id: "tfmg:lead_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "665FE7EBA626441B"
+			item: {
+				count: 1
+				id: "tfmg:nickel_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "0B5BE1E154E56088"
+			item: {
+				count: 1
+				id: "create:cart_assembler"
+			}
+		}
+		{
+			count: 8
+			id: "369F7747A56D7459"
+			item: {
+				count: 1
+				id: "createbigcannons:steel_ingot"
+			}
+		}
+		{ id: "10F7110CCC937372", item: { count: 1, id: "minecraft:name_tag" } }
+		{ id: "141B3D556BC18996", item: { count: 1, id: "minecraft:fishing_rod" } }
+		{ id: "61D1368B81A26CD6", item: { count: 1, id: "minecraft:dragon_breath" } }
+		{ id: "61349E5197864D02", item: { count: 1, id: "neapolitan:ice_cubes" } }
+		{ id: "30BAFFFADD14A9DF", item: { count: 1, id: "minecraft:pufferfish" } }
+		{ id: "3D39E7ED58F8859D", item: { count: 1, id: "minecraft:trial_key" } }
+		{ id: "00CF015A79AD2068", item: { count: 1, id: "neapolitan:chimpanzee_spawn_egg" } }
+		{ id: "5335365612993A8D", item: { components: { "quark:tome_enchantments": { levels: { "minecraft:wind_burst": 3 } } }, count: 1, id: "quark:ancient_tome" } }
+		{ id: "77E8799971B7FDBA", item: { components: { "quark:tome_enchantments": { levels: { "minecraft:wind_burst": 3 } } }, count: 1, id: "quark:ancient_tome" } }
+		{ id: "0F7F9E8BB68035B0", item: { count: 1, id: "supplementaries:rope_arrow" } }
+		{ id: "09374C59A43E07DF", item: { count: 1, id: "supplementaries:sconce_lever" } }
+		{ id: "4FB609772F4AB05A", item: { count: 1, id: "create_dragons_plus:magenta_dye_bucket" } }
+		{ id: "1C95AFA9EC42DD0E", item: { count: 1, id: "iceandfire:forest_troll_leather_chestplate" } }
+		{ id: "2C1A104AC220654D", item: { count: 1, id: "create:potato_cannon" } }
+		{ id: "1BE33CEAD36CC6C4", item: { count: 1, id: "beautify:quartz_picture_frame" } }
+	]
+}

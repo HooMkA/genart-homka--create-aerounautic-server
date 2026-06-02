@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:cog_heart"
+    },
+    "Z": {
+      "item": "tfmg:resistor"
+    },
+        "X": {
+      "item": "born_in_chaos_v1:armor_plate_from_dark_metal"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:treated_brass_blueprint"
+  }
+}

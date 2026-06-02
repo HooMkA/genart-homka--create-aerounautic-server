@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:rusty_medal"
+    },
+    "Z": {
+      "item": "create:electron_tube"
+    },
+        "X": {
+      "item": "born_in_chaos_v1:seedof_chaos"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:copper_blueprint"
+  }
+}

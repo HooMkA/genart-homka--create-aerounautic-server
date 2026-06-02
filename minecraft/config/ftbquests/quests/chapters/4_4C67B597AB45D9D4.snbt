@@ -3,7 +3,6 @@
 	default_quest_shape: ""
 	filename: "4_4C67B597AB45D9D4"
 	group: "12020D090EBF51D3"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "tfmg:large_steel_cogwheel"
 	}
@@ -14,6 +13,12 @@
 		{
 			dependencies: ["48A050F527F0B4C9"]
 			id: "5E3F411E65905D7E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "695E57BBAD27BA98"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "5F20EAFF2FBEFE7E"
@@ -26,6 +31,12 @@
 		{
 			dependencies: ["5E3F411E65905D7E"]
 			id: "0BDD5FF0619BABFC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "636CB1EDA0A2DE43"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3F8CEC28E24A99DB"
 				item: { count: 1, id: "tfmg:magnetic_alloy_ingot" }
@@ -37,6 +48,12 @@
 		{
 			dependencies: ["0BDD5FF0619BABFC"]
 			id: "78E5409181006669"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3145C3C2D40C5D95"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "45CB79869820C08D"
 				item: { count: 1, id: "tfmg:magnet" }
@@ -51,6 +68,12 @@
 				"7219DF4483631172"
 			]
 			id: "721BB104464EF98F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0508776C681DA2CC"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "56ACEDDEAA9BC0B4"
 				item: { count: 1, id: "tfmg:generator" }
@@ -62,6 +85,12 @@
 		{
 			dependencies: ["721BB104464EF98F"]
 			id: "27E76C0D64288365"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "020D82502562310B"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 2L
@@ -96,6 +125,12 @@
 		{
 			dependencies: ["78E5409181006669"]
 			id: "331EED2768E33E51"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BD05020A4186426"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2DD5A43B477EE576"
 				item: { count: 1, id: "tfmg:electric_motor" }
@@ -107,6 +142,12 @@
 		{
 			dependencies: ["27E76C0D64288365"]
 			id: "3216872E42596098"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39A98AB474011E35"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					count: 4L
@@ -126,6 +167,12 @@
 		{
 			dependencies: ["3216872E42596098"]
 			id: "5A42294A9F2A361B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "156D59074FE37E01"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "55CD0156267FAC8C"
 				item: { count: 1, id: "tfmg:industrial_aluminum_casing" }
@@ -137,6 +184,12 @@
 		{
 			dependencies: ["5A42294A9F2A361B"]
 			id: "055E3A9DE1771235"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D2D8A7D75CB95EF"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "093C13A85BC69A48"
 				item: { count: 1, id: "tfmg:accumulator" }
@@ -148,6 +201,12 @@
 		{
 			dependencies: ["3216872E42596098"]
 			id: "31FA5E388CA8D6BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18F6E76018B4D912"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2E53CC786D8530EF"
 				item: { count: 1, id: "tfmg:electricians_wrench" }
@@ -159,6 +218,12 @@
 		{
 			dependencies: ["3216872E42596098"]
 			id: "2674786AA8202BC9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6652AE7B068EBF35"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "327D86CF5E53359C"
@@ -178,6 +243,12 @@
 		{
 			dependencies: ["3216872E42596098"]
 			id: "19C33D3BFED67B03"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "059C37F8B900EF35"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "18B9584E50CE7E5E"
@@ -220,6 +291,12 @@
 			dependencies: ["3216872E42596098"]
 			dependency_requirement: "one_completed"
 			id: "6E2AB684C9F58601"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F95E900E7D24B85"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "4BC2E958075FB80C"
@@ -264,6 +341,12 @@
 		{
 			dependencies: ["6E2AB684C9F58601"]
 			id: "5E49F323C3E17BBF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "700E0A6B1A0F0E04"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			shape: "irontier"
 			size: 2.0d
 			tasks: [{
@@ -277,6 +360,12 @@
 		{
 			dependencies: ["6E2AB684C9F58601"]
 			id: "74D323183B7A89D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C2476EF07A8FE58"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0E6BF249A4B98408"
 				item: { count: 1, id: "tfmg:simple_engine_cylinder" }
@@ -288,6 +377,12 @@
 		{
 			dependencies: ["6E2AB684C9F58601"]
 			id: "16C28EB6C0D6DF8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16DEDA8399297588"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "465AB8C42DE7513A"
 				item: { count: 1, id: "tfmg:engine_cylinder" }
@@ -299,6 +394,12 @@
 		{
 			dependencies: ["6E2AB684C9F58601"]
 			id: "365E53E5A00064A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24A9024C0EECEF73"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6B01A1BC287929F1"
 				item: { count: 1, id: "tfmg:diesel_engine_cylinder" }
@@ -311,15 +412,23 @@
 			dependencies: ["27E76C0D64288365"]
 			id: "2436A53F6FA85ECF"
 			optional: true
-			rewards: [{
-				count: 2
-				id: "7AE5F79A693D67BF"
-				item: {
-					count: 1
-					id: "tfmg:exhaust"
+			rewards: [
+				{
+					count: 2
+					id: "7AE5F79A693D67BF"
+					item: {
+						count: 1
+						id: "tfmg:exhaust"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6EC204B6F7B9345E"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [
 				{
 					count: 3L
@@ -346,6 +455,12 @@
 		{
 			dependencies: ["31BFEFA5171E7989"]
 			id: "111775B869BF1253"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "667A4B7B5EFB37D8"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6C268C15582C2C14"
 				item: { count: 1, id: "tfmg:winding_machine" }
@@ -360,6 +475,12 @@
 				id: "tfmg:electromagnetic_coil"
 			}
 			id: "6AB7E657BC595990"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C37EA807B10099F"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [
 				{
 					id: "376AE7A155F9FEBB"
@@ -379,6 +500,12 @@
 		{
 			dependencies: ["6AB7E657BC595990"]
 			id: "49F0215560E65346"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C90D0CF914CC537"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "52806A9D7EA39D96"
 				item: { count: 1, id: "tfmg:transformer" }
@@ -391,15 +518,23 @@
 			dependencies: ["49F0215560E65346"]
 			id: "1B7302698E29375A"
 			optional: true
-			rewards: [{
-				count: 8
-				id: "188A6DBB8C198CD0"
-				item: {
-					count: 1
-					id: "tfmg:copper_wire"
+			rewards: [
+				{
+					count: 8
+					id: "188A6DBB8C198CD0"
+					item: {
+						count: 1
+						id: "tfmg:copper_wire"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "045BA2465442E714"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "628C09CF3A6EC685"
 				item: { count: 1, id: "tfmg:converter" }
@@ -411,15 +546,23 @@
 		{
 			dependencies: ["0BDD5FF0619BABFC"]
 			id: "31BFEFA5171E7989"
-			rewards: [{
-				count: 3
-				id: "7A10B47E1937E59E"
-				item: {
-					count: 1
-					id: "tfmg:magnet"
+			rewards: [
+				{
+					count: 3
+					id: "7A10B47E1937E59E"
+					item: {
+						count: 1
+						id: "tfmg:magnet"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "30249016F34C2D82"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "57BA11B6F5D405A3"
 				item: { count: 1, id: "tfmg:voltmeter" }
@@ -434,6 +577,12 @@
 				"6AB7E657BC595990"
 			]
 			id: "7C7116EE1730CD76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CB997B6BF6F5861"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "030B8DCC2BD98AF1"
 				item: { count: 1, id: "tfmg:resistor" }
@@ -446,6 +595,12 @@
 		{
 			dependencies: ["7C7116EE1730CD76"]
 			id: "497FEC9F77758360"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C55F035C879051B"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2F8E30A0F3DD4D33"
 				item: { count: 1, id: "tfmg:polarizer" }
@@ -457,6 +612,12 @@
 		{
 			dependencies: ["497FEC9F77758360"]
 			id: "7219DF4483631172"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0112EBF8B71C11CE"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "79ECBA4AF44FECF7"
 				item: { count: 1, id: "tfmg:capacitor_item" }
@@ -468,6 +629,12 @@
 		{
 			dependencies: ["6AB7E657BC595990"]
 			id: "29483077706C950D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "323C014E9E5FC9AC"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6974D1C7495BE834"
 				item: { count: 1, id: "tfmg:potentiometer" }
@@ -479,6 +646,12 @@
 		{
 			dependencies: ["31BFEFA5171E7989"]
 			id: "4F73E0075578C020"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58D290E76D79FD74"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "4B4536F5A0DEDB4C"
 				item: { count: 1, id: "tfmg:multimeter" }
@@ -490,11 +663,19 @@
 		{
 			dependencies: ["0BDD5FF0619BABFC"]
 			id: "430ADFBEE8AF5BEB"
-			rewards: [{
-				id: "104FEF354A2B1037"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "104FEF354A2B1037"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34B3D47D2DED7423"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "642B31A7A413D4FE"
 				item: { count: 1, id: "tfmg:simple_large_engine" }
@@ -507,11 +688,19 @@
 			dependencies: ["3216872E42596098"]
 			hide_dependency_lines: true
 			id: "057CF71F9892DEB8"
-			rewards: [{
-				id: "21105B69E6FAFCE6"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "21105B69E6FAFCE6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16CB11C4DB5DF5DD"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "2625685726A7B04B"
 				item: { count: 1, id: "tfmg:large_engine" }
@@ -524,6 +713,12 @@
 			dependencies: ["430ADFBEE8AF5BEB"]
 			id: "0777F9E957FFA288"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "562A687C6C036352"
+				table_id: 4104356077913767849L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "75211D7C863C45EB"
 				item: { count: 1, id: "tfmg:oil_can" }
@@ -535,11 +730,19 @@
 		{
 			dependencies: ["3216872E42596098"]
 			id: "64C739DB44826F41"
-			rewards: [{
-				id: "1F48BDA2433B4020"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "1F48BDA2433B4020"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "294B0C207245CA68"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "0E6DD4B55CFDE2D4"
 				item: { count: 1, id: "tfmg:turbo" }
@@ -552,11 +755,19 @@
 			dependencies: ["31BFEFA5171E7989"]
 			id: "493E567442B46F6D"
 			optional: true
-			rewards: [{
-				id: "13E5B81F3647E2F8"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "13E5B81F3647E2F8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "448C09155749C700"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "2DC6E9E0A81DBA83"
 				item: { count: 1, id: "tfmg:engine_controller" }
@@ -568,11 +779,19 @@
 		{
 			dependencies: ["493E567442B46F6D"]
 			id: "64D6F2B11419A01A"
-			rewards: [{
-				id: "17A57A4961891767"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "17A57A4961891767"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29A8AB34AF9EA194"
+					table_id: 4104356077913767849L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "3DB0241255AC49F7"
 				item: { count: 1, id: "tfmg:transmission" }

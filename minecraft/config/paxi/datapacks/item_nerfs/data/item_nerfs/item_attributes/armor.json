@@ -1,0 +1,194 @@
+{
+  "iceandfire:dragonsteel_fire_helmet": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_chestplate": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 11.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_leggings": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 9.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_fire_boots": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+   "iceandfire:dragonsteel_ice_helmet": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_chestplate": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 11.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_leggings": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 9.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_ice_boots": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+   "iceandfire:dragonsteel_lightning_helmet": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_chestplate": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 11.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_leggings": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 9.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_boots": {
+    "attributes": [
+      {
+        "attribute": "minecraft:generic.armor",
+        "action": "modify",
+        "amount": 6.0,
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "action": "modify",
+        "amount": 5.0,
+        "operation": "add_value"
+      }
+    ]
+  },
+}

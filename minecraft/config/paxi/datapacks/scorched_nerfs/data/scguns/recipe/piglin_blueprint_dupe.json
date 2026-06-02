@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:gold_idol"
+    },
+    "Z": {
+      "item": "alexscaves:tectonic_shard"
+    },
+        "X": {
+      "item": "tfmg:industrial_aluminum_casing"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:piglin_blueprint"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "scguns:blueprint_scrap"
+    },
+    "Q": {
+      "item": "scguns:leviathan_tooth"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    },
+        "X": {
+      "item": "betternether:nether_ruby"
+    }
+  },
+  "pattern": [
+    "HZH",
+    "XQX",
+    "HZH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:ocean_blueprint"
+  }
+}
