@@ -832,8 +832,8 @@ hash = "070a7efd1fb2d7b55193bccc4d47229a6f9d0ffb29cc4eb25867901c348c660b"
 metafile = true
 
 [[files]]
-file = "mods/cbcms.pw.toml"
-hash = "843b549d92140a686842082216a8c43fcd04e8931aba7db18b796d051d20ac9f"
+file = "mods/cbc-neo-warfare.pw.toml"
+hash = "5c7b17dd5ce92c0e9f2915d8ec6692385db832000b078ac2fbacd012db425a6a"
 metafile = true
 
 [[files]]
@@ -1257,6 +1257,11 @@ hash = "26199bb49d66ce4d395fefdd78643bd2b08628c02394c030f413d51ab61e4bb5"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "28ac34eafc267a4bde8c694bc23c66f0aa0837156bd808ee41023a63bdc68488"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "e1093a807748ed92a03c7586161d3d25fdfdf9137cb55082021b88302fd54175"
 metafile = true
@@ -1548,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "10bdb28c3fa03cccc6a22a99ad3b6f56c425dfa7f56e40d04f91044f55e978d9"
+hash = "eb14346bc881911e16a2a176d02d07a82fd27555b58065769e16b1da7a3c4093"
 metafile = true
 
 [[files]]
@@ -1569,6 +1574,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
@@ -1594,6 +1604,11 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "fd9c81370bfa4da9d2c131edb71bdbe2b21e51e32c0bdad00947d35c768ffba1"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "13481133d139f134bd3407983e29f86df835ff66bacb013d9d43e14f155241f4"
 metafile = true
 
 [[files]]
@@ -1667,6 +1682,11 @@ hash = "58db2c473c789bf8239ee663c12c981153b3cefab82552e000feca77d374ab99"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "c4e8e777e3f4196878b99575cffa838fd56fbc23b87326d5d7952af7f969f4ee"
 metafile = true
@@ -1694,6 +1714,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "c4e4b46daaddd1ea797eb31bd788cd4e0a254ff783ce7ae87a7c16953a5aeee5"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
