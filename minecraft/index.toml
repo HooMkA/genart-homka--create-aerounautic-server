@@ -1277,6 +1277,11 @@ hash = "3b469f55b2769e95a0cf16a26c5f92b30e35879bb9a0dec602717e43214c32bc"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
+metafile = true
+
+[[files]]
 file = "mods/extra-gauges.pw.toml"
 hash = "5588f2c7f1bb62613ac203347a770b79084c4f00f77656134f846238b9971b8d"
 metafile = true
