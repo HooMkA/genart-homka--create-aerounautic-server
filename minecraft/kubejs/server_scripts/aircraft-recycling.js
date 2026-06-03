@@ -3,15 +3,6 @@ ServerEvents.recipes(event => {
     [
       'immersive_aircraft:industrial_gears'
     ],
-    'immersive_aircraft:quadrocopter'
-  )
-})
-
-ServerEvents.recipes(event => {
-  event.recipes.create.milling(
-    [
-      'immersive_aircraft:industrial_gears'
-    ],
     'immersive_aircraft:gyrodyne'
   )
 })

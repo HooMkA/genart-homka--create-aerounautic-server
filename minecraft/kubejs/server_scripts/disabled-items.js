@@ -1,7 +1,7 @@
 //Boats
-ServerEvents.recipes(event => {
+/*ServerEvents.recipes(event => {
     event.remove({ output: '#minecraft:boats' })
-})
+})*/
 const Boat = Java.loadClass('net.minecraft.world.entity.vehicle.Boat')
 ItemEvents.entityInteracted(event => {
     if (event.target instanceof Boat) {
@@ -30,6 +30,23 @@ ItemEvents.entityInteracted(event => {
         event.cancel()
     }
 })
+ServerEvents.recipes(event => {
+  event.shaped(
+    Item.of('immersive_aircraft:quadrocopter', 1),
+    [
+      'ABA',
+      ' C ',
+      'ADA'
+    ],
+    {
+      A: 'create:propeller',
+      B: 'simulated:red_portable_engine',
+      C: 'minecraft:oak_planks',
+      D: 'create:copper_casing'
+    }
+  )
+})
+
 //Charcoal
 ServerEvents.recipes(event => {
     
@@ -94,7 +111,7 @@ ServerEvents.recipes(event => {
 //Saplings
 LootJS.modifiers((event) => {
     event.addBlockModifier('#minecraft:leaves')
-        .randomChance(0.95)
+        .randomChance(0.9)
         .removeLoot('#minecraft:saplings');
 });
 //Resorces Mob Drop

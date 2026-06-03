@@ -78,7 +78,7 @@ hash = "4bf246571549580c3f81bf591455b1ef346f05567c6d5c588a2061ac4cf5fbc8"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "c1dff20252e7a8f0733d098ba189c17596a347c2509718279826882c66043ccf"
+hash = "ff55f469047322829eacef099cf68113ec2da9ea88b7ba630e39902bfa739823"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -8581,14 +8581,6 @@ file = "config/yosbr/config/fml.toml"
 hash = "aa085dda6472dc7e72a22ad49027095192d107d0032024d7215902285b988cfd"
 
 [[files]]
-file = "config/yosbr/config/iceandfire/iaf-client.json"
-hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
-
-[[files]]
-file = "config/yosbr/config/iceandfire/iaf-common.json"
-hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
-
-[[files]]
 file = "config/yosbr/config/voxyserver.json"
 hash = "1893d242965f32cbf1d8933537fdea24274d3bf36ef52b5904bf2b3aea93e236"
 
@@ -8603,6 +8595,18 @@ hash = "d2d5dd65a40adbc0d2368bf7f3caea2710d3befb572f99871b781d940aa06156"
 [[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/aeronautics_modpack/textures/quests/ender_eye.png"
+hash = "4baa108f92aa928487e52cebc2170697233ac28532fe68f263d4064803c392b3"
+
+[[files]]
+file = "kubejs/assets/custom_items/textures/item/amethyst_catalyst.png"
+hash = "95b4045d7016d81dde4bcd74c70dbfcd2f0009fe767c9a2327fe8135f372b8c3"
+
+[[files]]
+file = "kubejs/assets/custom_items/textures/item/winner_token.png"
+hash = "302f6db9951f27f2c9098679820ff16d996994f1201d61e29ac8dfc24307772a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -8629,8 +8633,12 @@ file = "kubejs/config/web_server.json"
 hash = "780fc78b264be69a27114b0168c6522b86ccd3a280ff8668de8a4cd67a26fba4"
 
 [[files]]
+file = "kubejs/data/scguns/point_of_interest_type/gun_bench.json"
+hash = "de7b99f1f1cdb417601d92db7839a48d375f0bcd1c2dafe61e655c6366ceb1fa"
+
+[[files]]
 file = "kubejs/server_scripts/aircraft-recycling.js"
-hash = "8be55eb64505b1417d7f43aadfb9a81aa19e0270540cd18d4d5545acb8fd1e4e"
+hash = "ec7edbf45e14ee344625597846d75f0ab1b6a2a87e0d9f3c67c570c29a6d8e23"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/mechanical_crafting_immersive_aircraft_industrial_gears.js"
@@ -8639,6 +8647,26 @@ hash = "80adfcd0a108ba756af33df636b74c1aa8dfd227881a7743b70e794932eba0fb"
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/mechanical_crafting_tfmg_radial_engine.js"
 hash = "6a2d9199404f3180e7041350b8f87952484594b059b6ef7f861ebf88afc9402a"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/milling_immersive_aircraft_industrial_gears.js"
+hash = "5790056427566ebccd0b8e7d08b382408efbfee23414dcd4db0a912c374eb47c"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/mixing_scguns_scorched_ingot.js"
+hash = "feddce6a687732e32db648781ef1eb4bcfd3bb5d700ffccd0e4cb1f26d089e30"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_cataclysm_abyssal_sacrifice.js"
+hash = "fe835c20d7bad15194d23add9604b689737751d27427290aa1e5005e6c9945b8"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_clavis_lock_pick.js"
+hash = "1f79a54cc2d2ff6da33f06abda8779dfbe8806b29abdb079f03e47994c19198d"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_create_cart_assembler.js"
+hash = "dce1e37b8f0509e7ef1851da761d2f9b5fc63dcecc783f385498bf1cd8505bcc"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/recipe_create_mechanical_crafter.js"
@@ -8661,12 +8689,44 @@ file = "kubejs/server_scripts/customrecipegui/generated/recipe_minecraft_ender_e
 hash = "18ddc881d4c807b3269ef8a8cefa2a32469dc233b7079c3b9f9d467aa2166fdf"
 
 [[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_scguns_antique_flare.js"
+hash = "442094b9e5d48caa7ab62dc1ade2832b7c0c495a29478a7f328165e36acb6eee"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_scguns_shulker_core.js"
+hash = "094102615f8397ec23948fee83b4a91205204fbb14fb189faa26a52eae6db14b"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_scguns_the_pact.js"
+hash = "73f1479a8f2b465bb3ed1731dfd09a33553749bc39cea680a24c887fcfd04b7a"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/recipe_sophisticatedbackpacks_backpack.js"
+hash = "3f20c57b61fa529ea2baf86c7ca94a4b9eade68c7be10f4308480a02280d91d8"
+
+[[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/recipe_tfmg_fireproof_bricks.js"
 hash = "d9dfa32479d08fe1be809a0648ade585a6f0d0d67642a8d6c30d5b796d332f43"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/recipe_tfmg_industrial_mixer.js"
 hash = "4321793c2cebc7653a239dce49e599d71c2b245aa97176639f54ed40b639e4a7"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_cataclysm_abyssal_sacrifice.js"
+hash = "c9e66cdc74a8b6233b8cebe5229ce5b83f9fa0fdfec9fc3b68e58b227e5a49ba"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_cataclysm_abyssal_sacrifice2.js"
+hash = "625e103ae9d2ed28fff62ed6055f91532775b06f788fd196c321f7f67b0fbece"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_clavis_lock_pick.js"
+hash = "f3f141dfb941509fd4c673e53a4560884fe7961804f7bd704b2a620afd373a79"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_crafting_kinetics_cart_assembler.js"
+hash = "3ab49b200bb5d72c29d267684733434fcffe2e78c98d58a010e5d7d710ee66d6"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_crafting_kinetics_mechanical_crafter.js"
@@ -8685,8 +8745,20 @@ file = "kubejs/server_scripts/customrecipegui/generated/remove_id_create_splashi
 hash = "d31d445f056ffdd9168b962dbebe1ff2f6db138c414ea712a09e9f29de375815"
 
 [[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_createbigcannons_mixing_alloy_steel.js"
+hash = "32d181fcd87992beb7c70ad213f0a6cf12ef813bc66f8d5e55c164679a5418f6"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_createpropulsion_mixing_turpentine.js"
+hash = "4f96e8133fc999e4c903dda56a0ef33762edc18b54983797e3ec1abb4fb9470d"
+
+[[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/remove_id_dndesires_seething_ender_eye_from_ender_pearl.js"
 hash = "a74d45cbde22abe1a72f3c7aa9d776e31c031523ff17f16e47973357a5230286"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_endermanoverhaul_ender_eye.js"
+hash = "74dd6163513e8ba54ebcbf5e44aa3b1218d193e1727319999c110bec0d7c8c36"
 
 [[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/remove_id_endrem_exotic_eye.js"
@@ -8729,6 +8801,22 @@ file = "kubejs/server_scripts/customrecipegui/generated/remove_id_minecraft_ende
 hash = "12ed1ec4fd0ad957325f1e58db8ab35562844f053a49f8d1c7b0cb56fe2ea97e"
 
 [[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_petrolsparts_crafting_pneumatic_tube.js"
+hash = "5c22bd20525130c643eddd35ace0729c3770519b31ad34c219a8bfab5f7873ea"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_petrolsparts_mechanical_crafting_hydraulic_transmission.js"
+hash = "b51bd0d0ed0d59437660de27e6db014f61a49e49cd2d119f1935f254ba0f9664"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_scguns_the_pact.js"
+hash = "a9a51bc00fe223d47b505cdf81ff5716ea328ad44afa63c32c651735a4777889"
+
+[[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_id_sophisticatedbackpacks_backpack.js"
+hash = "c1bc741aee30d15cc00ec612b4d854298fed34db673bffa0e3b35a6c0716b67e"
+
+[[files]]
 file = "kubejs/server_scripts/customrecipegui/generated/remove_id_tfmg_crafting_materials_fireproof_bricks.js"
 hash = "5d48b3e2b839236b5a8db561d3829dd7e54efc201669f5d09f3ab58fd27966fa"
 
@@ -8741,12 +8829,28 @@ file = "kubejs/server_scripts/customrecipegui/generated/remove_id_tfmg_crafting_
 hash = "f33f890b929c0ee26eade30568fe25f6623419fb6351f828b421273d63a00b4c"
 
 [[files]]
+file = "kubejs/server_scripts/customrecipegui/generated/remove_output_type_scguns_jetpack_module_minecraft_crafting.js"
+hash = "182745383e5e72c9eda43e11e1a8864ed1c0466b70a35e800a165569b7b6c135"
+
+[[files]]
 file = "kubejs/server_scripts/disabled-items.js"
-hash = "10bd0325b3cfb320257bd6ff8e0ed817713e480a6203d700efdecbd060af37da"
+hash = "d8fb73f36912e4d7b90380a7891d6aec609b9e7448719e796192f0706d424a48"
+
+[[files]]
+file = "kubejs/server_scripts/drill-breaking-bloks.js"
+hash = "8d35bf9bac116960657a5da942efe3dd53b6bc738950b80a3f180be4e335a8ba"
 
 [[files]]
 file = "kubejs/server_scripts/ender-eyes.js"
-hash = "32056bec0974c8e6f6c13b6e0c5a8ee13ccbdaa43fd1ff8480fc311b6cca50c6"
+hash = "bd2f004459f8caaad783fd3690a4e0a261c7abc613b74afd103808033e4bcced"
+
+[[files]]
+file = "kubejs/server_scripts/ender_eye_convert.js"
+hash = "bcd975707e44e8db1f4ba19998bdf542ee0ab203bab2935499ab4f78219c9549"
+
+[[files]]
+file = "kubejs/server_scripts/gunsmith-disable.js"
+hash = "5bea0eb1d7a7c17a58846ba88e51af2c100c9911a230bf4192b42bfb97932953"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -8755,6 +8859,10 @@ hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 [[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/nerfed-chest-loot.js"
+hash = "2e66cbb98f3d2ad905302a7f60bf9f333dca6041e7dd012fab1b8833e3866582"
 
 [[files]]
 file = "kubejs/server_scripts/no-player-damage.js"
@@ -8769,6 +8877,10 @@ file = "kubejs/server_scripts/skyorigins_bed_rules.js"
 hash = "3105377acd924d68fc423cecc052f414d682cc608da784f6409f70f3885a2384"
 
 [[files]]
+file = "kubejs/server_scripts/unmovable-blocks.js"
+hash = "a3518579fabd73d9c1ddb8697168e192ad2031d6e300d52ad8ee7c5a138f538d"
+
+[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
@@ -8779,6 +8891,10 @@ hash = "fa079b52d76ad0c832acd077b8b1e218b813606c968a789d6bf8f6d0f5287f83"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/thallasium-is-unbreakable.js"
+hash = "967c92b2899986c2e6827c5a096e6685acfac1efeab67d22aff8a6f7e0d9901e"
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -8851,11 +8967,6 @@ hash = "6f32f98b4f5e4fdd109da4540a4b8cbef634a93a7522994e026f1e18e05ae31f"
 metafile = true
 
 [[files]]
-file = "mods/atmospheric.pw.toml"
-hash = "41296ab09ccddfec95106af7c5983addfa3f6dcf598b3511dd0f9b991eed57b2"
-metafile = true
-
-[[files]]
 file = "mods/attribute-modify.pw.toml"
 hash = "1b1cf6ac1887a6a5dfffc0647274f736ccb9b5c2173b174d43b86c2f7a7e9b70"
 metafile = true
@@ -8863,11 +8974,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "93cae8f4a23a8bae9de5316928eaebe7de3b0bb315abde11708c39479cc4cbd2"
-metafile = true
-
-[[files]]
-file = "mods/autumnity.pw.toml"
-hash = "1e5b1f73ac794cf301ea08ae6ff90309431adfa2e890737293d567e55dead57c"
 metafile = true
 
 [[files]]
@@ -9246,11 +9352,6 @@ hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
-file = "mods/create-neapolitan.pw.toml"
-hash = "dd43a38a7a7c73276065891669778efe3dedad1ce35b3c0491731ca64127ea0e"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "e9f8c89c493897df0b68886441b3dda17f2ffcf242222e1baee18fc41a13f9bf"
 metafile = true
@@ -9336,11 +9437,6 @@ hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "f0e99d5c3df1dd230b70c72f2786c76131e5ef6246ff6773326ccb8c2712351c"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "720e50543dd984e96963e0c6a2629914da44fd76e659e316dad9206a8322d5ea"
 metafile = true
@@ -9406,11 +9502,6 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
-file = "mods/enderman-overhaul.pw.toml"
-hash = "26199bb49d66ce4d395fefdd78643bd2b08628c02394c030f413d51ab61e4bb5"
-metafile = true
-
-[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "28ac34eafc267a4bde8c694bc23c66f0aa0837156bd808ee41023a63bdc68488"
 metafile = true
@@ -9433,11 +9524,6 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "3b469f55b2769e95a0cf16a26c5f92b30e35879bb9a0dec602717e43214c32bc"
-metafile = true
-
-[[files]]
-file = "mods/escalated.pw.toml"
-hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
 metafile = true
 
 [[files]]
@@ -9477,7 +9563,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura-pached.pw.toml"
-hash = "af78a4dafdf9c6a30180a885edec8607c6abb67fbf00520878ff15a1498ec846"
+hash = "f5bd39f9a4146f6e77b8463468a04a77e42bea8508690834f2580d300e28947d"
 metafile = true
 
 [[files]]
@@ -9578,11 +9664,6 @@ metafile = true
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "0ecd53c9b7e7bbdc8a551b17e4be08ff470930429d3422836162fec744af0d11"
-metafile = true
-
-[[files]]
-file = "mods/hypertube.pw.toml"
-hash = "8ec1427ff99096417f89e28304cebdb5aecf804b84cac6daecf2136bec0c5045"
 metafile = true
 
 [[files]]
@@ -9838,11 +9919,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "c4e8e777e3f4196878b99575cffa838fd56fbc23b87326d5d7952af7f969f4ee"
-metafile = true
-
-[[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "c7633d6f9d8e239ebb67398c5211983f4037043d0639b3a1522379ab560f2ca0"
 metafile = true
 
 [[files]]
@@ -10171,11 +10247,6 @@ hash = "4eb11828f5ba66e90adcabd3690c2d4788b0e570d9dc03fd544e91168799bb24"
 metafile = true
 
 [[files]]
-file = "mods/terrabnormals.pw.toml"
-hash = "67099ec62d63d744875ddf5593c41ddf724f40602bf5ed4c3656edb07c983fe9"
-metafile = true
-
-[[files]]
 file = "mods/terralith-restoned.pw.toml"
 hash = "7695e2dfb6d2be1ff86d703932eeeadfbcba7c771d682be6fc77162d01dc2b07"
 metafile = true
@@ -10218,11 +10289,6 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "bc2f6e4d3879e5ce33b78bdeb3c313685a3eabb3c5fdaa3b85fc942f9a3082e9"
-metafile = true
-
-[[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "e3f16f76fc36d3fa9207d52e651c7520b5ab5ed135cc6cfdc7c6e2231e1cdd9d"
 metafile = true
 
 [[files]]

@@ -171,7 +171,7 @@ event.shaped(
     {
       A: '#iceandfire:scales/dragon',
       B: 'minecraft:ender_eye',
-      C: 'createfood:ice_cream_sandwich_neapolitan',
+      C: 'born_in_chaos_v1:dark_upgrade',
       D: 'create:powdered_obsidian',
       E: 'neapolitan:adzuki_ice_cream',
       F: 'neapolitan:neapolitan_ice_cream'
