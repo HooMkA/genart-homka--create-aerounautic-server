@@ -1,23 +1,44 @@
-// SkyOrigins bed height rules for KubeJS 1.21.1
-// Put this file in: kubejs/server_scripts/skyorigins_bed_rules.js
-//
-// NeoOrigins prevent_action:sleep blocks sleeping, but in this pack some bed interactions can still set
-// the respawn point. This script cancels right-clicking beds while the originpack-maintained tag is present.
+// SkyOrigins bed rules
+// Blocks bed use when NeoOrigins powers mark the player with skyorigins_no_bed_spawn.
+// Used for:
+// - Avian: invalid bed below required height
+// - Dwarf: invalid bed above required height
 
 BlockEvents.rightClicked(event => {
   const player = event.player
-  if (!player) return
+  const block = event.block
 
-  const blockId = String(event.block.id)
-  if (!blockId.endsWith('_bed')) return
+  if (!player || !block) return
 
-  // NeoOrigins powers add/remove this vanilla entity tag once per second:
-  // - Avian below Y=110
-  // - Dwarf above Y=72
-  const tags = player.tags
-  const hasTag = tags && (tags.contains ? tags.contains('skyorigins_no_bed_spawn') : Array.from(tags).includes('skyorigins_no_bed_spawn'))
-  if (!hasTag) return
+  const id = String(block.id)
 
-  event.cancel()
-  player.tell('§cЭта раса не может использовать кровать на этой высоте. Точка возрождения не сохранена.')
+  const isBed =
+    id.endsWith('_bed') ||
+    id === 'minecraft:white_bed' ||
+    id === 'minecraft:orange_bed' ||
+    id === 'minecraft:magenta_bed' ||
+    id === 'minecraft:light_blue_bed' ||
+    id === 'minecraft:yellow_bed' ||
+    id === 'minecraft:lime_bed' ||
+    id === 'minecraft:pink_bed' ||
+    id === 'minecraft:gray_bed' ||
+    id === 'minecraft:light_gray_bed' ||
+    id === 'minecraft:cyan_bed' ||
+    id === 'minecraft:purple_bed' ||
+    id === 'minecraft:blue_bed' ||
+    id === 'minecraft:brown_bed' ||
+    id === 'minecraft:green_bed' ||
+    id === 'minecraft:red_bed' ||
+    id === 'minecraft:black_bed'
+
+  if (!isBed) return
+
+  if (player.tags.contains('skyorigins_no_bed_spawn')) {
+    event.cancel()
+
+    player.tell(
+      Text.of('Эта раса не может спать или сохранять точку возрождения на этой высоте.')
+        .red()
+    )
+  }
 })

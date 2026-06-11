@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
       C: 'alexscaves:polymer_plate',
       D: 'create:powdered_obsidian',
       E: 'alexscaves:nuclear_furnace_component',
-      F: 'alexscaves:nuclear_bomb'
+      F: 'alexscaves:fissile_core'
     }
   )
   event.shaped(
@@ -173,8 +173,8 @@ event.shaped(
       B: 'minecraft:ender_eye',
       C: 'born_in_chaos_v1:dark_upgrade',
       D: 'create:powdered_obsidian',
-      E: 'neapolitan:adzuki_ice_cream',
-      F: 'neapolitan:neapolitan_ice_cream'
+      E: 'born_in_chaos_v1:mint_ice_cream',
+      F: 'iceandfire:summoning_crystal_ice'
     }
   )
 event.shaped(

@@ -7,9 +7,9 @@
   "powers": [
     "neoorigins:avian_slow_fall",
     "neoorigins:avian_no_hunger_sprint",
+    "neoorigins:avian_keen_sight",
     "neoorigins:avian_hollow_bones",
     "neoorigins:avian_feather_hop",
-    "skyorigins:avian_night_vision",
     "skyorigins:avian_low_altitude_discomfort",
     "skyorigins:avian_deep_discomfort",
     "skyorigins:avian_high_altitude_comfort",

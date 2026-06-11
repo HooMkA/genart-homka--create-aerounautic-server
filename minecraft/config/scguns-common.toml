@@ -69,7 +69,7 @@
 		#Global multiplier for mob gun damage after difficulty scaling.
 		# Default: 1.0
 		# Range: 0.01 ~ 100.0
-		mobGunDamageMultiplier = 1.5
+		mobGunDamageMultiplier = 0.9
 		#If true, allows flamethrowers to place fire on blocks
 		enableFirePlacement = true
 

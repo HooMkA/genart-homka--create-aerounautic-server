@@ -1,0 +1,13 @@
+name = "Dyeable Ropes for Create Aeronautics"
+filename = "dyeable_ropes-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26e0e4bdd18af5708adbde52e6443c1ebf28201d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8194647
+project-id = 1542130

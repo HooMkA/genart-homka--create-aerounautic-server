@@ -1,12 +1,12 @@
-name = "Aerial Create Guns 'n Dragons (Light)"
+name = "Aerial Create Guns 'n Dragons"
 author = "GeniusArt, HooMkA, nei3vst4n"
-version = "0.8.3a"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "86d40c66b55641f1010f090ab88559690d420d5c983163841d505860fcaffae2"
+hash = "5ef152e060ec2bbc9cd25e949d981a8be660bbbc4b6c6f2bd60ec09aaeedf450"
 
 [versions]
 minecraft = "1.21.1"

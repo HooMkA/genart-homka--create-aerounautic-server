@@ -109,11 +109,11 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'create_sa:netherite_jetpack_chestplate' });
 });
 //Saplings
-LootJS.modifiers((event) => {
-    event.addBlockModifier('#minecraft:leaves')
-        .randomChance(0.9)
-        .removeLoot('#minecraft:saplings');
-});
+//LootJS.modifiers((event) => {
+//    event.addBlockModifier('#minecraft:leaves')
+//        .randomChance(0.9)
+//        .removeLoot('#minecraft:saplings');
+//});
 //Resorces Mob Drop
 LootJS.modifiers((event) => {
     event.addEntityModifier('minecraft:iron_golem')

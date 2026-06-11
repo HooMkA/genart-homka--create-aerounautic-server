@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:persistent_effect",
+  "effect": "minecraft:night_vision",
+  "amplifier": 0,
+  "toggleable": false,
+  "show_icon": false,
+  "show_particles": false,
+  "name": {
+    "text": "Ночное зрение"
+  },
+  "description": {
+    "text": "Авиан хорошо видит в темноте."
+  }
+}

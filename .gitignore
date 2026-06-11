@@ -5,6 +5,9 @@ A8BFB080B3B0BBBAB0D0D020Markdown.md
 # уберём из прода рельный caddy
 Caddyfile
 
+# уберу лайт сборку из гита
+light-minecraft
+
 # тут будут тяжёлые архивы, не хочу это лить на гитхаб
 extras/
 
