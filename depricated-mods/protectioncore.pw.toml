@@ -1,0 +1,8 @@
+name = "ProtectionCore"
+filename = "ProtectorMod-1.2.9-translated.jar"
+side = "both"
+
+[download]
+url = "http://pack.jolly-roger.digital/extras/mods/ProtectorMod-1.2.9-translated.jar"
+hash-format = "sha256"
+hash = "1b1f7c5ac7b19c4d451fb335209180069ce35274902cbd1e58cce6c0f35a9529"
