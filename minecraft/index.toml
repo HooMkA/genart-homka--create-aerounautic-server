@@ -345,6 +345,14 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/IntegratedCataclysm-x-VoxyFix/data/cataclysm/worldgen/processor_list/ancient_factory_processor.json"
+hash = "444a9039b854dd388559491ef2f9d97c1124ac4af7184206ea7e2e00e28e7125"
+
+[[files]]
+file = "config/paxi/datapacks/IntegratedCataclysm-x-VoxyFix/pack.mcmeta"
+hash = "0c151938ba96d60b9785c737332407f925d0331bb17414d08dee0e0ce20894da"
+
+[[files]]
 file = "config/paxi/datapacks/item_nerfs/data/item_nerfs/item_attributes/armor.json"
 hash = "ae38b61a109abc945bd312998d5aca884bac145bf38784b226c9d1bb25489820"
 

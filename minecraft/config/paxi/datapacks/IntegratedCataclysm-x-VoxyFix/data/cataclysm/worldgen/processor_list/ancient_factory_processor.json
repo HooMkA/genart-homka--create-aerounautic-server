@@ -1,0 +1,29 @@
+{
+  "processors": [
+    {
+      "processor_type": "integrated_api:tick_blocks_processor",
+      "blocks_to_tick": [
+        "minecraft:dispenser"
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "supplementaries:lumisene"
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:sea_lantern"
+          }
+        }
+      ]
+    }
+  ]
+}
