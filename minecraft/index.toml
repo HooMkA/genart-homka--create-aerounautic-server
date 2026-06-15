@@ -9502,7 +9502,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "930630c216e60e2f8798e33f2a0821d22a4a71ae79eedb42d9d67631ada6853c"
+hash = "12f5879d68b152c88d1afa566a3d02b56bba7d0aa52bfd8824f73b2ae9128c04"
 metafile = true
 
 [[files]]
@@ -9861,18 +9861,8 @@ hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "76515b2e0eea2984c3399db804e69b7c4a3b158a87fc0b760735123aa6571627"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "b7d8f24d7621dd2076c36e9a32838642ecb3cf79ba08ba299e782e765a0a0316"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "45461fde5ee56092759cd79499eca752de89f10353d21744e8efaf48a3ffb7ce"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
