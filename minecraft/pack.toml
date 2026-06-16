@@ -1,16 +1,16 @@
 name = "Aerial Create Guns 'n Dragons"
 author = "GeniusArt, HooMkA, nei3vst4n"
-version = "0.9.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2ec8af8459d6d08bad89a5609d75bf1b55ab879f0745e2d1102049ad280acfec"
+hash = "5e10f6aa27fe65422b7e6f637b833ce856b3233e3812ccc3534265f2b66ff3aa"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.230"
+neoforge = "21.1.233"
 
 [options]
 acceptable-game-versions = ["1.21.1"]

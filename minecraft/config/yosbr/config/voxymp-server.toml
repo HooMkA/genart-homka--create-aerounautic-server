@@ -1,0 +1,219 @@
+# ==========================================
+#  Voxymp Server Configuration
+# ==========================================
+
+# [general] applies live; other sections need a server restart.
+[general]
+	# send chunk data to clients (off = pause delivery, mod stays loaded)
+	chunkStreamingEnabled = true
+
+	# generate chunks for unexplored areas (off = serve explored terrain only)
+	generationEnabled = false
+
+	# max sync distance a client may request, chunks; rounded down to a multiple of 32 (32-256)
+	maxSyncDistanceChunks = 128
+
+	# min ms between a client's window updates
+	windowCooldownMillis = 3000
+
+[chunk-streaming]
+	# max 2x2 groups per response packet
+	maxGroupsPerResponse = 16
+
+	# max chunks per response packet
+	maxChunksPerResponse = 16
+
+	# queued chunks per player before new requests are dropped
+	maxQueuedChunksPerPlayer = 2048
+
+	# completed disk reads handled per tick
+	diskResultsDrainPerTick = 16
+
+	# completed generation results handled per tick
+	generationResultsDrainPerTick = 16
+
+	# scheduler time budget per tick, ns (5_000_000 = 5ms of a 50ms tick)
+	maxSchedulingNanosPerTick = 5000000
+
+[generation]
+	# radius (chunks) clients may auto-request generation in; server-set since it's expensive
+	autoGenerationRadiusChunks = 16
+
+	# max queued generation requests
+	generationMaxQueuedRequests = 1024
+
+	# max queued generation requests per player
+	generationMaxQueuedPerPlayer = 32
+
+	# max parallel generation tasks
+	generationMaxActiveRequests = 6
+
+	# max parallel generation tasks per player
+	generationMaxActivePerPlayer = 3
+
+	# max generation tasks started per tick
+	generationMaxStartsPerTick = 8
+
+	# max buffered completed results
+	generationMaxCompletedResults = 256
+
+	# per-task generation timeout, ms
+	generationTimeoutMillis = 45000
+
+	# generated snapshots kept in RAM (avoids regen while c2me flushes to disk)
+	generationSnapshotCacheSize = 4096
+
+	# how long a cached snapshot stays valid, ms
+	generationSnapshotCacheTtlMillis = 30000
+
+	# pause new generation while server MSPT exceeds this, ms (0 = off)
+	generationMsptThrottleThreshold = 40.0
+
+
+# --- Advanced: internal rate limits, threading and I/O. usually leave as-is. ---
+
+# tracks block changes in loaded chunks, bumps LOD versions
+[change-tracking]
+	# ticks between change flushes (20 = 1s)
+	changeFlushIntervalTicks = 20
+
+	# max chunks per flush
+	maxChangedChunksPerFlush = 128
+
+# scans loaded chunks to register existing terrain
+[presence]
+	# chunks scanned per tick across all players (rest carries over)
+	presenceMaxChunksPerTick = 512
+
+	# ticks between saving discovered pages
+	presenceSaveIntervalTicks = 100
+
+	# max pages saved per flush
+	presenceMaxSavePagesPerFlush = 128
+
+# shared outbound bandwidth budget (token bucket across all players)
+[bandwidth]
+	# target bytes/sec across all players (52428800 = 50 MB/s)
+	globalTargetBytesPerSecond = 52428800
+
+	# seconds of budget saved for bursts
+	globalBurstSeconds = 2
+
+	# min bytes per outgoing packet
+	minPacketBudgetBytes = 32768
+
+	# per-player send buffer cap, bytes (~1-2 MB; higher = more throughput but more RAM)
+	perPlayerBufferLimitBytes = 2097152
+
+# async pool for reading chunk data from the save
+[disk-io]
+	# max disk reads in flight
+	diskMaxInFlight = 128
+
+	# max disk reads per player
+	diskMaxInFlightPerPlayer = 64
+
+	# max buffered results before stalling
+	diskMaxCompletedResults = 256
+
+# chunk-version pages (32x32 chunks, ~4KB each)
+[page-store]
+	# max pages in RAM; extra are LRU-flushed to disk and reloaded on demand (0 = unlimited, 8192 ~= 33 MB)
+	maxResidentPages = 8192
+
+	# min idle ms before a page can be evicted
+	pageEvictionGraceMillis = 5000
+
+	# ticks between eviction checks
+	pageEvictionSweepIntervalTicks = 200
+
+# one-time scan of existing region files to seed the version map
+[map-prescan]
+	# pre-scan automatically when no voxymp data exists yet (old world, fresh install)
+	mapPreScanAutoRun = true
+
+	# region files per batch
+	mapPreScanRegionsPerBatch = 256
+
+	# sleep between batches, ms
+	mapPreScanBatchSleepMillis = 2
+
+# blocks/transitions ignored when hashing a chunk, so cosmetic changes (grass, vines) don't bump versions
+[noise]
+	# blocks to ignore
+	noiseEndpointBlocks = [
+		"minecraft:vine",
+		"minecraft:cave_vines",
+		"minecraft:cave_vines_plant",
+		"minecraft:twisting_vines",
+		"minecraft:twisting_vines_plant",
+		"minecraft:weeping_vines",
+		"minecraft:weeping_vines_plant",
+		"minecraft:glow_lichen",
+		"minecraft:short_grass",
+		"minecraft:tall_grass",
+		"minecraft:fern",
+		"minecraft:large_fern",
+		"minecraft:dead_bush",
+		"minecraft:bush",
+		"minecraft:firefly_bush",
+		"minecraft:leaf_litter",
+		"minecraft:wildflowers",
+		"minecraft:seagrass",
+		"minecraft:tall_seagrass",
+		"minecraft:kelp",
+		"minecraft:kelp_plant",
+		"minecraft:bamboo",
+		"minecraft:bamboo_sapling",
+		"minecraft:small_amethyst_bud",
+		"minecraft:medium_amethyst_bud",
+		"minecraft:large_amethyst_bud",
+		"minecraft:amethyst_cluster",
+		"minecraft:redstone_wire",
+		"minecraft:sugar_cane",
+		"minecraft:cocoa",
+		"minecraft:bubble_column",
+		"minecraft:tripwire",
+		"minecraft:tripwire_hook",
+		"minecraft:lever",
+		"minecraft:big_dripleaf",
+		"minecraft:big_dripleaf_stem"
+	]
+
+	# block tags to ignore
+	noiseEndpointTags = [
+		"minecraft:leaves",
+		"minecraft:doors",
+		"minecraft:trapdoors",
+		"minecraft:fence_gates",
+		"minecraft:buttons",
+		"minecraft:bamboo_blocks"
+	]
+
+	# "old -> new" transitions to ignore
+	ignoredTransitions = [
+		"minecraft:air -> minecraft:water",
+		"minecraft:air -> minecraft:lava",
+		"minecraft:water -> minecraft:bubble_column",
+		"minecraft:grass_block -> minecraft:dirt",
+		"minecraft:dirt -> minecraft:grass_block",
+		"minecraft:short_grass -> minecraft:water",
+		"minecraft:lava -> minecraft:obsidian",
+		"minecraft:gravel -> minecraft:air",
+		"minecraft:cave_air -> minecraft:water",
+		"minecraft:air -> minecraft:gravel",
+		"minecraft:water -> minecraft:water",
+		"minecraft:water -> minecraft:stone",
+		"minecraft:water -> minecraft:kelp",
+		"minecraft:sand -> minecraft:air",
+		"minecraft:red_mushroom -> minecraft:air",
+		"minecraft:brown_mushroom -> minecraft:air",
+		"minecraft:water -> minecraft:sand",
+		"minecraft:deepslate_redstone_ore -> minecraft:deepslate_redstone_ore",
+		"minecraft:lava -> minecraft:cobblestone",
+		"minecraft:water -> minecraft:gravel",
+		"minecraft:tall_grass -> minecraft:water",
+		"minecraft:lava -> minecraft:lava",
+		"minecraft:fire -> minecraft:fire",
+		"minecraft:bee_nest -> minecraft:bee_nest"
+	]
