@@ -325,6 +325,14 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/IntegratedCataclysm-x-VoxyFix/data/cataclysm/worldgen/processor_list/ancient_factory_processor.json"
+hash = "444a9039b854dd388559491ef2f9d97c1124ac4af7184206ea7e2e00e28e7125"
+
+[[files]]
+file = "config/paxi/datapacks/IntegratedCataclysm-x-VoxyFix/pack.mcmeta"
+hash = "0c151938ba96d60b9785c737332407f925d0331bb17414d08dee0e0ce20894da"
+
+[[files]]
 file = "config/paxi/datapacks/item_nerfs/data/item_nerfs/item_attributes/armor.json"
 hash = "ae38b61a109abc945bd312998d5aca884bac145bf38784b226c9d1bb25489820"
 
@@ -8473,6 +8481,10 @@ file = "config/yosbr/options.txt"
 hash = "3b3e7d6956226a1ec5790b5f9f8f4e95e049379425902e30623814492c37c985"
 
 [[files]]
+file = "config/yosbr/supplementaries-common.toml"
+hash = "21f7f43732142c9798f70f62849b6e8b1fd9d074564940430c49062e116951dd"
+
+[[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
@@ -8885,6 +8897,11 @@ hash = "40e017efc4a3f91ddf8c92ac5638bf5311b03d20e339226e0ee0f28466b5e603"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
+hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -8965,6 +8982,11 @@ hash = "fe3d47f3bd980ffb75f30269c8e4d6db4493232520b5c71908b1658ba18c793a"
 metafile = true
 
 [[files]]
+file = "mods/create-grappling-hooks.pw.toml"
+hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
+metafile = true
+
+[[files]]
 file = "mods/create-harmonics.pw.toml"
 hash = "251a4c56424c232d478f24f7fe2a01b8ff693eef312e8a8f3237fa8a87084f10"
 metafile = true
@@ -9017,6 +9039,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "132642c5f3ec9c7c3206d4621d62162c594031b13ece21bcc9c734398db31e5d"
+metafile = true
+
+[[files]]
+file = "mods/create-rail-grinding.pw.toml"
+hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
 metafile = true
 
 [[files]]
