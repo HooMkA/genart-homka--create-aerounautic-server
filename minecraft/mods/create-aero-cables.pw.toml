@@ -3,11 +3,11 @@ filename = "aerocables-0.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d780ebd9bfff5902d8f237c6ac08d4d8904163f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AHTfty0S/versions/8TmD04yf/aerocables-0.3.0.jar"
+hash-format = "sha512"
+hash = "4c47404b5e2bf17a0f44b52f2b00a836281a51bbb91d03968af3c0a2f018150f1eef4490d7cdf86069c9f5a5b175ee8af25e10c0f2d3455a24541dd8a070afc5"
 
 [update]
-[update.curseforge]
-file-id = 8100325
-project-id = 1529733
+[update.modrinth]
+mod-id = "AHTfty0S"
+version = "8TmD04yf"

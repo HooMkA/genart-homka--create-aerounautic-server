@@ -8857,7 +8857,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aero-cables.pw.toml"
-hash = "87720a26593dfa7381f761a407d75e7efde1bbf9e90ee1eadd7765f2e13c159d"
+hash = "532fd10b16dc6962f4f9e7f102fbae6628207d42680ff5149ccccf3a8180f4dc"
 metafile = true
 
 [[files]]
@@ -9011,11 +9011,6 @@ hash = "a9b61f02176f8e0e1da5354fba2e17228b4f2d622d0f23faf195785af3fda018"
 metafile = true
 
 [[files]]
-file = "mods/create-kinetic-grip.pw.toml"
-hash = "c0088afb565f42dd962c4d76a2a6fd1de13733da9d96c91113634220ab9a1efc"
-metafile = true
-
-[[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "56954613096032cd272743122888506895a283615b82e22135e8f9608332c080"
 metafile = true
@@ -9052,7 +9047,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "132642c5f3ec9c7c3206d4621d62162c594031b13ece21bcc9c734398db31e5d"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
@@ -9373,11 +9368,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "e1e6107f1e173c4f1ed85c7168fc78c86eadda2df5008c2bcd5ca6e8757c2b4f"
-metafile = true
-
-[[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "e4d63300d9fdf653fe7eb135a52755680d00566ef5b4628c3c03db949fdb7fcb"
 metafile = true
 
 [[files]]
