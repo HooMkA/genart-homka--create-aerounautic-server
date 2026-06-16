@@ -1,0 +1,13 @@
+name = "Voxy Multiplayer"
+filename = "voxymp-0.7.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://pack.jolly-roger.digital/extras/mods/voxymp-0.7.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "f4d718aa1da48e4b2a9780a2d78c44955b20a31e47c2cda3c9ee689a4329d2c7"
+
+[option]
+optional = true
+default = true
+description = "Поддержка загрузки лодов для Voxy с сервера. \n\n Если играете с с Voxy - ставьте."

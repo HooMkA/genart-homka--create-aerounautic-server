@@ -10000,6 +10000,16 @@ hash = "e5738f3dfcfccf5fa2289190d0963381532864cf7183fb2ed2caa6d657d335b1"
 metafile = true
 
 [[files]]
+file = "mods/voxy-multiplayer.pw.toml"
+hash = "cfd4c91665ffb7b4a6c4476f3569968eaae522fab50561a476ce074ae40f7a51"
+metafile = true
+
+[[files]]
+file = "mods/voxy-sodium-0-8.pw.toml"
+hash = "777fd0375d94852b1e8d928fc57edd4226e85bc72ac5d80f9bce2695ee4507b3"
+metafile = true
+
+[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "c3c017673463b8f0826966d657956821df911dd46964bd2ad062e00fad6e5028"
 metafile = true

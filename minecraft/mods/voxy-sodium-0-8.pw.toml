@@ -1,0 +1,13 @@
+name = "Voxy Sodium 0.8"
+filename = "voxy-0.2.15-beta-836814efe75ca090fdba08c818c2a178a6f2fb11.jar"
+side = "client"
+
+[download]
+url = "https://pack.jolly-roger.digital/extras/mods/voxy-0.2.15-beta-836814efe75ca090fdba08c818c2a178a6f2fb11.jar"
+hash-format = "sha256"
+hash = "bcf8016c792863c6fb489b6f5538576aff8dc3d3ea6b3eac5a0a0d00cb441a34"
+
+[option]
+optional = true
+default = true
+description = "Высокая дальность прорисовки. Советую ставить \n Работает на видяхе хорошо оптимизирован \n\n Альтернативно если поставите Distant Horizons снимите галочку здесь и с Voxy Multiplayer"
