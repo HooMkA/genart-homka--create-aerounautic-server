@@ -8775,11 +8775,6 @@ hash = "592f8b93dd46bd16e154fe149af1e26465104e070863e4748f5fe439fc365d2e"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "316e0ca16c813dc77d5252c8609e6405762f5ed47cce02e0c5dabe664b228bae"
-metafile = true
-
-[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "4655629be39c6b0f0a9dd1480d9e1a1b7dc67b4d937c4438c5d91f7ca36e4eb2"
 metafile = true
@@ -9450,11 +9445,6 @@ hash = "32732aff85e0d2f200d674cf4b36f31456608c2c3d40852f6639aa8d9a6271ff"
 metafile = true
 
 [[files]]
-file = "mods/just-player-heads.pw.toml"
-hash = "69e189378b597c6c3cfa14ab4982e03e90deafea17cbba1dc534772f132acb8b"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "03e247b4aa046ab52334477b5dee86b7201ecb2dcf2a984de1b31084c83b4a2f"
 metafile = true
@@ -9566,7 +9556,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
 metafile = true
 
 [[files]]
@@ -9676,7 +9666,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "deb5e7d9b7480145f0ed27bd21e4a38b9310e58922556c10ea613c833ffb367b"
+hash = "ff0b2e2116e40733173c4e6654e838e196cd227f75533befd442b4e8c38b0c79"
 metafile = true
 
 [[files]]
@@ -9886,7 +9876,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3edbfd427996e6e9ce800a7cf8503de1790b7d6c068138ead492c4fd8b267acf"
+hash = "005494e0aa66f4ffb77a0193f22c0c21ee75e1a1274b19922b09ed767340f346"
 metafile = true
 
 [[files]]
