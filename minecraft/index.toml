@@ -9926,11 +9926,6 @@ hash = "e4ced1c70be45fd8e734418769c36f8af66b62d46c5171e931b7195cd84de434"
 metafile = true
 
 [[files]]
-file = "mods/synaxis.pw.toml"
-hash = "6e8765f9e36ce4a626716970b1a2a291296010310b16ed5320d05c21b4f12138"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "dd92e47a224710b5439e9b4d9891192d156ce031dc09872f4cfd1c85e1c4118d"
 metafile = true
