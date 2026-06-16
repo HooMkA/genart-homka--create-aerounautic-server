@@ -8441,6 +8441,10 @@ file = "config/yosbr/config/fml.toml"
 hash = "aa085dda6472dc7e72a22ad49027095192d107d0032024d7215902285b988cfd"
 
 [[files]]
+file = "config/yosbr/config/gravestone-server.toml"
+hash = "8463428918f381020f5735bd6b8b00bff0e316b7e48ca18782274fe8223c6b95"
+
+[[files]]
 file = "config/yosbr/config/iceandfire/iaf-client.json"
 hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
@@ -8469,6 +8473,10 @@ file = "config/yosbr/config/sophisticatedbackpacks-server.toml"
 hash = "27e3089ca2baccc1dfcbcc414a62732d275f9d1ed2e57330e43c0a48b84242ba"
 
 [[files]]
+file = "config/yosbr/config/supplementaries-common.toml"
+hash = "21f7f43732142c9798f70f62849b6e8b1fd9d074564940430c49062e116951dd"
+
+[[files]]
 file = "config/yosbr/config/voxy-config.json"
 hash = "6c887c4df534108adf54003d92aa29e66d1d9ef79cae0cdeae19bc7a2088ed9b"
 
@@ -8483,10 +8491,6 @@ hash = "1893d242965f32cbf1d8933537fdea24274d3bf36ef52b5904bf2b3aea93e236"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "3b3e7d6956226a1ec5790b5f9f8f4e95e049379425902e30623814492c37c985"
-
-[[files]]
-file = "config/yosbr/supplementaries-common.toml"
-hash = "21f7f43732142c9798f70f62849b6e8b1fd9d074564940430c49062e116951dd"
 
 [[files]]
 file = "defaultconfigs/biolith/general.json"
@@ -10151,24 +10155,12 @@ hash = "41f8c0822c6b2f6fd130ebac048881d3d4c4971713700be860b57f9d9c6a56ec"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v10.1.3.zip"
-hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
-
-[[files]]
-file = "shaderpacks/BSL_v10.1.3.zip.txt"
-hash = "5e06c870df439d1166743b6f60a6cb368371ec4194efde6eea3bd8af4ca3707b"
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
 hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "343e52652da56d8fa0728a9979b51bb2ec0492c735b0fdd9ea66543e1c756f9e"
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "e438c7b33c1bf2356dcb471d07895f9a075f128d483344f892412b9667dfa4df"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
 metafile = true
 
 [[files]]
@@ -10177,30 +10169,24 @@ hash = "7c0f054aa1af18a505d8c3747bac786245c1fe1412eb64e83c832971afcf80f6"
 metafile = true
 
 [[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "76c678ce2d09d603d0f80d7d9210c7da006878a14f6855d228a6021acdf0687d"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "283cb98138569f4c603a972ea74797e0f4a0a7cb24a06b8c381ec68b7f08fabe"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.3b.zip"
-hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
-
-[[files]]
-file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "74e6abac6b5a7295a666bbffd344b6e37a82f6d734db6f0e2050b972731453b6"
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "4c3fd031b857f4265eaed5717d1cf6baf60fb766b2cf7a9a8483f06b9b53084e"
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "9d611dca9d1af11a43d3bda6ef6d5ef7389b9184e62e82f1bcfe7aa4a9f68fbd"
 metafile = true
 
 [[files]]
-file = "shaderpacks/superDuperVanilla.zip"
-hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
-
-[[files]]
-file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "a937214d0db292922f7c9a3a247654bb6960bd02548f8f895d427eab04057977"
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
+metafile = true
 
 [[files]]
 file = "wover-generator.nbt"

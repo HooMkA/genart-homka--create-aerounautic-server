@@ -1,12 +1,12 @@
-name = "DEV! Aerial Create Guns 'n Dragons"
+name = "Aerial Create Guns 'n Dragons"
 author = "GeniusArt, HooMkA, nei3vst4n"
-version = "dev1.1.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d7b4ddfbd90256be5cc3b118852702741f718f37aff818797a33037afaa6ce8f"
+hash = "5e10f6aa27fe65422b7e6f637b833ce856b3233e3812ccc3534265f2b66ff3aa"
 
 [versions]
 minecraft = "1.21.1"

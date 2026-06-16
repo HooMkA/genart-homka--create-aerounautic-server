@@ -1,2 +1,0 @@
-#Sun May 17 09:56:37 MSK 2026
-BORDER_FOG=false
