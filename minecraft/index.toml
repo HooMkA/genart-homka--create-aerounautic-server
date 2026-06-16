@@ -8461,6 +8461,10 @@ file = "config/yosbr/config/voxy-config.json"
 hash = "6c887c4df534108adf54003d92aa29e66d1d9ef79cae0cdeae19bc7a2088ed9b"
 
 [[files]]
+file = "config/yosbr/config/voxymp-server.toml"
+hash = "859b1cd394e07bf0a66742641799e4b5baa9da3ab8a81960c26706795ba3a9fc"
+
+[[files]]
 file = "config/yosbr/config/voxyserver.json"
 hash = "1893d242965f32cbf1d8933537fdea24274d3bf36ef52b5904bf2b3aea93e236"
 
