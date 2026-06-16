@@ -8421,6 +8421,10 @@ file = "config/yosbr/config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
+file = "config/yosbr/config/carryon-common.toml"
+hash = "f83b9dbf8680053afeb18d595ae2f156375ca2ce0dd0d79dc55853484e5f4aed"
+
+[[files]]
 file = "config/yosbr/config/cataclysm-common.toml"
 hash = "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
 
@@ -8729,6 +8733,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "91439c2727184b1f69b59eae0c571875661ce6a19b33f176432923376d9141df"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
 metafile = true
 
 [[files]]
@@ -9183,7 +9197,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
+hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
 
 [[files]]
@@ -9818,7 +9832,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
+hash = "2b4fb5e3d16d30b59be78c4efc3dd7b7c3066e6486ef0c99fb32af510ffc308a"
 metafile = true
 
 [[files]]
@@ -9888,12 +9902,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b656cd4d01f562e4222b9e872770f9517d123d752019aa37946f3264163a6bcc"
+hash = "96bb7a10b70c0aff16d43b28a656c3336f416c6dfa6a22cdf5d3b478d514faf6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "57ca1699559cc3e23320e27b1cca02b5c3687bc7c6d4506cd663570971e60dfc"
+hash = "b539f1a863542708d95aeb8d80b7b81ec00ef98d8ee3c79371d0ff444b2485b7"
 metafile = true
 
 [[files]]
