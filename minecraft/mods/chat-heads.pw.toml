@@ -11,3 +11,9 @@ hash = "28b66b6027f9c2077d024a5650667798b281fee5bc0e3d4ce16c05e7b2f37483c046e0bd
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
 version = "tTKkTWZ7"
+
+[option]
+optional = true
+default = true
+description = "Головы в чате."
+

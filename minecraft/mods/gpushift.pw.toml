@@ -1,0 +1,17 @@
+name = "GpuShift"
+filename = "gpushift-universal-1.21.1-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BpmMSdoc/versions/HHZF3zHJ/gpushift-universal-1.21.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "62206cb54e905552dd9601f9cbdd8df49afe53b0035460ac9612b6a03ff9cedeb41c8bdc4c7beb6bf9eb4ef302f8d1fec2e86d6f3ab143dddabaf4e40b952209"
+
+[update]
+[update.modrinth]
+mod-id = "BpmMSdoc"
+version = "HHZF3zHJ"
+
+[option]
+optional = true
+description = "Оптимизоваловка но не глупая\n\nПерекладывает часть расчётов с проца на видяху. Мне помогло с увелечением фпс, но нужно много корячиться с конфигом и делать под себя"

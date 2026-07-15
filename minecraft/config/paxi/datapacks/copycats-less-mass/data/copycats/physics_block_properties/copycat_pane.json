@@ -1,0 +1,7 @@
+{
+  "selector": "copycats:copycat_pane",
+  "priority": 1105,
+  "properties": {
+    "sable:mass": 0.01
+  }
+}

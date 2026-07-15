@@ -1,0 +1,7 @@
+{
+    "selector": "copycats:wrapped_copycat",
+    "priority": 1105,
+    "properties": {
+        "sable:mass": 0.01
+    }
+}

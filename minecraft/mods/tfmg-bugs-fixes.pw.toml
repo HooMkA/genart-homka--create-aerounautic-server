@@ -1,0 +1,13 @@
+name = "TFMG: bugs fixes"
+filename = "tfmgfixfuel-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e84e0522056381e08aea4ec4ebcc5008bc1454e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8150307
+project-id = 1554836

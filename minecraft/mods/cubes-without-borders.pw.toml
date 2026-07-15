@@ -11,3 +11,8 @@ hash = "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4"
 [update.modrinth]
 mod-id = "ETlrkaYF"
 version = "epixUL1j"
+
+[option]
+optional = true
+default = true
+description = "В окне без рамки. Оставляйте\n\nЕсли вы на Линуксе, то наоборот, лучше отключить"

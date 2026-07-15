@@ -1,0 +1,7 @@
+{
+    "selector": "copycats:copycat_iron_trapdoor",
+    "priority": 1105,
+    "properties": {
+        "sable:mass": 0.12
+    }
+}

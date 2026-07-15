@@ -11,3 +11,8 @@ hash = "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4a
 [update.modrinth]
 mod-id = "PxQSWIcD"
 version = "XI0WLXdn"
+
+[option]
+optional = true
+default = false
+description = "Динамическое освещение просто. Вообще хзы что именно делает)"

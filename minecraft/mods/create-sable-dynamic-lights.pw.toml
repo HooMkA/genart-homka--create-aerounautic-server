@@ -11,3 +11,8 @@ hash = "3df01541b913b596d175f8504412ad64d0252d8551a8f68f5481e921365ce5e5e5285a1c
 [update.modrinth]
 mod-id = "eIsyUZG3"
 version = "sKw2ERw2"
+
+[option]
+optional = true
+default = false
+description = "Динамический свет на конструкциях Create и Aeronautics \nПрилично жрёт фпсов, так что на ваш выбо ставить или нет\n\nБез Sodium Dynamic Light не запустится!!!"

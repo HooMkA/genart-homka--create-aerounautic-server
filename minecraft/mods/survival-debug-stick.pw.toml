@@ -1,0 +1,13 @@
+name = "Survival Debug Stick"
+filename = "survival-debug-mod-1.2.2_1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9rVMDWPD/versions/gqTPrcxi/survival-debug-mod-1.2.2_1.21.jar"
+hash-format = "sha512"
+hash = "f4a7e9941cea6caf7c736ab6b2c1d90d6fae37179a800ebd3d2fc0bba68ca9189ac6ba4b48e73fd5cebbc01385b96206766cbf0295d43cbe910abfe1c324b63d"
+
+[update]
+[update.modrinth]
+mod-id = "9rVMDWPD"
+version = "gqTPrcxi"

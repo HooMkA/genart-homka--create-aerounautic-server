@@ -1,0 +1,13 @@
+name = "BlueMap Visability Toggle - Fabric"
+filename = "sovern-map-toggle-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rOEYrw0n/versions/YOPKkG7j/sovern-map-toggle-1.0.0.jar"
+hash-format = "sha512"
+hash = "11855dd2a8fc395e019e6d66e63877207c8e341f9802c795fee36caceb5f59f9cb38eb182fc6d56777d88c98e2ba2e242bf801c0249c14999669e12f6235bd1e"
+
+[update]
+[update.modrinth]
+mod-id = "rOEYrw0n"
+version = "YOPKkG7j"

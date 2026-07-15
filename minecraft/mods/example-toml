@@ -1,0 +1,4 @@
+[option]
+optional = true
+default = true
+description = "Тут описание. \nИ ещё после перехода на строку."

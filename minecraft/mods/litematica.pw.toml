@@ -11,3 +11,8 @@ hash = "0248b259fe9370fc848e1154fd8441014f99f44167c9261adcdef44ef75541e7"
 [update.modrinth]
 mod-id = "bEpr0Arc"
 version = "aEvrmYqW"
+
+[option]
+optional = true
+default = false
+description = "Ну тут и так ясно, Лайтматика она и есть лайтматика\nМожет кому нужна, хотя у нас и так есть схематики в криэйте"
